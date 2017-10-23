@@ -1,4 +1,5 @@
 2giga.link
+803mine.com
 aeon.pools.e-scavo.net.ar
 afminer.com
 anime.reactor.cc
@@ -62,6 +63,7 @@ moneropool.com
 oload.info
 p2p-multipool.greengaming.de
 podrltid.info
+pool.ar-net.info
 poolmining.org
 ppoi.org
 pr0gramm.com
@@ -75,6 +77,7 @@ supportxmr.com
 usxmrpool.com
 versiliaguide.com
 webmine.cz
+www.803mine.com
 xbasfbno.info
 xmr.nanopool.org
 xmr.pools.e-scavo.net.ar
