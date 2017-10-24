@@ -1,8 +1,7 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 23 Oct 2017 21:23
+# Last modified: 24 Oct 2017 18:25
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
-0.0.0.0 803mine.com
 0.0.0.0 aajychvi.bid
 0.0.0.0 aanvxbvkdxph.com
 0.0.0.0 aapxtnrhq.bid
@@ -378,7 +377,6 @@
 0.0.0.0 coinerra.com
 0.0.0.0 coinhive-manager.com
 0.0.0.0 coinhive.com
-0.0.0.0 coinminerz.com
 0.0.0.0 coinnebula.com
 0.0.0.0 coiphezlzpl.bid
 0.0.0.0 cokrrmzagaxn.com
@@ -3279,7 +3277,6 @@
 0.0.0.0 wvxywejnmpsh.bid
 0.0.0.0 wwfjhzut.bid
 0.0.0.0 wwgysckwouvzkm.bid
-0.0.0.0 www.803mine.com
 0.0.0.0 wxjqyqvagefw.com
 0.0.0.0 wxmzfxthsnrgpu.bid
 0.0.0.0 wxnuobpxkjgk.bid
