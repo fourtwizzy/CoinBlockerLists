@@ -3,9 +3,11 @@ Simple lists that can help prevent cryptomining in the browser or other applicat
 ![PC_ping](img/pc_ping.png)
 ## Simple URL list:
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt
+https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list_optional.txt
 
 ## The hosts list:
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
+https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_optional
 
 ### CoinBlockerLists is available in update-hosts
 https://aur.archlinux.org/packages/update-hosts-git/
