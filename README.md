@@ -1,6 +1,6 @@
 # CoinBlockerLists
 Simple lists that can help prevent cryptomining in the browser or other applications.
-![PC_ping](img/PC_ping.png)
+![PC_ping](img/pc_ping.png)
 ## Simple URL list:
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt
 
