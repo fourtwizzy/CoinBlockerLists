@@ -1,4 +1,5 @@
 2giga.link
+a37ubfu6nmjxzcff.onion
 aajychvi.bid
 aanvxbvkdxph.com
 aapxtnrhq.bid
@@ -58,6 +59,7 @@ aladbvddjsxf.com
 alasdzdnfvtj.com
 algkebjdgafa.com
 alidnquxirv.bid
+alimabi.cn
 alnisdrmhs.bid
 amaqcgrrmedi.bid
 amdhlyqfy.bid
@@ -402,6 +404,7 @@ crpiucewddag.com
 crqnosmxstdfnp.bid
 crtntrvjuun.bid
 cruqmpwhczna.bid
+cryptmonero.com
 crypto-loot.com
 cscactmkbfvn.com
 csdqikvba.bid
@@ -653,10 +656,24 @@ espnrlezwzvd.com
 etbmvqjnfxtk.com
 etbrjgpsadke.com
 etggiddfdaqd.com
+eth-ar.dwarfpool.com
+eth-asia.dwarfpool.com
+eth-au.dwarfpool.com
+eth-br.dwarfpool.com
+eth-cn.dwarfpool.com
+eth-cn2.dwarfpool.com
+eth-eu.dwarfpool.com
+eth-hk.dwarfpool.com
+eth-ru.dwarfpool.com
+eth-ru2.dwarfpool.com
+eth-sg.dwarfpool.com
+eth-us.dwarfpool.com
+eth-us2.dwarfpool.com
 etprpfuw.bid
 etsqitgro.bid
 etwgydlbl.bid
 etyeltdqg.bid
+eu.bohemianpool.com
 eueukpcxjtxt.bid
 eunysqxppf.bid
 eupwogkcjczz.com
@@ -673,6 +690,8 @@ ewxssoad.bid
 exioptyxiyoo.com
 exmubrgt.bid
 exnyzdboihvi.com
+exp-eu.dwarfpool.com
+exp-us.dwarfpool.com
 exsuqfxv.bid
 exvgzhwssyivz.bid
 eydiuqpdtfew.com
@@ -1215,6 +1234,7 @@ ivktdwmjhkqy.com
 ivqoqtozlmjp.com
 ivsqnmridfxn.com
 ivuhwsqnbjjx.bid
+iwanttoearn.money
 iweacndqhiht.com
 iwmonrwpeeku.com
 iwnvbdosun.bid
@@ -1752,6 +1772,8 @@ miisdhpqsp.bid
 mikdvucquacd.com
 mikkvpggxg.bid
 mine.ar-net.info
+mine.xmr.mypool.online
+mine.xmrpool.xyz
 minecrunch.co
 minemonero.pro
 minemytraffic.com
@@ -1763,7 +1785,9 @@ minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
 minexmr.com
+minexmr.pooldd.com
 mining.coin-hive.com
+minzpool.ml
 mixfyfriqtatz.bid
 mjlkhnizufhmrt.bid
 mjujcjfrgslf.com
@@ -1813,6 +1837,7 @@ mohcafpwpldi.com
 molqvpnnlmnb.com
 monero-miner.com
 monero.crypto-pool.fr
+monero.us.to
 monerohash.com
 moneroocean.stream
 moneropool.com
@@ -2213,7 +2238,12 @@ pnzaduoelv.bid
 poazvacfzbed.com
 podrltid.info
 pool.ar-net.info
+pool.bohemianpool.com
 pool.burstmarketplace.com
+pool.miners.pro
+pool.moneropool.nl
+pool.moriaxmr.com
+pool.xmr.pt
 poolmining.org
 poorybdbh.bid
 popadscdn.net
@@ -2419,6 +2449,7 @@ rafvxnikmn.bid
 raiybbvwefbcji.bid
 raossycpodtr.bid
 raqueocznwden.bid
+ratchetmining.com
 rawybznxrp.bid
 rbbkqlnnmus.bid
 rbdmtydtobai.com
@@ -2672,6 +2703,7 @@ stwcozfiavhh.bid
 sufjqebhmfo.bid
 sufzmohljbgw.com
 suhprdfb.bid
+sumo.poolto.be
 suonvyzivnfy.com
 supportxmr.com
 suqufucjzffhay.bid
@@ -2727,6 +2759,7 @@ tdsnpnyg.bid
 tdxqgpfkiye.bid
 tefwraudu.bid
 teqceeivmpvv.com
+teracycle.net
 teyuzyrjmrdi.com
 tfbzzigqzbax.com
 tfhqxvakurom.bid
@@ -3346,9 +3379,12 @@ xlavzhffzwgb.com
 xlcnavkhn.bid
 xljfxjbjw.bid
 xlvausdwsmyoww.bid
+xmr-eu.dwarfpool.com
+xmr-usa.dwarfpool.com
 xmr.nanopool.org
 xmr.pools.e-scavo.net.ar
 xmr.prohash.net
+xmr.riefly.id
 xmrminerpro.com
 xmrpool.eu
 xmwqbnrbvghq.bid
@@ -3566,6 +3602,10 @@ zcuocqfstyne.bid
 zdbzkrphx.bid
 zdqsrdamdgmn.com
 zeantqrix.bid
+zec-cn1.dwarfpool.com
+zec-eu1.dwarfpool.com
+zec-ru1.dwarfpool.com
+zec-us1.dwarfpool.com
 zenpmagn.bid
 zeuwuxfzvaoqp.bid
 zeyiihbqbswtn.bid

@@ -1,7 +1,8 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 24 Oct 2017 18:25
+# Last modified: 24 Oct 2017 23:52
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
+0.0.0.0 a37ubfu6nmjxzcff.onion
 0.0.0.0 aajychvi.bid
 0.0.0.0 aanvxbvkdxph.com
 0.0.0.0 aapxtnrhq.bid
@@ -61,6 +62,7 @@
 0.0.0.0 alasdzdnfvtj.com
 0.0.0.0 algkebjdgafa.com
 0.0.0.0 alidnquxirv.bid
+0.0.0.0 alimabi.cn
 0.0.0.0 alnisdrmhs.bid
 0.0.0.0 amaqcgrrmedi.bid
 0.0.0.0 amdhlyqfy.bid
@@ -405,6 +407,7 @@
 0.0.0.0 crqnosmxstdfnp.bid
 0.0.0.0 crtntrvjuun.bid
 0.0.0.0 cruqmpwhczna.bid
+0.0.0.0 cryptmonero.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 cscactmkbfvn.com
 0.0.0.0 csdqikvba.bid
@@ -656,10 +659,24 @@
 0.0.0.0 etbmvqjnfxtk.com
 0.0.0.0 etbrjgpsadke.com
 0.0.0.0 etggiddfdaqd.com
+0.0.0.0 eth-ar.dwarfpool.com
+0.0.0.0 eth-asia.dwarfpool.com
+0.0.0.0 eth-au.dwarfpool.com
+0.0.0.0 eth-br.dwarfpool.com
+0.0.0.0 eth-cn.dwarfpool.com
+0.0.0.0 eth-cn2.dwarfpool.com
+0.0.0.0 eth-eu.dwarfpool.com
+0.0.0.0 eth-hk.dwarfpool.com
+0.0.0.0 eth-ru.dwarfpool.com
+0.0.0.0 eth-ru2.dwarfpool.com
+0.0.0.0 eth-sg.dwarfpool.com
+0.0.0.0 eth-us.dwarfpool.com
+0.0.0.0 eth-us2.dwarfpool.com
 0.0.0.0 etprpfuw.bid
 0.0.0.0 etsqitgro.bid
 0.0.0.0 etwgydlbl.bid
 0.0.0.0 etyeltdqg.bid
+0.0.0.0 eu.bohemianpool.com
 0.0.0.0 eueukpcxjtxt.bid
 0.0.0.0 eunysqxppf.bid
 0.0.0.0 eupwogkcjczz.com
@@ -676,6 +693,8 @@
 0.0.0.0 exioptyxiyoo.com
 0.0.0.0 exmubrgt.bid
 0.0.0.0 exnyzdboihvi.com
+0.0.0.0 exp-eu.dwarfpool.com
+0.0.0.0 exp-us.dwarfpool.com
 0.0.0.0 exsuqfxv.bid
 0.0.0.0 exvgzhwssyivz.bid
 0.0.0.0 eydiuqpdtfew.com
@@ -1218,6 +1237,7 @@
 0.0.0.0 ivqoqtozlmjp.com
 0.0.0.0 ivsqnmridfxn.com
 0.0.0.0 ivuhwsqnbjjx.bid
+0.0.0.0 iwanttoearn.money
 0.0.0.0 iweacndqhiht.com
 0.0.0.0 iwmonrwpeeku.com
 0.0.0.0 iwnvbdosun.bid
@@ -1755,6 +1775,8 @@
 0.0.0.0 mikdvucquacd.com
 0.0.0.0 mikkvpggxg.bid
 0.0.0.0 mine.ar-net.info
+0.0.0.0 mine.xmr.mypool.online
+0.0.0.0 mine.xmrpool.xyz
 0.0.0.0 minecrunch.co
 0.0.0.0 minemonero.pro
 0.0.0.0 minemytraffic.com
@@ -1766,7 +1788,9 @@
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
 0.0.0.0 minexmr.com
+0.0.0.0 minexmr.pooldd.com
 0.0.0.0 mining.coin-hive.com
+0.0.0.0 minzpool.ml
 0.0.0.0 mixfyfriqtatz.bid
 0.0.0.0 mjlkhnizufhmrt.bid
 0.0.0.0 mjujcjfrgslf.com
@@ -1816,6 +1840,7 @@
 0.0.0.0 molqvpnnlmnb.com
 0.0.0.0 monero-miner.com
 0.0.0.0 monero.crypto-pool.fr
+0.0.0.0 monero.us.to
 0.0.0.0 monerohash.com
 0.0.0.0 moneroocean.stream
 0.0.0.0 moneropool.com
@@ -2216,7 +2241,12 @@
 0.0.0.0 poazvacfzbed.com
 0.0.0.0 podrltid.info
 0.0.0.0 pool.ar-net.info
+0.0.0.0 pool.bohemianpool.com
 0.0.0.0 pool.burstmarketplace.com
+0.0.0.0 pool.miners.pro
+0.0.0.0 pool.moneropool.nl
+0.0.0.0 pool.moriaxmr.com
+0.0.0.0 pool.xmr.pt
 0.0.0.0 poolmining.org
 0.0.0.0 poorybdbh.bid
 0.0.0.0 popadscdn.net
@@ -2422,6 +2452,7 @@
 0.0.0.0 raiybbvwefbcji.bid
 0.0.0.0 raossycpodtr.bid
 0.0.0.0 raqueocznwden.bid
+0.0.0.0 ratchetmining.com
 0.0.0.0 rawybznxrp.bid
 0.0.0.0 rbbkqlnnmus.bid
 0.0.0.0 rbdmtydtobai.com
@@ -2675,6 +2706,7 @@
 0.0.0.0 sufjqebhmfo.bid
 0.0.0.0 sufzmohljbgw.com
 0.0.0.0 suhprdfb.bid
+0.0.0.0 sumo.poolto.be
 0.0.0.0 suonvyzivnfy.com
 0.0.0.0 supportxmr.com
 0.0.0.0 suqufucjzffhay.bid
@@ -2730,6 +2762,7 @@
 0.0.0.0 tdxqgpfkiye.bid
 0.0.0.0 tefwraudu.bid
 0.0.0.0 teqceeivmpvv.com
+0.0.0.0 teracycle.net
 0.0.0.0 teyuzyrjmrdi.com
 0.0.0.0 tfbzzigqzbax.com
 0.0.0.0 tfhqxvakurom.bid
@@ -3349,9 +3382,12 @@
 0.0.0.0 xlcnavkhn.bid
 0.0.0.0 xljfxjbjw.bid
 0.0.0.0 xlvausdwsmyoww.bid
+0.0.0.0 xmr-eu.dwarfpool.com
+0.0.0.0 xmr-usa.dwarfpool.com
 0.0.0.0 xmr.nanopool.org
 0.0.0.0 xmr.pools.e-scavo.net.ar
 0.0.0.0 xmr.prohash.net
+0.0.0.0 xmr.riefly.id
 0.0.0.0 xmrminerpro.com
 0.0.0.0 xmrpool.eu
 0.0.0.0 xmwqbnrbvghq.bid
@@ -3569,6 +3605,10 @@
 0.0.0.0 zdbzkrphx.bid
 0.0.0.0 zdqsrdamdgmn.com
 0.0.0.0 zeantqrix.bid
+0.0.0.0 zec-cn1.dwarfpool.com
+0.0.0.0 zec-eu1.dwarfpool.com
+0.0.0.0 zec-ru1.dwarfpool.com
+0.0.0.0 zec-us1.dwarfpool.com
 0.0.0.0 zenpmagn.bid
 0.0.0.0 zeuwuxfzvaoqp.bid
 0.0.0.0 zeyiihbqbswtn.bid
