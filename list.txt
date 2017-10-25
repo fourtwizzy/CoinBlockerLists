@@ -406,6 +406,7 @@ crtntrvjuun.bid
 cruqmpwhczna.bid
 cryptmonero.com
 crypto-loot.com
+cryptofriends.org
 cscactmkbfvn.com
 csdqikvba.bid
 cslxhmchzgbx.com
@@ -1839,6 +1840,8 @@ monero-miner.com
 monero.crypto-pool.fr
 monero.us.to
 monerohash.com
+monerominer.life
+monerominer.rocks
 moneroocean.stream
 moneropool.com
 monlscalmows.bid

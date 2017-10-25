@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 24 Oct 2017 23:52
+# Last modified: 25 Oct 2017 13:58
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -409,6 +409,7 @@
 0.0.0.0 cruqmpwhczna.bid
 0.0.0.0 cryptmonero.com
 0.0.0.0 crypto-loot.com
+0.0.0.0 cryptofriends.org
 0.0.0.0 cscactmkbfvn.com
 0.0.0.0 csdqikvba.bid
 0.0.0.0 cslxhmchzgbx.com
@@ -1842,6 +1843,8 @@
 0.0.0.0 monero.crypto-pool.fr
 0.0.0.0 monero.us.to
 0.0.0.0 monerohash.com
+0.0.0.0 monerominer.life
+0.0.0.0 monerominer.rocks
 0.0.0.0 moneroocean.stream
 0.0.0.0 moneropool.com
 0.0.0.0 monlscalmows.bid
