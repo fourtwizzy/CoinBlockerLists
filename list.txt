@@ -201,6 +201,7 @@ bhmenywkptbkga.bid
 bhmqoolzgxnp.com
 bhuewuodwz.bid
 bhyqllgtzjee.com
+bitcoinz.getpool.network
 bitminer.io
 bitnex.io
 bitzfree.com
@@ -651,6 +652,7 @@ epzxtposabej.com
 eqkccjinroye.bid
 eqqhiwfjcfx.bid
 eqszmuwnozvx.com
+equihash.cryptobroker.io
 erbsqnmglmnv.com
 erhpodgijusvi.bid
 esgwceckxumg.com
@@ -678,6 +680,7 @@ etsqitgro.bid
 etwgydlbl.bid
 etyeltdqg.bid
 eu.bohemianpool.com
+eu.hushpool.cloud
 eueukpcxjtxt.bid
 eunysqxppf.bid
 eupwogkcjczz.com
@@ -871,6 +874,7 @@ geazikjazoid.com
 gedmodsxbebd.com
 gefaqjwdgzbo.com
 gemius.pl
+getpool.network
 gfhlwbxjjdla.bid
 ggbfbseakyqv.com
 gghhzzllakjm.bid
@@ -992,6 +996,7 @@ haezawhdumz.bid
 hajcehcnodio.com
 hanwlgpecblxf.bid
 hashforcash.us
+hashgate.eu
 hasxepvkld.com
 hattifkklbo.bid
 hbbxkbjhiiue.bid
@@ -1680,6 +1685,7 @@ ltsnideak.bid
 lttsvesujmry.com
 ltxltqtwpj.bid
 lubjqiebnayctz.bid
+luckpool.org
 ludwmwca.bid
 lugknllg.bid
 luhqeqaypvmc.com
@@ -2016,6 +2022,7 @@ nwhitgovb.bid
 nwooatwtmhfdh.bid
 nwzawdquu.bid
 nxcxithvcoeh.com
+ny1.minez.zone
 nyaisjsghvj.bid
 nyfsjqxopdzvvm.bid
 nyrszeos.bid
@@ -2247,6 +2254,7 @@ podrltid.info
 pool.ar-net.info
 pool.bohemianpool.com
 pool.burstmarketplace.com
+pool.minemonero.pro
 pool.miners.pro
 pool.moneropool.nl
 pool.moriaxmr.com
@@ -2612,6 +2620,7 @@ scgyndrujhzf.com
 sckpttzpnfimba.bid
 scofnjymyym.bid
 scrltyokacghvd.bid
+scrypt.cryptobroker.io
 scvonjdwad.bid
 scxxbyqjslyp.com
 sdemctwaiazt.com
@@ -2707,6 +2716,7 @@ ssyyeufsqbra.bid
 startminer.com
 static.reasedoper.pw
 stlbmyezzth.bid
+stratum.aikapool.com
 stwcozfiavhh.bid
 sufjqebhmfo.bid
 sufzmohljbgw.com
@@ -3616,6 +3626,7 @@ zec-cn1.dwarfpool.com
 zec-eu1.dwarfpool.com
 zec-ru1.dwarfpool.com
 zec-us1.dwarfpool.com
+zen.getpool.network
 zenpmagn.bid
 zeuwuxfzvaoqp.bid
 zeyiihbqbswtn.bid
