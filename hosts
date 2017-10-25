@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 25 Oct 2017 14:18
+# Last modified: 25 Oct 2017 14:25
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -21,6 +21,7 @@
 0.0.0.0 adofuokjj.bid
 0.0.0.0 adrtgbebgd.bid
 0.0.0.0 adudzlhdjgof.com
+0.0.0.0 adzcoin.miningpoolhub.com
 0.0.0.0 aekduylxcmlevs.bid
 0.0.0.0 aemhabst.bid
 0.0.0.0 aeon.pools.e-scavo.net.ar
@@ -1102,6 +1103,7 @@
 0.0.0.0 htonrwegnifw.com
 0.0.0.0 htrprrrtrwrc.com
 0.0.0.0 huayucnblhgy.com
+0.0.0.0 hub.miningpoolhub.com
 0.0.0.0 hubvotrpjios.com
 0.0.0.0 huewmezzodzdv.com
 0.0.0.0 huiwiw.hit.gemius.pl
