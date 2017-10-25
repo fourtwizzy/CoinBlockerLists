@@ -375,6 +375,7 @@ coin-hive.com
 coinblind.com
 coinerra.com
 coinhive-manager.com
+coinhive-proxy.party
 coinhive.com
 coinnebula.com
 coiphezlzpl.bid
@@ -512,6 +513,7 @@ dntlpwpjwcfu.com
 dnvndngbn.bid
 dodegomxh.bid
 dodwnkpzaned.com
+dogepool.rf.gd
 dohhehsgnxfl.com
 doiljgzpurycgx.bid
 dovltuzibsfs.com
@@ -2274,6 +2276,7 @@ prncfucwvi.bid
 prnxtmtbbqs.bid
 projectpoi.com
 prometheus.phoenixcoin.org
+proxy-khlizawelj.now.sh
 psbadfsth.bid
 pshcqtizgdlm.com
 psmlgjalddqu.com
@@ -3310,6 +3313,7 @@ wvxnvnrsahfd.bid
 wvxywejnmpsh.bid
 wwfjhzut.bid
 wwgysckwouvzkm.bid
+www.dogepool.rf.gd
 wxjqyqvagefw.com
 wxmzfxthsnrgpu.bid
 wxnuobpxkjgk.bid
@@ -3383,6 +3387,7 @@ xlcnavkhn.bid
 xljfxjbjw.bid
 xlvausdwsmyoww.bid
 xmr-eu.dwarfpool.com
+xmr-eu1.nanopool.org
 xmr-usa.dwarfpool.com
 xmr.nanopool.org
 xmr.pools.e-scavo.net.ar

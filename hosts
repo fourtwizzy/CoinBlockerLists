@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 25 Oct 2017 13:58
+# Last modified: 25 Oct 2017 14:18
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -515,6 +515,7 @@
 0.0.0.0 dnvndngbn.bid
 0.0.0.0 dodegomxh.bid
 0.0.0.0 dodwnkpzaned.com
+0.0.0.0 dogepool.rf.gd
 0.0.0.0 dohhehsgnxfl.com
 0.0.0.0 doiljgzpurycgx.bid
 0.0.0.0 dovltuzibsfs.com
@@ -2277,6 +2278,7 @@
 0.0.0.0 prnxtmtbbqs.bid
 0.0.0.0 projectpoi.com
 0.0.0.0 prometheus.phoenixcoin.org
+0.0.0.0 proxy-khlizawelj.now.sh
 0.0.0.0 psbadfsth.bid
 0.0.0.0 pshcqtizgdlm.com
 0.0.0.0 psmlgjalddqu.com
@@ -3313,6 +3315,7 @@
 0.0.0.0 wvxywejnmpsh.bid
 0.0.0.0 wwfjhzut.bid
 0.0.0.0 wwgysckwouvzkm.bid
+0.0.0.0 www.dogepool.rf.gd
 0.0.0.0 wxjqyqvagefw.com
 0.0.0.0 wxmzfxthsnrgpu.bid
 0.0.0.0 wxnuobpxkjgk.bid
@@ -3386,6 +3389,7 @@
 0.0.0.0 xljfxjbjw.bid
 0.0.0.0 xlvausdwsmyoww.bid
 0.0.0.0 xmr-eu.dwarfpool.com
+0.0.0.0 xmr-eu1.nanopool.org
 0.0.0.0 xmr-usa.dwarfpool.com
 0.0.0.0 xmr.nanopool.org
 0.0.0.0 xmr.pools.e-scavo.net.ar
