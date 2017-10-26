@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 26 Oct 2017 19:30
+# Last modified: 26 Oct 2017 21:25
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -30,6 +30,7 @@
 0.0.0.0 coinhive.com
 0.0.0.0 coinnebula.com
 0.0.0.0 com-http.us
+0.0.0.0 cqfnvznw.info
 0.0.0.0 cryptmonero.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptofriends.org
@@ -151,7 +152,40 @@
 0.0.0.0 usxmrpool.com
 0.0.0.0 versiliaguide.com
 0.0.0.0 webmine.cz
+0.0.0.0 ws001.coinhive.com
+0.0.0.0 ws002.coinhive.com
+0.0.0.0 ws003.coinhive.com
+0.0.0.0 ws004.coinhive.com
+0.0.0.0 ws005.coinhive.com
+0.0.0.0 ws006.coinhive.com
+0.0.0.0 ws007.coinhive.com
+0.0.0.0 ws008.coinhive.com
+0.0.0.0 ws009.coinhive.com
+0.0.0.0 ws010.coinhive.com
+0.0.0.0 ws011.coinhive.com
+0.0.0.0 ws012.coinhive.com
+0.0.0.0 ws013.coinhive.com
+0.0.0.0 ws014.coinhive.com
+0.0.0.0 ws015.coinhive.com
+0.0.0.0 ws016.coinhive.com
+0.0.0.0 ws017.coinhive.com
+0.0.0.0 ws018.coinhive.com
+0.0.0.0 ws019.coinhive.com
+0.0.0.0 ws020.coinhive.com
+0.0.0.0 ws021.coinhive.com
+0.0.0.0 ws022.coinhive.com
+0.0.0.0 ws023.coinhive.com
+0.0.0.0 ws024.coinhive.com
+0.0.0.0 ws025.coinhive.com
+0.0.0.0 ws026.coinhive.com
+0.0.0.0 ws027.coinhive.com
+0.0.0.0 ws028.coinhive.com
+0.0.0.0 ws029.coinhive.com
+0.0.0.0 ws030.coinhive.com
+0.0.0.0 ws031.coinhive.com
+0.0.0.0 ws032.coinhive.com
 0.0.0.0 www.dogepool.rf.gd
+0.0.0.0 www.hashforcash.us
 0.0.0.0 xbasfbno.info
 0.0.0.0 xmr-eu.dwarfpool.com
 0.0.0.0 xmr-eu1.nanopool.org
