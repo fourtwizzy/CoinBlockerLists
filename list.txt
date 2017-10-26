@@ -1,12 +1,10 @@
 2giga.link
-803mine.com
 a37ubfu6nmjxzcff.onion
 adzcoin.miningpoolhub.com
 aeon.pools.e-scavo.net.ar
 afminer.com
 alimabi.cn
 anime.reactor.cc
-api.inwemo.com
 atlas.phoenixcoin.org
 auroramine.com
 authedmine.com
@@ -150,7 +148,6 @@ us.multipool.us
 usxmrpool.com
 versiliaguide.com
 webmine.cz
-www.803mine.com
 www.dogepool.rf.gd
 xbasfbno.info
 xmr-eu.dwarfpool.com
