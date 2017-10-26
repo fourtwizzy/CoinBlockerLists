@@ -1,5 +1,6 @@
 2giga.link
 <<<<<<< HEAD
+<<<<<<< HEAD
 a37ubfu6nmjxzcff.onion
 aajychvi.bid
 aanvxbvkdxph.com
@@ -119,11 +120,19 @@ atjgtndhvbescp.bid
 anime.reactor.cc
 api.inwemo.com
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+803mine.com
+aeon.pools.e-scavo.net.ar
+afminer.com
+anime.reactor.cc
+api.inwemo.com
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 atlas.phoenixcoin.org
 auroramine.com
 authedmine.com
 authedwebmine.cz
 azvjudwr.info
+<<<<<<< HEAD
 <<<<<<< HEAD
 badgmvhtvryg.bid
 bagoojzsqygg.com
@@ -180,6 +189,8 @@ bhyqllgtzjee.com
 bitcoinz.getpool.network
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 bitminer.io
 bitnex.io
 bitzfree.com
@@ -196,6 +207,7 @@ coinhive-proxy.party
 coinhive.com
 coinnebula.com
 com-http.us
+<<<<<<< HEAD
 <<<<<<< HEAD
 cortxphssdvc.com
 covjoecuzyss.com
@@ -941,6 +953,21 @@ jorndvyzchaq.com
 jovepjufhmmw.com
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+crypto-loot.com
+deepc.cc
+dmdamedia.hu
+edgeno.de
+freedom.wemineltc.com
+gemius.pl
+goodolddownloads.com
+gus.host
+hashforcash.us
+hexamining.io
+hit.gemius.pl
+huiwiw.hit.gemius.pl
+icarus.phoenixcoin.org
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 joyreactor.cc
 jroqvbvw.info
 jsecoin.com
@@ -950,6 +977,7 @@ kissdoujin.com
 kisshentai.net
 kiwifarms.net
 kryptex.info
+<<<<<<< HEAD
 <<<<<<< HEAD
 krziyrrnvjai.com
 krzllasnlbpjk.bid
@@ -1054,10 +1082,13 @@ liilsuive.bid
 liqbipkfbafq.com
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 listat.biz
 lmodr.biz
 load.jsecoin.com
 ltcminer.io
+<<<<<<< HEAD
 <<<<<<< HEAD
 ltcvpgyouvxya.bid
 ltffxzmjazabn.bid
@@ -1113,6 +1144,8 @@ makhhvgdkhwn.com
 malgyhuytbnjb.bid
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 mataharirama.xyz
 menoetius.phoenixcoin.org
 mine.ar-net.info
@@ -1131,6 +1164,7 @@ minero.pw
 minexmr.com
 minexmr.pooldd.com
 mining.coin-hive.com
+<<<<<<< HEAD
 <<<<<<< HEAD
 minzpool.ml
 mixfyfriqtatz.bid
@@ -1182,6 +1216,8 @@ mohcafpwpldi.com
 molqvpnnlmnb.com
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 monero-miner.com
 monero.crypto-pool.fr
 monero.us.to
@@ -1192,6 +1228,7 @@ moneroocean.stream
 moneropool.com
 multicoin.eu
 ndc.bitember.com
+<<<<<<< HEAD
 <<<<<<< HEAD
 ndemlviibdyc.com
 ndgmwuxzxppa.com
@@ -1380,6 +1417,8 @@ olejgcdzgb.bid
 oljpsldr.bid
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 oload.info
 p2p-multipool.greengaming.de
 p2pool.neocities.org
@@ -1398,6 +1437,7 @@ ppoi.org
 pr0gramm.com
 projectpoi.com
 prometheus.phoenixcoin.org
+<<<<<<< HEAD
 <<<<<<< HEAD
 proxy-khlizawelj.now.sh
 psbadfsth.bid
@@ -1598,10 +1638,13 @@ rctanilirwefr.bid
 rczagufykvpw.com
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 rdd.coinedpool.com
 reactor.cc
 reasedoper.pw
 s.zsolo.bid
+<<<<<<< HEAD
 <<<<<<< HEAD
 sagukjshgifebs.bid
 sagulzuyvybu.com
@@ -1639,10 +1682,13 @@ semvdooatmd.bid
 seotpqntjukhg.bid
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 server.jsecoin.com
 sig.edgeno.de
 startminer.com
 static.reasedoper.pw
+<<<<<<< HEAD
 <<<<<<< HEAD
 stlbmyezzth.bid
 stratum.aikapool.com
@@ -2130,12 +2176,21 @@ xmr-usa.dwarfpool.com
 www.803mine.com
 xbasfbno.info
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
+=======
+supportxmr.com
+usxmrpool.com
+versiliaguide.com
+webmine.cz
+www.803mine.com
+xbasfbno.info
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 xmr.nanopool.org
 xmr.pools.e-scavo.net.ar
 xmr.prohash.net
 xmr.riefly.id
 xmrminerpro.com
 xmrpool.eu
+<<<<<<< HEAD
 <<<<<<< HEAD
 xmwqbnrbvghq.bid
 xnmphtmerao.bid
@@ -2455,5 +2510,7 @@ zyqlfplqdgxu.com
 zyxtecsff.bid
 zzevmjynoljz.bid
 zzvjaqnkq.bid
+=======
+>>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
 =======
 >>>>>>> parent of 3e58cdd... Last modified: 23 Oct 2017 21:23
