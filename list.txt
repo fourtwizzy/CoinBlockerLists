@@ -99,6 +99,7 @@ getpool.network
 givecoin.miningpoolhub.com
 globalboosty.miningpoolhub.com
 goodolddownloads.com
+google.gus.host
 granite.miningpoolhub.com
 groestlcoin.miningpoolhub.com
 gus.host
@@ -138,6 +139,7 @@ mine-for.us
 mine.ar-net.info
 mine.xmr.mypool.online
 mine.xmrpool.xyz
+mine1.alimabi.cn
 minecrunch.co
 minemonero.pro
 minemytraffic.com
@@ -198,6 +200,7 @@ ratchetmining.com
 rdd.coinedpool.com
 reactor.cc
 reasedoper.pw
+s.gus.host
 s.zsolo.bid
 scrypt.cryptobroker.io
 securecoin.miningpoolhub.com
@@ -278,6 +281,7 @@ ws031.coinhive.com
 ws032.coinhive.com
 www.ckpool.org
 www.dogepool.rf.gd
+www.gus.host
 www.hashforcash.us
 www.miningpoolhub.com
 www.ppoi.org
@@ -285,10 +289,13 @@ xbasfbno.info
 xmr-eu.dwarfpool.com
 xmr-eu1.nanopool.org
 xmr-usa.dwarfpool.com
+xmr.alimabi.cn
 xmr.nanopool.org
 xmr.pools.e-scavo.net.ar
 xmr.prohash.net
 xmr.riefly.id
+xmrapi.alimabi.cn
+xmrapib.alimabi.cn
 xmrminerpro.com
 xmrpool.eu
 xpool.net

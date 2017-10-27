@@ -24,6 +24,7 @@ dmdamedia.hu
 edgeno.de
 gemius.pl
 goodolddownloads.com
+google.gus.host
 gus.host
 hashforcash.us
 hit.gemius.pl
@@ -55,6 +56,7 @@ pr0gramm.com
 projectpoi.com
 proxy-khlizawelj.now.sh
 reasedoper.pw
+s.gus.host
 server.jsecoin.com
 static.reasedoper.pw
 webmine.cz
@@ -94,6 +96,7 @@ ws03.coinnebula.com
 ws030.coinhive.com
 ws031.coinhive.com
 ws032.coinhive.com
+www.gus.host
 www.hashforcash.us
 www.ppoi.org
 xbasfbno.info
