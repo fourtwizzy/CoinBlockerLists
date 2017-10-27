@@ -1,7 +1,7 @@
 2giga.link
-monerominer.rocks
 afminer.com
 anime.reactor.cc
+api.coinhive.com
 auroramine.com
 authedmine.com
 authedwebmine.cz
@@ -47,6 +47,7 @@ minero-proxy-01.now.sh
 minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
+monerominer.rocks
 oload.info
 podrltid.info
 ppoi.org
