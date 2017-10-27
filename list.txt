@@ -34,6 +34,8 @@ crypto-loot.com
 cryptofriends.org
 de.ckpool.org
 deepc.cc
+depoolstratum.ckpool.org
+destratum.ckpool.org
 di.ckpool.org
 dmdamedia.hu
 dogepool.rf.gd
@@ -149,6 +151,7 @@ server.jsecoin.com
 sig.edgeno.de
 solid.mine-for.us
 solo.ckpool.org
+sologateway.ckpool.org
 startminer.com
 static.reasedoper.pw
 stratum.aikapool.com
