@@ -5,6 +5,7 @@ aeon.pools.e-scavo.net.ar
 afminer.com
 alimabi.cn
 anime.reactor.cc
+api.coinhive.com
 atlas.phoenixcoin.org
 auroramine.com
 authedmine.com
