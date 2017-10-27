@@ -1,4 +1,5 @@
 803mine.com
+api.inwemo.com
+cdn.inwemo.com
 coinminerz.com
 www.803mine.com
-api.inwemo.com
