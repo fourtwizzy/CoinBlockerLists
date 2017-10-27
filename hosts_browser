@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 27 Oct 2017 15:12
+# Last modified: 27 Oct 2017 21:01
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 afminer.com
@@ -80,6 +80,7 @@
 0.0.0.0 ws017.coinhive.com
 0.0.0.0 ws018.coinhive.com
 0.0.0.0 ws019.coinhive.com
+0.0.0.0 ws02.coinnebula.com
 0.0.0.0 ws020.coinhive.com
 0.0.0.0 ws021.coinhive.com
 0.0.0.0 ws022.coinhive.com
@@ -90,6 +91,7 @@
 0.0.0.0 ws027.coinhive.com
 0.0.0.0 ws028.coinhive.com
 0.0.0.0 ws029.coinhive.com
+0.0.0.0 ws03.coinnebula.com
 0.0.0.0 ws030.coinhive.com
 0.0.0.0 ws031.coinhive.com
 0.0.0.0 ws032.coinhive.com

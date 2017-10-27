@@ -259,6 +259,7 @@ ws016.coinhive.com
 ws017.coinhive.com
 ws018.coinhive.com
 ws019.coinhive.com
+ws02.coinnebula.com
 ws020.coinhive.com
 ws021.coinhive.com
 ws022.coinhive.com
@@ -269,6 +270,7 @@ ws026.coinhive.com
 ws027.coinhive.com
 ws028.coinhive.com
 ws029.coinhive.com
+ws03.coinnebula.com
 ws030.coinhive.com
 ws031.coinhive.com
 ws032.coinhive.com
