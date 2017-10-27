@@ -67,6 +67,7 @@ ws006.coinhive.com
 ws007.coinhive.com
 ws008.coinhive.com
 ws009.coinhive.com
+ws01.ppoi.org
 ws010.coinhive.com
 ws011.coinhive.com
 ws012.coinhive.com
@@ -78,6 +79,7 @@ ws017.coinhive.com
 ws018.coinhive.com
 ws019.coinhive.com
 ws02.coinnebula.com
+ws02.ppoi.org
 ws020.coinhive.com
 ws021.coinhive.com
 ws022.coinhive.com
@@ -93,4 +95,5 @@ ws030.coinhive.com
 ws031.coinhive.com
 ws032.coinhive.com
 www.hashforcash.us
+www.ppoi.org
 xbasfbno.info
