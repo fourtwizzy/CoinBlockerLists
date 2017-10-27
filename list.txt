@@ -32,7 +32,9 @@ cqfnvznw.info
 cryptmonero.com
 crypto-loot.com
 cryptofriends.org
+de.ckpool.org
 deepc.cc
+di.ckpool.org
 dmdamedia.hu
 dogepool.rf.gd
 edgeno.de
@@ -82,6 +84,7 @@ la01.supportxmr.com
 listat.biz
 lmodr.biz
 load.jsecoin.com
+local.ckpool.org
 ltcminer.io
 luckpool.org
 maaapi.mooo.com
@@ -124,6 +127,7 @@ podrltid.info
 pool.ar-net.info
 pool.bohemianpool.com
 pool.burstmarketplace.com
+pool.ckpool.org
 pool.minemonero.pro
 pool.miners.pro
 pool.moneropool.nl
@@ -144,6 +148,7 @@ scrypt.cryptobroker.io
 server.jsecoin.com
 sig.edgeno.de
 solid.mine-for.us
+solo.ckpool.org
 startminer.com
 static.reasedoper.pw
 stratum.aikapool.com
@@ -191,6 +196,7 @@ ws029.coinhive.com
 ws030.coinhive.com
 ws031.coinhive.com
 ws032.coinhive.com
+www.ckpool.org
 www.dogepool.rf.gd
 www.hashforcash.us
 xbasfbno.info
