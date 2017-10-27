@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 27 Oct 2017 22:01
+# Last modified: 27 Oct 2017 22:55
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -47,6 +47,7 @@
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptofriends.org
 0.0.0.0 darkcoin.miningpoolhub.com
+0.0.0.0 dash.miningpoolhub.com
 0.0.0.0 de.ckpool.org
 0.0.0.0 deepc.cc
 0.0.0.0 depool.ckpool.org
@@ -223,6 +224,7 @@
 0.0.0.0 stratum.antpool.com
 0.0.0.0 stratum.bcmonster.com
 0.0.0.0 stratum.bitcoin.inc.hk
+0.0.0.0 stratum.bravo-mining.com
 0.0.0.0 stratum.mining.eligius.st
 0.0.0.0 sumo.poolto.be
 0.0.0.0 supportxmr.com
@@ -308,5 +310,3 @@
 0.0.0.0 zec-ru1.dwarfpool.com
 0.0.0.0 zec-us1.dwarfpool.com
 0.0.0.0 zen.getpool.network
-dash.miningpoolhub.com
-stratum.bravo-mining.com
