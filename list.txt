@@ -151,6 +151,7 @@ stratum.antpool.com
 stratum.bcmonster.com
 stratum.bitcoin.inc.hk
 stratum.bravo-mining.com
+stratum.mining.eligius.st
 sumo.poolto.be
 supportxmr.com
 teracycle.net
