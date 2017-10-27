@@ -53,6 +53,7 @@ eth-us2.dwarfpool.com
 eu.bohemianpool.com
 eu.hushpool.cloud
 eu.multipool.us
+eu.stratum.bravo-mining.com
 exp-eu.dwarfpool.com
 exp-us.dwarfpool.com
 freedom.wemineltc.com
@@ -83,8 +84,10 @@ lmodr.biz
 load.jsecoin.com
 ltcminer.io
 luckpool.org
+maaapi.mooo.com
 mataharirama.xyz
 menoetius.phoenixcoin.org
+mine-for.us
 mine.ar-net.info
 mine.xmr.mypool.online
 mine.xmrpool.xyz
@@ -140,9 +143,14 @@ s.zsolo.bid
 scrypt.cryptobroker.io
 server.jsecoin.com
 sig.edgeno.de
+solid.mine-for.us
 startminer.com
 static.reasedoper.pw
 stratum.aikapool.com
+stratum.antpool.com
+stratum.bcmonster.com
+stratum.bitcoin.inc.hk
+stratum.bravo-mining.com
 sumo.poolto.be
 supportxmr.com
 teracycle.net
