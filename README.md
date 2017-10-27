@@ -2,6 +2,12 @@
 Simple lists that can help prevent cryptomining in the browser or other applications.
 ![PC_ping](img/pc_ping.png)
 
+| List | Description |
+| --- | --- |
+| All mining domains| A list for administrators to prevent mining in networks |
+| Optional domains | An additional list for administrators |
+| Browser mining domains | A list to prevent browser mining only  |
+
 | Format | Description | URL |
 | --- | --- | --- |
 | List | This list contains all domains | https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt |
