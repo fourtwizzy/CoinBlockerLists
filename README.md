@@ -4,9 +4,9 @@ Simple lists that can help prevent cryptomining in the browser or other applicat
 
 | List | Description |
 | --- | --- |
-| All mining domains| A list for administrators to prevent mining in networks |
-| Optional domains | An additional list for administrators |
-| Browser mining domains | A list to prevent browser mining only  |
+| All mining domains (list.txt/hosts) | A list for administrators to prevent mining in networks |
+| Optional domains (optional.txt/hosts_optional) | An additional list for administrators |
+| Browser mining domains (list_browser.txt/hosts_browser) | A list to prevent browser mining only  |
 
 | Format | Description | URL |
 | --- | --- | --- |
