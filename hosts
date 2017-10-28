@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 28 Oct 2017 15:04
+# Last modified: 28 Oct 2017 15:11
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -63,6 +63,7 @@
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dogepool.rf.gd
 0.0.0.0 edgeno.de
+0.0.0.0 electrum1.wemineltc.com
 0.0.0.0 equihash.cryptobroker.io
 0.0.0.0 escobar.pr0gramm.com
 0.0.0.0 eth-ar.dwarfpool.com
@@ -84,6 +85,8 @@
 0.0.0.0 eu.hushpool.cloud
 0.0.0.0 eu.multipool.us
 0.0.0.0 eu.stratum.bravo-mining.com
+0.0.0.0 eu.wemineltc.com
+0.0.0.0 eu2.wemineltc.com
 0.0.0.0 europe.cryptonight-hub.miningpoolhub.com
 0.0.0.0 europe.equihash-hub.miningpoolhub.com
 0.0.0.0 europe.ethash-hub.miningpoolhub.com
@@ -103,7 +106,9 @@
 0.0.0.0 gemius.pl
 0.0.0.0 geocoin.miningpoolhub.com
 0.0.0.0 getpool.network
+0.0.0.0 gigahash.wemineltc.com
 0.0.0.0 givecoin.miningpoolhub.com
+0.0.0.0 global.wemineltc.com
 0.0.0.0 globalboosty.miningpoolhub.com
 0.0.0.0 goodolddownloads.com
 0.0.0.0 google.gus.host
@@ -115,6 +120,10 @@
 0.0.0.0 hashgate.eu
 0.0.0.0 hexamining.io
 0.0.0.0 hit.gemius.pl
+0.0.0.0 hk2.wemineltc.com
+0.0.0.0 hk3.wemineltc.com
+0.0.0.0 hkasic1.wemineltc.com
+0.0.0.0 hot.wemineltc.com
 0.0.0.0 hub.miningpoolhub.com
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hurensohn.pr0gramm.com
@@ -135,6 +144,7 @@
 0.0.0.0 kryptex.info
 0.0.0.0 la01.supportxmr.com
 0.0.0.0 listat.biz
+0.0.0.0 lite.wemineltc.com
 0.0.0.0 litecoin.miningpoolhub.com
 0.0.0.0 lmodr.biz
 0.0.0.0 load.jsecoin.com
@@ -147,6 +157,7 @@
 0.0.0.0 mail.miningpoolhub.com
 0.0.0.0 mataharirama.xyz
 0.0.0.0 maxcoin.miningpoolhub.com
+0.0.0.0 megahash.wemineltc.com
 0.0.0.0 menoetius.phoenixcoin.org
 0.0.0.0 mine-for.us
 0.0.0.0 mine.ar-net.info
@@ -185,6 +196,7 @@
 0.0.0.0 myriadcoin-skein.miningpoolhub.com
 0.0.0.0 myriadcoin-yescrypt.miningpoolhub.com
 0.0.0.0 ndc.bitember.com
+0.0.0.0 ns1.wemineltc.com
 0.0.0.0 ny1.minez.zone
 0.0.0.0 oload.info
 0.0.0.0 p2p-multipool.greengaming.de
@@ -204,6 +216,7 @@
 0.0.0.0 pool.xmr.pt
 0.0.0.0 poolmining.org
 0.0.0.0 potcoin.miningpoolhub.com
+0.0.0.0 power.wemineltc.com
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gramm.com
 0.0.0.0 projectpoi.com
@@ -237,12 +250,14 @@
 0.0.0.0 stratum.bitcoin.inc.hk
 0.0.0.0 stratum.bravo-mining.com
 0.0.0.0 stratum.mining.eligius.st
+0.0.0.0 stratum2.wemineltc.com
 0.0.0.0 sumo.poolto.be
 0.0.0.0 supportxmr.com
 0.0.0.0 teracycle.net
 0.0.0.0 test.miningpoolhub.com
 0.0.0.0 thumb.pr0gramm.com
 0.0.0.0 ufocoin.miningpoolhub.com
+0.0.0.0 united.wemineltc.com
 0.0.0.0 uro.miningpoolhub.com
 0.0.0.0 us-east.cryptonight-hub.miningpoolhub.com
 0.0.0.0 us-east.equihash-hub.miningpoolhub.com
@@ -251,16 +266,23 @@
 0.0.0.0 us-east.monero.miningpoolhub.com
 0.0.0.0 us-east1.ethereum.miningpoolhub.com
 0.0.0.0 us.multipool.us
+0.0.0.0 us.wemineltc.com
+0.0.0.0 us3.wemineltc.com
+0.0.0.0 usa.wemineltc.com
+0.0.0.0 usa2.wemineltc.com
+0.0.0.0 usa4.wemineltc.com
 0.0.0.0 usxmrpool.com
 0.0.0.0 vcash.miningpoolhub.com
 0.0.0.0 verge-scrypt.miningpoolhub.com
 0.0.0.0 versiliaguide.com
 0.0.0.0 vertcoin.miningpoolhub.com
 0.0.0.0 vid.pr0gramm.com
+0.0.0.0 vip48.wemineltc.com
 0.0.0.0 virtualminingcoin.miningpoolhub.com
 0.0.0.0 w13.coinhive.com
 0.0.0.0 webmine.cz
 0.0.0.0 wo15.coinhive.com
+0.0.0.0 world.wemineltc.com
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
 0.0.0.0 ws001.coinhive.com
@@ -403,6 +425,8 @@
 0.0.0.0 www.miningpoolhub.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
+0.0.0.0 www.wemineltc.com
+0.0.0.0 www2.wemineltc.com
 0.0.0.0 xbasfbno.info
 0.0.0.0 xmr-eu.dwarfpool.com
 0.0.0.0 xmr-eu1.nanopool.org

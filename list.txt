@@ -60,6 +60,7 @@ digitalcoin-x11.miningpoolhub.com
 dmdamedia.hu
 dogepool.rf.gd
 edgeno.de
+electrum1.wemineltc.com
 equihash.cryptobroker.io
 escobar.pr0gramm.com
 eth-ar.dwarfpool.com
@@ -81,6 +82,8 @@ eu.bohemianpool.com
 eu.hushpool.cloud
 eu.multipool.us
 eu.stratum.bravo-mining.com
+eu.wemineltc.com
+eu2.wemineltc.com
 europe.cryptonight-hub.miningpoolhub.com
 europe.equihash-hub.miningpoolhub.com
 europe.ethash-hub.miningpoolhub.com
@@ -100,7 +103,9 @@ gamecredits.miningpoolhub.com
 gemius.pl
 geocoin.miningpoolhub.com
 getpool.network
+gigahash.wemineltc.com
 givecoin.miningpoolhub.com
+global.wemineltc.com
 globalboosty.miningpoolhub.com
 goodolddownloads.com
 google.gus.host
@@ -112,6 +117,10 @@ hashforcash.us
 hashgate.eu
 hexamining.io
 hit.gemius.pl
+hk2.wemineltc.com
+hk3.wemineltc.com
+hkasic1.wemineltc.com
+hot.wemineltc.com
 hub.miningpoolhub.com
 huiwiw.hit.gemius.pl
 hurensohn.pr0gramm.com
@@ -132,6 +141,7 @@ kiwifarms.net
 kryptex.info
 la01.supportxmr.com
 listat.biz
+lite.wemineltc.com
 litecoin.miningpoolhub.com
 lmodr.biz
 load.jsecoin.com
@@ -144,6 +154,7 @@ mail.crypto-loot.com
 mail.miningpoolhub.com
 mataharirama.xyz
 maxcoin.miningpoolhub.com
+megahash.wemineltc.com
 menoetius.phoenixcoin.org
 mine-for.us
 mine.ar-net.info
@@ -182,6 +193,7 @@ myriadcoin-qubit.miningpoolhub.com
 myriadcoin-skein.miningpoolhub.com
 myriadcoin-yescrypt.miningpoolhub.com
 ndc.bitember.com
+ns1.wemineltc.com
 ny1.minez.zone
 oload.info
 p2p-multipool.greengaming.de
@@ -201,6 +213,7 @@ pool.moriaxmr.com
 pool.xmr.pt
 poolmining.org
 potcoin.miningpoolhub.com
+power.wemineltc.com
 ppoi.org
 pr0gramm.com
 projectpoi.com
@@ -234,12 +247,14 @@ stratum.bcmonster.com
 stratum.bitcoin.inc.hk
 stratum.bravo-mining.com
 stratum.mining.eligius.st
+stratum2.wemineltc.com
 sumo.poolto.be
 supportxmr.com
 teracycle.net
 test.miningpoolhub.com
 thumb.pr0gramm.com
 ufocoin.miningpoolhub.com
+united.wemineltc.com
 uro.miningpoolhub.com
 us-east.cryptonight-hub.miningpoolhub.com
 us-east.equihash-hub.miningpoolhub.com
@@ -248,16 +263,23 @@ us-east.lyra2z-hub.miningpoolhub.com
 us-east.monero.miningpoolhub.com
 us-east1.ethereum.miningpoolhub.com
 us.multipool.us
+us.wemineltc.com
+us3.wemineltc.com
+usa.wemineltc.com
+usa2.wemineltc.com
+usa4.wemineltc.com
 usxmrpool.com
 vcash.miningpoolhub.com
 verge-scrypt.miningpoolhub.com
 versiliaguide.com
 vertcoin.miningpoolhub.com
 vid.pr0gramm.com
+vip48.wemineltc.com
 virtualminingcoin.miningpoolhub.com
 w13.coinhive.com
 webmine.cz
 wo15.coinhive.com
+world.wemineltc.com
 ws000.coinhive.com
 ws001.authedmine.com
 ws001.coinhive.com
@@ -400,6 +422,8 @@ www.jsecoin.com
 www.miningpoolhub.com
 www.ppoi.org
 www.pr0gramm.com
+www.wemineltc.com
+www2.wemineltc.com
 xbasfbno.info
 xmr-eu.dwarfpool.com
 xmr-eu1.nanopool.org
