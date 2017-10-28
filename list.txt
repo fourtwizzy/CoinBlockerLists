@@ -20,6 +20,7 @@ authedmine.com
 authedwebmine.cz
 avatar.pr0gramm.com
 azvjudwr.info
+back4.2giga.link
 bitcoin-cash.miningpoolhub.com
 bitcoin.miningpoolhub.com
 bitcoinz.getpool.network
@@ -98,6 +99,7 @@ feathercoin.miningpoolhub.com
 fractalcoin.miningpoolhub.com
 freedom.wemineltc.com
 friendshipcoin.miningpoolhub.com
+ftp.coinhive-manager.com
 full.pr0gramm.com
 gamecredits.miningpoolhub.com
 gemius.pl
@@ -150,6 +152,7 @@ ltcminer.io
 luckpool.org
 m.pr0gramm.com
 maaapi.mooo.com
+mail.coinhive-manager.com
 mail.crypto-loot.com
 mail.miningpoolhub.com
 mataharirama.xyz
@@ -411,8 +414,10 @@ ws8.coin-have.com
 ws9.coin-have.com
 ww.pr0gramm.com
 www-tb7c.pr0gramm.com
+www.2giga.link
 www.authedmine.com
 www.ckpool.org
+www.coinhive-manager.com
 www.coinhive.com
 www.crypto-loot.com
 www.dogepool.rf.gd
@@ -423,7 +428,14 @@ www.miningpoolhub.com
 www.ppoi.org
 www.pr0gramm.com
 www.wemineltc.com
+www1.2giga.link
+www2.2giga.link
 www2.wemineltc.com
+www3.2giga.link
+www4.2giga.link
+www5.2giga.link
+www6.2giga.link
+www7.2giga.link
 xbasfbno.info
 xmr-eu.dwarfpool.com
 xmr-eu1.nanopool.org

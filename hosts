@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 28 Oct 2017 15:11
+# Last modified: 28 Oct 2017 16:32
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -23,6 +23,7 @@
 0.0.0.0 authedwebmine.cz
 0.0.0.0 avatar.pr0gramm.com
 0.0.0.0 azvjudwr.info
+0.0.0.0 back4.2giga.link
 0.0.0.0 bitcoin-cash.miningpoolhub.com
 0.0.0.0 bitcoin.miningpoolhub.com
 0.0.0.0 bitcoinz.getpool.network
@@ -101,6 +102,7 @@
 0.0.0.0 fractalcoin.miningpoolhub.com
 0.0.0.0 freedom.wemineltc.com
 0.0.0.0 friendshipcoin.miningpoolhub.com
+0.0.0.0 ftp.coinhive-manager.com
 0.0.0.0 full.pr0gramm.com
 0.0.0.0 gamecredits.miningpoolhub.com
 0.0.0.0 gemius.pl
@@ -153,6 +155,7 @@
 0.0.0.0 luckpool.org
 0.0.0.0 m.pr0gramm.com
 0.0.0.0 maaapi.mooo.com
+0.0.0.0 mail.coinhive-manager.com
 0.0.0.0 mail.crypto-loot.com
 0.0.0.0 mail.miningpoolhub.com
 0.0.0.0 mataharirama.xyz
@@ -414,8 +417,10 @@
 0.0.0.0 ws9.coin-have.com
 0.0.0.0 ww.pr0gramm.com
 0.0.0.0 www-tb7c.pr0gramm.com
+0.0.0.0 www.2giga.link
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.ckpool.org
+0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.dogepool.rf.gd
@@ -426,7 +431,14 @@
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.wemineltc.com
+0.0.0.0 www1.2giga.link
+0.0.0.0 www2.2giga.link
 0.0.0.0 www2.wemineltc.com
+0.0.0.0 www3.2giga.link
+0.0.0.0 www4.2giga.link
+0.0.0.0 www5.2giga.link
+0.0.0.0 www6.2giga.link
+0.0.0.0 www7.2giga.link
 0.0.0.0 xbasfbno.info
 0.0.0.0 xmr-eu.dwarfpool.com
 0.0.0.0 xmr-eu1.nanopool.org

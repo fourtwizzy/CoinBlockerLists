@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 28 Oct 2017 15:04
+# Last modified: 28 Oct 2017 16:32
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 afminer.com
@@ -11,6 +11,7 @@
 0.0.0.0 authedwebmine.cz
 0.0.0.0 avatar.pr0gramm.com
 0.0.0.0 azvjudwr.info
+0.0.0.0 back4.2giga.link
 0.0.0.0 capodannoinversilia.com
 0.0.0.0 cnhv.co
 0.0.0.0 coin-have.com
@@ -28,6 +29,7 @@
 0.0.0.0 dmdamedia.hu
 0.0.0.0 edgeno.de
 0.0.0.0 escobar.pr0gramm.com
+0.0.0.0 ftp.coinhive-manager.com
 0.0.0.0 full.pr0gramm.com
 0.0.0.0 gemius.pl
 0.0.0.0 goodolddownloads.com
@@ -52,6 +54,7 @@
 0.0.0.0 lmodr.biz
 0.0.0.0 load.jsecoin.com
 0.0.0.0 m.pr0gramm.com
+0.0.0.0 mail.coinhive-manager.com
 0.0.0.0 mail.crypto-loot.com
 0.0.0.0 mataharirama.xyz
 0.0.0.0 minecrunch.co
@@ -209,7 +212,9 @@
 0.0.0.0 ws9.coin-have.com
 0.0.0.0 ww.pr0gramm.com
 0.0.0.0 www-tb7c.pr0gramm.com
+0.0.0.0 www.2giga.link
 0.0.0.0 www.authedmine.com
+0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.gus.host
@@ -217,4 +222,11 @@
 0.0.0.0 www.jsecoin.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
+0.0.0.0 www1.2giga.link
+0.0.0.0 www2.2giga.link
+0.0.0.0 www3.2giga.link
+0.0.0.0 www4.2giga.link
+0.0.0.0 www5.2giga.link
+0.0.0.0 www6.2giga.link
+0.0.0.0 www7.2giga.link
 0.0.0.0 xbasfbno.info

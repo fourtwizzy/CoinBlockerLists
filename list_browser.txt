@@ -8,6 +8,7 @@ authedmine.com
 authedwebmine.cz
 avatar.pr0gramm.com
 azvjudwr.info
+back4.2giga.link
 capodannoinversilia.com
 cnhv.co
 coin-have.com
@@ -25,6 +26,7 @@ deepc.cc
 dmdamedia.hu
 edgeno.de
 escobar.pr0gramm.com
+ftp.coinhive-manager.com
 full.pr0gramm.com
 gemius.pl
 goodolddownloads.com
@@ -49,6 +51,7 @@ listat.biz
 lmodr.biz
 load.jsecoin.com
 m.pr0gramm.com
+mail.coinhive-manager.com
 mail.crypto-loot.com
 mataharirama.xyz
 minecrunch.co
@@ -206,7 +209,9 @@ ws8.coin-have.com
 ws9.coin-have.com
 ww.pr0gramm.com
 www-tb7c.pr0gramm.com
+www.2giga.link
 www.authedmine.com
+www.coinhive-manager.com
 www.coinhive.com
 www.crypto-loot.com
 www.gus.host
@@ -214,4 +219,11 @@ www.hashforcash.us
 www.jsecoin.com
 www.ppoi.org
 www.pr0gramm.com
+www1.2giga.link
+www2.2giga.link
+www3.2giga.link
+www4.2giga.link
+www5.2giga.link
+www6.2giga.link
+www7.2giga.link
 xbasfbno.info
