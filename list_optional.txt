@@ -1,5 +1,17 @@
 803mine.com
 api.inwemo.com
+basicdemo.emercoin.com
 cdn.inwemo.com
 coinminerz.com
+download.emercoin.com
+emercoin.com
+i2p.emercoin.com
+pool.emercoin.com
+pool2.emercoin.com
+redmine.emercoin.com
+seed.emercoin.com
+seed1.emercoin.com
+seed2.emercoin.com
+wiki.emercoin.com
 www.803mine.com
+www.emercoin.com
