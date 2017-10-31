@@ -34,6 +34,7 @@ beta-mining.bitcoin.cz
 beta.madmining.club
 beta.mining.bitcoin.cz
 bitcoin-cash.miningpoolhub.com
+bitcoin-russia.ru
 bitcoin.cz
 bitcoin.miningpoolhub.com
 bitcoinz.getpool.network
@@ -71,6 +72,7 @@ cryptmonero.com
 crypto-loot.com
 cryptofriends.org
 csc.suprnova.cc
+d1.eth.pp.ua
 darkcoin.miningpoolhub.com
 dash.miningpoolhub.com
 dash.suprnova.cc
@@ -118,6 +120,7 @@ eth-ru2.dwarfpool.com
 eth-sg.dwarfpool.com
 eth-us.dwarfpool.com
 eth-us2.dwarfpool.com
+eth.pp.ua
 eth.suprnova.cc
 ethereum-classic.miningpoolhub.com
 ethereum.miningpoolhub.com
@@ -143,6 +146,7 @@ exp-eu.dwarfpool.com
 exp-us.dwarfpool.com
 exp.suprnova.cc
 expanse.miningpoolhub.com
+explorer.bitcoin-russia.ru
 fail.suprnova.cc
 feathercoin.miningpoolhub.com
 flo.suprnova.cc
@@ -248,8 +252,10 @@ maaapi.mooo.com
 mac.suprnova.cc
 mail.coinhive-manager.com
 mail.crypto-loot.com
+mail.eth.pp.ua
 mail.miningpoolhub.com
 mail.miningspeed.com
+map.bitcoin-russia.ru
 mar.suprnova.cc
 mataharirama.xyz
 max.suprnova.cc
@@ -314,6 +320,7 @@ myriadcoin-yescrypt.miningpoolhub.com
 ndc.bitember.com
 netko.suprnova.cc
 neva.suprnova.cc
+nodes.bitcoin-russia.ru
 nrn.suprnova.cc
 ns1.wemineltc.com
 ny1.minez.zone
@@ -340,6 +347,7 @@ pool.bitcoin.cz
 pool.bohemianpool.com
 pool.burstmarketplace.com
 pool.ckpool.org
+pool.eth.pp.ua
 pool.minemonero.pro
 pool.miners.pro
 pool.miningspeed.com
@@ -383,6 +391,7 @@ solo.ckpool.org
 sologateway.ckpool.org
 spaincoin.miningpoolhub.com
 spr.suprnova.cc
+sql.eth.pp.ua
 start.suprnova.cc
 startcoin.miningpoolhub.com
 startminer.com
@@ -415,6 +424,7 @@ suprnova.cc
 sv1.kano.is
 sweep.suprnova.cc
 teracycle.net
+test.eth.pp.ua
 test.miningpoolhub.com
 thumb.pr0gramm.com
 tratum.bitcoin.cz
@@ -605,12 +615,14 @@ ww.pr0gramm.com
 www-tb7c.pr0gramm.com
 www.2giga.link
 www.authedmine.com
+www.bitcoin-russia.ru
 www.bitcoin.cz
 www.ckpool.org
 www.coinhive-manager.com
 www.coinhive.com
 www.crypto-loot.com
 www.dogepool.rf.gd
+www.eth.pp.ua
 www.gus.host
 www.hashforcash.us
 www.jsecoin.com

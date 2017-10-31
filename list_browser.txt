@@ -10,6 +10,7 @@ avatar.pr0gramm.com
 azvjudwr.info
 back4.2giga.link
 capodannoinversilia.com
+cdn.cloudcoins.co
 cnhv.co
 coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh
@@ -65,6 +66,7 @@ monerominer.rocks
 oload.info
 platform.jsecoin.com
 podrltid.info
+pool.cloudcoins.co
 ppoi.org
 pr0gramm.com
 projectpoi.com
@@ -211,6 +213,7 @@ ww.pr0gramm.com
 www-tb7c.pr0gramm.com
 www.2giga.link
 www.authedmine.com
+www.cloudcoins.co
 www.coinhive-manager.com
 www.coinhive.com
 www.crypto-loot.com

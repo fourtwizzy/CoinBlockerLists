@@ -9,6 +9,7 @@ i2p.emercoin.com
 pool.emercoin.com
 pool2.emercoin.com
 redmine.emercoin.com
+safelinkconverter.com
 seed.emercoin.com
 seed1.emercoin.com
 seed2.emercoin.com
