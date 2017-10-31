@@ -52,6 +52,7 @@ btcz.suprnova.cc
 btx.suprnova.cc
 cann.suprnova.cc
 capodannoinversilia.com
+cdn.cloudcoins.co
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
@@ -347,6 +348,7 @@ pool.bitcoin.cz
 pool.bohemianpool.com
 pool.burstmarketplace.com
 pool.ckpool.org
+pool.cloudcoins.co
 pool.eth.pp.ua
 pool.minemonero.pro
 pool.miners.pro
@@ -618,6 +620,7 @@ www.authedmine.com
 www.bitcoin-russia.ru
 www.bitcoin.cz
 www.ckpool.org
+www.cloudcoins.co
 www.coinhive-manager.com
 www.coinhive.com
 www.crypto-loot.com

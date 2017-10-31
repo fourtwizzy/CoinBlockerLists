@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-#  Last modified: 31 Oct 2017 14:08
+# Last modified: 31 Oct 2017 14:15
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -55,6 +55,7 @@
 0.0.0.0 btx.suprnova.cc
 0.0.0.0 cann.suprnova.cc
 0.0.0.0 capodannoinversilia.com
+0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 chc.suprnova.cc
 0.0.0.0 checkcoin.miningpoolhub.com
 0.0.0.0 cirkev.bitcoin.cz
@@ -350,6 +351,7 @@
 0.0.0.0 pool.bohemianpool.com
 0.0.0.0 pool.burstmarketplace.com
 0.0.0.0 pool.ckpool.org
+0.0.0.0 pool.cloudcoins.co
 0.0.0.0 pool.eth.pp.ua
 0.0.0.0 pool.minemonero.pro
 0.0.0.0 pool.miners.pro
@@ -621,6 +623,7 @@
 0.0.0.0 www.bitcoin-russia.ru
 0.0.0.0 www.bitcoin.cz
 0.0.0.0 www.ckpool.org
+0.0.0.0 www.cloudcoins.co
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.crypto-loot.com
