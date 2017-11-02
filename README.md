@@ -24,6 +24,9 @@ Simple lists that can help prevent cryptomining in the browser or other applicat
 | Hosts | This list contains all optional domains | https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_optional |
 | Hosts | This list contains all browser mining domains | https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser |
 
+### CoinBlockerLists is available on https://wally3k.github.io/
+Thanks to https://github.com/WaLLy3K and https://github.com/beerisgood :)
+
 ### CoinBlockerLists is available in update-hosts
 https://aur.archlinux.org/packages/update-hosts-git/
 https://github.com/pyamsoft/update-hosts
