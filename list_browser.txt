@@ -20,14 +20,17 @@ coinerra.com
 coinhive-manager.com
 coinhive-proxy.party
 coinhive.com
+coinlab.biz
 coinnebula.com
 cqfnvznw.info
 crypto-loot.com
 deepc.cc
+dev.coinlab.biz
 dmdamedia.hu
 edgeno.de
 escobar.pr0gramm.com
 ftp.coinhive-manager.com
+ftp.coinlab.biz
 full.pr0gramm.com
 gemius.pl
 goodolddownloads.com
@@ -67,6 +70,7 @@ oload.info
 platform.jsecoin.com
 podrltid.info
 pool.cloudcoins.co
+pool.coinlab.biz
 ppoi.org
 pr0gramm.com
 projectpoi.com
@@ -216,6 +220,7 @@ www.authedmine.com
 www.cloudcoins.co
 www.coinhive-manager.com
 www.coinhive.com
+www.coinlab.biz
 www.crypto-loot.com
 www.gus.host
 www.hashforcash.us
@@ -230,3 +235,4 @@ www5.2giga.link
 www6.2giga.link
 www7.2giga.link
 xbasfbno.info
+xmr.coinlab.biz

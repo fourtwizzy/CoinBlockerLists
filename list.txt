@@ -65,6 +65,7 @@ coinerra.com
 coinhive-manager.com
 coinhive-proxy.party
 coinhive.com
+coinlab.biz
 coinnebula.com
 com-http.us
 cqfnvznw.info
@@ -88,6 +89,7 @@ deepc.cc
 depool.ckpool.org
 depoolstratum.ckpool.org
 destratum.ckpool.org
+dev.coinlab.biz
 dgbg.suprnova.cc
 dgbq.suprnova.cc
 dgbs.suprnova.cc
@@ -174,6 +176,7 @@ friendshipcoin.miningpoolhub.com
 ftc.suprnova.cc
 ftp.bitcoin.cz
 ftp.coinhive-manager.com
+ftp.coinlab.biz
 ftp.miningspeed.com
 full.pr0gramm.com
 fwl.bitcoin.cz
@@ -349,6 +352,7 @@ pool.bohemianpool.com
 pool.burstmarketplace.com
 pool.ckpool.org
 pool.cloudcoins.co
+pool.coinlab.biz
 pool.eth.pp.ua
 pool.minemonero.pro
 pool.miners.pro
@@ -623,6 +627,7 @@ www.ckpool.org
 www.cloudcoins.co
 www.coinhive-manager.com
 www.coinhive.com
+www.coinlab.biz
 www.crypto-loot.com
 www.dogepool.rf.gd
 www.eth.pp.ua
@@ -658,6 +663,7 @@ xmr-eu1.nanopool.org
 xmr-us.suprnova.cc
 xmr-usa.dwarfpool.com
 xmr.alimabi.cn
+xmr.coinlab.biz
 xmr.miningspeed.com
 xmr.nanopool.org
 xmr.pools.e-scavo.net.ar

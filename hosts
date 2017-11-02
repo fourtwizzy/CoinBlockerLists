@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 31 Oct 2017 14:15
+# Last modified: 02 Nov 2017 12:48
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -68,6 +68,7 @@
 0.0.0.0 coinhive-manager.com
 0.0.0.0 coinhive-proxy.party
 0.0.0.0 coinhive.com
+0.0.0.0 coinlab.biz
 0.0.0.0 coinnebula.com
 0.0.0.0 com-http.us
 0.0.0.0 cqfnvznw.info
@@ -91,6 +92,7 @@
 0.0.0.0 depool.ckpool.org
 0.0.0.0 depoolstratum.ckpool.org
 0.0.0.0 destratum.ckpool.org
+0.0.0.0 dev.coinlab.biz
 0.0.0.0 dgbg.suprnova.cc
 0.0.0.0 dgbq.suprnova.cc
 0.0.0.0 dgbs.suprnova.cc
@@ -177,6 +179,7 @@
 0.0.0.0 ftc.suprnova.cc
 0.0.0.0 ftp.bitcoin.cz
 0.0.0.0 ftp.coinhive-manager.com
+0.0.0.0 ftp.coinlab.biz
 0.0.0.0 ftp.miningspeed.com
 0.0.0.0 full.pr0gramm.com
 0.0.0.0 fwl.bitcoin.cz
@@ -352,6 +355,7 @@
 0.0.0.0 pool.burstmarketplace.com
 0.0.0.0 pool.ckpool.org
 0.0.0.0 pool.cloudcoins.co
+0.0.0.0 pool.coinlab.biz
 0.0.0.0 pool.eth.pp.ua
 0.0.0.0 pool.minemonero.pro
 0.0.0.0 pool.miners.pro
@@ -626,6 +630,7 @@
 0.0.0.0 www.cloudcoins.co
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com
+0.0.0.0 www.coinlab.biz
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.dogepool.rf.gd
 0.0.0.0 www.eth.pp.ua
@@ -661,6 +666,7 @@
 0.0.0.0 xmr-us.suprnova.cc
 0.0.0.0 xmr-usa.dwarfpool.com
 0.0.0.0 xmr.alimabi.cn
+0.0.0.0 xmr.coinlab.biz
 0.0.0.0 xmr.miningspeed.com
 0.0.0.0 xmr.nanopool.org
 0.0.0.0 xmr.pools.e-scavo.net.ar
