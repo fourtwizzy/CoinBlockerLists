@@ -39,6 +39,7 @@ bitcoin.cz
 bitcoin.miningpoolhub.com
 bitcoinz.getpool.network
 bitminer.io
+bitminter.com
 bitnex.io
 bitzfree.com
 blog.bitcoin.cz
@@ -100,6 +101,7 @@ digibyte-skein.miningpoolhub.com
 digitalcoin-x11.miningpoolhub.com
 dmdamedia.hu
 dogepool.rf.gd
+dsh.tugae2.com
 eac.suprnova.cc
 edgeno.de
 electrum.bitcoin.cz
@@ -137,6 +139,7 @@ eu.multipool.us
 eu.stratum.bitcoin.cz
 eu.stratum.bravo-mining.com
 eu.wemineltc.com
+eu1.bitminter.com
 eu2.wemineltc.com
 europe.cryptonight-hub.miningpoolhub.com
 europe.equihash-hub.miningpoolhub.com
@@ -178,6 +181,7 @@ ftp.bitcoin.cz
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 ftp.miningspeed.com
+ftp.tugae2.com
 full.pr0gramm.com
 fwl.bitcoin.cz
 gamecredits.miningpoolhub.com
@@ -259,6 +263,7 @@ mail.crypto-loot.com
 mail.eth.pp.ua
 mail.miningpoolhub.com
 mail.miningspeed.com
+mail.tugae2.com
 map.bitcoin-russia.ru
 mar.suprnova.cc
 mataharirama.xyz
@@ -297,6 +302,7 @@ mining.miningspeed.com
 mininh.bitcoin.cz
 minning.bitcoin.cz
 minnng.bitcoin.cz
+mint.bitminter.com
 minzpool.ml
 mmpool.org
 mobile.bitcoin.cz
@@ -306,6 +312,7 @@ monero-miner.com
 monero.crypto-pool.fr
 monero.miningpoolhub.com
 monero.mmpool.org
+monero.tugae2.com
 monero.us.to
 monerohash.com
 monerominer.life
@@ -361,6 +368,7 @@ pool.moneropool.nl
 pool.moriaxmr.com
 pool.xmr.pt
 poolmining.org
+pools.tugae2.com
 potcoin.miningpoolhub.com
 power.wemineltc.com
 ppoi.org
@@ -391,6 +399,7 @@ sig.edgeno.de
 sigt-api.suprnova.cc
 sigt.suprnova.cc
 smartcoin.miningpoolhub.com
+smtp.tugae2.com
 solarcoin.miningpoolhub.com
 solid.mine-for.us
 solo.ckpool.org
@@ -430,12 +439,14 @@ suprnova.cc
 sv1.kano.is
 sweep.suprnova.cc
 teracycle.net
+test.bitminter.com
 test.eth.pp.ua
 test.miningpoolhub.com
 thumb.pr0gramm.com
 tratum.bitcoin.cz
 trezor.bitcoin.cz
 ttc.suprnova.cc
+tugae2.com
 tzc.suprnova.cc
 u.forre.st
 ubiq.suprnova.cc
@@ -465,6 +476,8 @@ us.miningspeed.com
 us.multipool.us
 us.wemineltc.com
 us1.bitcoin.cz
+us1.bitminter.com
+us2.bitminter.com
 us3.wemineltc.com
 usa.bitcoin.cz
 usa.wemineltc.com
@@ -482,6 +495,7 @@ vid.pr0gramm.com
 vip48.wemineltc.com
 virtualminingcoin.miningpoolhub.com
 w13.coinhive.com
+webmail.tugae2.com
 webmine.cz
 wo15.coinhive.com
 wood.suprnova.cc
@@ -623,6 +637,7 @@ www.2giga.link
 www.authedmine.com
 www.bitcoin-russia.ru
 www.bitcoin.cz
+www.bitminter.com
 www.ckpool.org
 www.cloudcoins.co
 www.coinhive-manager.com
@@ -645,6 +660,7 @@ www.p2pool.org
 www.ppoi.org
 www.pr0gramm.com
 www.suprnova.cc
+www.tugae2.com
 www.wemineltc.com
 www1.2giga.link
 www2.2giga.link

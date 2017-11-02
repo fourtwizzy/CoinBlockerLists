@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 02 Nov 2017 12:48
+# Last modified: 02 Nov 2017 13:19
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -42,6 +42,7 @@
 0.0.0.0 bitcoin.miningpoolhub.com
 0.0.0.0 bitcoinz.getpool.network
 0.0.0.0 bitminer.io
+0.0.0.0 bitminter.com
 0.0.0.0 bitnex.io
 0.0.0.0 bitzfree.com
 0.0.0.0 blog.bitcoin.cz
@@ -103,6 +104,7 @@
 0.0.0.0 digitalcoin-x11.miningpoolhub.com
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dogepool.rf.gd
+0.0.0.0 dsh.tugae2.com
 0.0.0.0 eac.suprnova.cc
 0.0.0.0 edgeno.de
 0.0.0.0 electrum.bitcoin.cz
@@ -140,6 +142,7 @@
 0.0.0.0 eu.stratum.bitcoin.cz
 0.0.0.0 eu.stratum.bravo-mining.com
 0.0.0.0 eu.wemineltc.com
+0.0.0.0 eu1.bitminter.com
 0.0.0.0 eu2.wemineltc.com
 0.0.0.0 europe.cryptonight-hub.miningpoolhub.com
 0.0.0.0 europe.equihash-hub.miningpoolhub.com
@@ -181,6 +184,7 @@
 0.0.0.0 ftp.coinhive-manager.com
 0.0.0.0 ftp.coinlab.biz
 0.0.0.0 ftp.miningspeed.com
+0.0.0.0 ftp.tugae2.com
 0.0.0.0 full.pr0gramm.com
 0.0.0.0 fwl.bitcoin.cz
 0.0.0.0 gamecredits.miningpoolhub.com
@@ -262,6 +266,7 @@
 0.0.0.0 mail.eth.pp.ua
 0.0.0.0 mail.miningpoolhub.com
 0.0.0.0 mail.miningspeed.com
+0.0.0.0 mail.tugae2.com
 0.0.0.0 map.bitcoin-russia.ru
 0.0.0.0 mar.suprnova.cc
 0.0.0.0 mataharirama.xyz
@@ -300,6 +305,7 @@
 0.0.0.0 mininh.bitcoin.cz
 0.0.0.0 minning.bitcoin.cz
 0.0.0.0 minnng.bitcoin.cz
+0.0.0.0 mint.bitminter.com
 0.0.0.0 minzpool.ml
 0.0.0.0 mmpool.org
 0.0.0.0 mobile.bitcoin.cz
@@ -309,6 +315,7 @@
 0.0.0.0 monero.crypto-pool.fr
 0.0.0.0 monero.miningpoolhub.com
 0.0.0.0 monero.mmpool.org
+0.0.0.0 monero.tugae2.com
 0.0.0.0 monero.us.to
 0.0.0.0 monerohash.com
 0.0.0.0 monerominer.life
@@ -364,6 +371,7 @@
 0.0.0.0 pool.moriaxmr.com
 0.0.0.0 pool.xmr.pt
 0.0.0.0 poolmining.org
+0.0.0.0 pools.tugae2.com
 0.0.0.0 potcoin.miningpoolhub.com
 0.0.0.0 power.wemineltc.com
 0.0.0.0 ppoi.org
@@ -394,6 +402,7 @@
 0.0.0.0 sigt-api.suprnova.cc
 0.0.0.0 sigt.suprnova.cc
 0.0.0.0 smartcoin.miningpoolhub.com
+0.0.0.0 smtp.tugae2.com
 0.0.0.0 solarcoin.miningpoolhub.com
 0.0.0.0 solid.mine-for.us
 0.0.0.0 solo.ckpool.org
@@ -433,12 +442,14 @@
 0.0.0.0 sv1.kano.is
 0.0.0.0 sweep.suprnova.cc
 0.0.0.0 teracycle.net
+0.0.0.0 test.bitminter.com
 0.0.0.0 test.eth.pp.ua
 0.0.0.0 test.miningpoolhub.com
 0.0.0.0 thumb.pr0gramm.com
 0.0.0.0 tratum.bitcoin.cz
 0.0.0.0 trezor.bitcoin.cz
 0.0.0.0 ttc.suprnova.cc
+0.0.0.0 tugae2.com
 0.0.0.0 tzc.suprnova.cc
 0.0.0.0 u.forre.st
 0.0.0.0 ubiq.suprnova.cc
@@ -468,6 +479,8 @@
 0.0.0.0 us.multipool.us
 0.0.0.0 us.wemineltc.com
 0.0.0.0 us1.bitcoin.cz
+0.0.0.0 us1.bitminter.com
+0.0.0.0 us2.bitminter.com
 0.0.0.0 us3.wemineltc.com
 0.0.0.0 usa.bitcoin.cz
 0.0.0.0 usa.wemineltc.com
@@ -485,6 +498,7 @@
 0.0.0.0 vip48.wemineltc.com
 0.0.0.0 virtualminingcoin.miningpoolhub.com
 0.0.0.0 w13.coinhive.com
+0.0.0.0 webmail.tugae2.com
 0.0.0.0 webmine.cz
 0.0.0.0 wo15.coinhive.com
 0.0.0.0 wood.suprnova.cc
@@ -626,6 +640,7 @@
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.bitcoin-russia.ru
 0.0.0.0 www.bitcoin.cz
+0.0.0.0 www.bitminter.com
 0.0.0.0 www.ckpool.org
 0.0.0.0 www.cloudcoins.co
 0.0.0.0 www.coinhive-manager.com
@@ -648,6 +663,7 @@
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.suprnova.cc
+0.0.0.0 www.tugae2.com
 0.0.0.0 www.wemineltc.com
 0.0.0.0 www1.2giga.link
 0.0.0.0 www2.2giga.link
