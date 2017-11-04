@@ -3,6 +3,7 @@
 api.inwemo.com
 awesomeminer.com
 basicdemo.emercoin.com
+bfgminer.org
 cdn.inwemo.com
 cdn1.cryptopia.co.nz
 cloud.awesomeminer.com
@@ -33,5 +34,6 @@ webmail.awesomeminer.com
 wiki.emercoin.com
 www.803mine.com
 www.awesomeminer.com
+www.bfgminer.org
 www.cryptopia.co.nz
 www.emercoin.com
