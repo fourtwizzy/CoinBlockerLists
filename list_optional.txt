@@ -15,6 +15,7 @@ i2p.emercoin.com
 mail.awesomeminer.com
 mail2.awesomeminer.com
 minecraft.cryptopia.co.nz
+monero-miner.000webhostapp.com
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
 pool.emercoin.com

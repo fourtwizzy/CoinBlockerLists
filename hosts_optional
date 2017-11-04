@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 31 Oct 2017 14:24
+# Last modified: 05 Nov 2017 14:20
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -18,6 +18,7 @@
 0.0.0.0 mail.awesomeminer.com
 0.0.0.0 mail2.awesomeminer.com
 0.0.0.0 minecraft.cryptopia.co.nz
+0.0.0.0 monero-miner.000webhostapp.com
 0.0.0.0 nodes1.cryptopia.co.nz
 0.0.0.0 nodes2.cryptopia.co.nz
 0.0.0.0 pool.emercoin.com

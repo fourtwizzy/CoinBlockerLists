@@ -1,10 +1,11 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 02 Nov 2017 12:48
+# Last modified: 05 Nov 2017 14:20
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 afminer.com
 0.0.0.0 anime.reactor.cc
 0.0.0.0 api.coinhive.com
+0.0.0.0 api.moneroocean.stream
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 auroramine.com
 0.0.0.0 authedmine.com
@@ -27,10 +28,12 @@
 0.0.0.0 coinnebula.com
 0.0.0.0 cqfnvznw.info
 0.0.0.0 crypto-loot.com
+0.0.0.0 de.moneroocean.stream
 0.0.0.0 deepc.cc
 0.0.0.0 dev.coinlab.biz
 0.0.0.0 dmdamedia.hu
 0.0.0.0 edgeno.de
+0.0.0.0 email.moneroocean.stream
 0.0.0.0 escobar.pr0gramm.com
 0.0.0.0 ftp.coinhive-manager.com
 0.0.0.0 ftp.coinlab.biz
@@ -38,6 +41,7 @@
 0.0.0.0 gemius.pl
 0.0.0.0 goodolddownloads.com
 0.0.0.0 google.gus.host
+0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 gus.host
 0.0.0.0 hans.pr0gramm.com
 0.0.0.0 hashforcash.us
@@ -60,6 +64,7 @@
 0.0.0.0 m.pr0gramm.com
 0.0.0.0 mail.coinhive-manager.com
 0.0.0.0 mail.crypto-loot.com
+0.0.0.0 mail.sbhmn-miner.com
 0.0.0.0 mataharirama.xyz
 0.0.0.0 minecrunch.co
 0.0.0.0 minemytraffic.com
@@ -69,6 +74,9 @@
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
 0.0.0.0 monerominer.rocks
+0.0.0.0 moneroocean.stream
+0.0.0.0 my-retrospace.sbhmn-miner.com
+0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 oload.info
 0.0.0.0 platform.jsecoin.com
 0.0.0.0 podrltid.info
@@ -80,13 +88,21 @@
 0.0.0.0 proxy-khlizawelj.now.sh
 0.0.0.0 reasedoper.pw
 0.0.0.0 s.gus.host
+0.0.0.0 sbhmn-miner.com
 0.0.0.0 server.jsecoin.com
 0.0.0.0 static.reasedoper.pw
 0.0.0.0 thumb.pr0gramm.com
+0.0.0.0 us.moneroocean.stream
 0.0.0.0 vid.pr0gramm.com
 0.0.0.0 w13.coinhive.com
+0.0.0.0 wc3-soft.sbhmn-miner.com
+0.0.0.0 wckp.sbhmn-miner.com
+0.0.0.0 web-master.sbhmn-miner.com
 0.0.0.0 webmine.cz
+0.0.0.0 wijzeman.sbhmn-miner.com
+0.0.0.0 witkom.sbhmn-miner.com
 0.0.0.0 wo15.coinhive.com
+0.0.0.0 woork.sbhmn-miner.com
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
 0.0.0.0 ws001.coinhive.com
@@ -228,8 +244,10 @@
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
 0.0.0.0 www.jsecoin.com
+0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
+0.0.0.0 www.sbhmn-miner.com
 0.0.0.0 www1.2giga.link
 0.0.0.0 www2.2giga.link
 0.0.0.0 www3.2giga.link

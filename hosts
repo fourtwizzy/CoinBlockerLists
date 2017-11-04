@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 02 Nov 2017 13:19
+# Last modified: 05 Nov 2017 14:20
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -12,6 +12,7 @@
 0.0.0.0 api-stratum.bitcoin.cz
 0.0.0.0 api.bitcoin.cz
 0.0.0.0 api.coinhive.com
+0.0.0.0 api.moneroocean.stream
 0.0.0.0 api2.bitcoin.cz
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 aricoin.miningpoolhub.com
@@ -89,6 +90,7 @@
 0.0.0.0 de-wal-01.suprnova.cc
 0.0.0.0 de.ckpool.org
 0.0.0.0 de.kano.is
+0.0.0.0 de.moneroocean.stream
 0.0.0.0 deepc.cc
 0.0.0.0 depool.ckpool.org
 0.0.0.0 depoolstratum.ckpool.org
@@ -109,6 +111,7 @@
 0.0.0.0 edgeno.de
 0.0.0.0 electrum.bitcoin.cz
 0.0.0.0 electrum1.wemineltc.com
+0.0.0.0 email.moneroocean.stream
 0.0.0.0 emc2.suprnova.cc
 0.0.0.0 eqt.suprnova.cc
 0.0.0.0 equal.suprnova.cc
@@ -203,6 +206,7 @@
 0.0.0.0 granite.miningpoolhub.com
 0.0.0.0 groestlcoin.miningpoolhub.com
 0.0.0.0 grs.suprnova.cc
+0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 gus.host
 0.0.0.0 hans.pr0gramm.com
 0.0.0.0 hashforcash.us
@@ -266,6 +270,7 @@
 0.0.0.0 mail.eth.pp.ua
 0.0.0.0 mail.miningpoolhub.com
 0.0.0.0 mail.miningspeed.com
+0.0.0.0 mail.sbhmn-miner.com
 0.0.0.0 mail.tugae2.com
 0.0.0.0 map.bitcoin-russia.ru
 0.0.0.0 mar.suprnova.cc
@@ -326,6 +331,8 @@
 0.0.0.0 multicoin.eu
 0.0.0.0 muning.bitcoin.cz
 0.0.0.0 musicoin.miningpoolhub.com
+0.0.0.0 my-retrospace.sbhmn-miner.com
+0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 myrgrs.suprnova.cc
 0.0.0.0 myriadcoin-groestl.miningpoolhub.com
 0.0.0.0 myriadcoin-qubit.miningpoolhub.com
@@ -389,6 +396,7 @@
 0.0.0.0 reasedoper.pw
 0.0.0.0 s.gus.host
 0.0.0.0 s.zsolo.bid
+0.0.0.0 sbhmn-miner.com
 0.0.0.0 scrypt.cryptobroker.io
 0.0.0.0 securecoin.miningpoolhub.com
 0.0.0.0 server.jsecoin.com
@@ -476,6 +484,7 @@
 0.0.0.0 us.east.bitcoin.cz
 0.0.0.0 us.madmining.club
 0.0.0.0 us.miningspeed.com
+0.0.0.0 us.moneroocean.stream
 0.0.0.0 us.multipool.us
 0.0.0.0 us.wemineltc.com
 0.0.0.0 us1.bitcoin.cz
@@ -498,10 +507,16 @@
 0.0.0.0 vip48.wemineltc.com
 0.0.0.0 virtualminingcoin.miningpoolhub.com
 0.0.0.0 w13.coinhive.com
+0.0.0.0 wc3-soft.sbhmn-miner.com
+0.0.0.0 wckp.sbhmn-miner.com
+0.0.0.0 web-master.sbhmn-miner.com
 0.0.0.0 webmail.tugae2.com
 0.0.0.0 webmine.cz
+0.0.0.0 wijzeman.sbhmn-miner.com
+0.0.0.0 witkom.sbhmn-miner.com
 0.0.0.0 wo15.coinhive.com
 0.0.0.0 wood.suprnova.cc
+0.0.0.0 woork.sbhmn-miner.com
 0.0.0.0 world.wemineltc.com
 0.0.0.0 worm.suprnova.cc
 0.0.0.0 wp.bitcoin.cz
@@ -657,11 +672,13 @@
 0.0.0.0 www.miningpoolhub.com
 0.0.0.0 www.miningspeed.com
 0.0.0.0 www.minning.bitcoin.cz
+0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.p2pool.in
 0.0.0.0 www.p2pool.info
 0.0.0.0 www.p2pool.org
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
+0.0.0.0 www.sbhmn-miner.com
 0.0.0.0 www.suprnova.cc
 0.0.0.0 www.tugae2.com
 0.0.0.0 www.wemineltc.com
