@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 06 Nov 2017 20:32
+# Last modified: 06 Nov 2017 20:59
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -160,6 +160,7 @@
 0.0.0.0 expanse.miningpoolhub.com
 0.0.0.0 explorer.bitcoin-russia.ru
 0.0.0.0 fail.suprnova.cc
+0.0.0.0 faraday.mmpool.org
 0.0.0.0 feathercoin.miningpoolhub.com
 0.0.0.0 flo.suprnova.cc
 0.0.0.0 forre.st

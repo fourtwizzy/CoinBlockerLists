@@ -157,6 +157,7 @@ exp.suprnova.cc
 expanse.miningpoolhub.com
 explorer.bitcoin-russia.ru
 fail.suprnova.cc
+faraday.mmpool.org
 feathercoin.miningpoolhub.com
 flo.suprnova.cc
 forre.st
