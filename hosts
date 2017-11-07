@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 06 Nov 2017 20:59
+# Last modified: 07 Nov 2017 16:32
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -78,6 +78,7 @@
 0.0.0.0 cryptmonero.com
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptofriends.org
+0.0.0.0 cryptomine.pro
 0.0.0.0 csc.suprnova.cc
 0.0.0.0 d1.eth.pp.ua
 0.0.0.0 darkcoin.miningpoolhub.com
@@ -244,6 +245,7 @@
 0.0.0.0 kiwifarms.net
 0.0.0.0 kmd.suprnova.cc
 0.0.0.0 kr.suprnova.cc
+0.0.0.0 krb.cryptomine.pro
 0.0.0.0 krb.suprnova.cc
 0.0.0.0 kryptex.info
 0.0.0.0 kurt.suprnova.cc
@@ -402,6 +404,7 @@
 0.0.0.0 s.zsolo.bid
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 scrypt.cryptobroker.io
+0.0.0.0 secumine.net
 0.0.0.0 securecoin.miningpoolhub.com
 0.0.0.0 server.jsecoin.com
 0.0.0.0 sexcoin.miningpoolhub.com
@@ -684,6 +687,7 @@
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.sbhmn-miner.com
+0.0.0.0 www.secumine.net
 0.0.0.0 www.suprnova.cc
 0.0.0.0 www.tugae2.com
 0.0.0.0 www.wemineltc.com
@@ -699,12 +703,14 @@
 0.0.0.0 xbasfbno.info
 0.0.0.0 xmg.suprnova.cc
 0.0.0.0 xmr-eu.dwarfpool.com
+0.0.0.0 xmr-eu.secumine.net
 0.0.0.0 xmr-eu.suprnova.cc
 0.0.0.0 xmr-eu1.nanopool.org
 0.0.0.0 xmr-us.suprnova.cc
 0.0.0.0 xmr-usa.dwarfpool.com
 0.0.0.0 xmr.alimabi.cn
 0.0.0.0 xmr.coinlab.biz
+0.0.0.0 xmr.cryptomine.pro
 0.0.0.0 xmr.miningspeed.com
 0.0.0.0 xmr.nanopool.org
 0.0.0.0 xmr.pools.e-scavo.net.ar

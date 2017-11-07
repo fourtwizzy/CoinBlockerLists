@@ -75,6 +75,7 @@ crevacoin.miningpoolhub.com
 cryptmonero.com
 crypto-loot.com
 cryptofriends.org
+cryptomine.pro
 csc.suprnova.cc
 d1.eth.pp.ua
 darkcoin.miningpoolhub.com
@@ -241,6 +242,7 @@ kisshentai.net
 kiwifarms.net
 kmd.suprnova.cc
 kr.suprnova.cc
+krb.cryptomine.pro
 krb.suprnova.cc
 kryptex.info
 kurt.suprnova.cc
@@ -399,6 +401,7 @@ s.gus.host
 s.zsolo.bid
 sbhmn-miner.com
 scrypt.cryptobroker.io
+secumine.net
 securecoin.miningpoolhub.com
 server.jsecoin.com
 sexcoin.miningpoolhub.com
@@ -681,6 +684,7 @@ www.p2pool.org
 www.ppoi.org
 www.pr0gramm.com
 www.sbhmn-miner.com
+www.secumine.net
 www.suprnova.cc
 www.tugae2.com
 www.wemineltc.com
@@ -696,12 +700,14 @@ wyv.suprnova.cc
 xbasfbno.info
 xmg.suprnova.cc
 xmr-eu.dwarfpool.com
+xmr-eu.secumine.net
 xmr-eu.suprnova.cc
 xmr-eu1.nanopool.org
 xmr-us.suprnova.cc
 xmr-usa.dwarfpool.com
 xmr.alimabi.cn
 xmr.coinlab.biz
+xmr.cryptomine.pro
 xmr.miningspeed.com
 xmr.nanopool.org
 xmr.pools.e-scavo.net.ar
