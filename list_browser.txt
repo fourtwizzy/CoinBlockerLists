@@ -75,6 +75,7 @@ moneroocean.stream
 my-retrospace.sbhmn-miner.com
 myfhology.sbhmn-miner.com
 oload.info
+papoto.com
 platform.jsecoin.com
 podrltid.info
 pool.cloudcoins.co
@@ -83,8 +84,11 @@ ppoi.org
 pr0gramm.com
 projectpoi.com
 proxy-khlizawelj.now.sh
+px1.papoto.com
+px2.papoto.com
 reasedoper.pw
 s.gus.host
+s003.papoto.com
 sbhmn-miner.com
 server.jsecoin.com
 static.reasedoper.pw
@@ -242,6 +246,7 @@ www.gus.host
 www.hashforcash.us
 www.jsecoin.com
 www.moneroocean.stream
+www.papoto.com
 www.ppoi.org
 www.pr0gramm.com
 www.sbhmn-miner.com

@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 05 Nov 2017 14:20
+# Last modified: 08 Nov 2017 13:42
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 afminer.com
@@ -78,6 +78,7 @@
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 oload.info
+0.0.0.0 papoto.com
 0.0.0.0 platform.jsecoin.com
 0.0.0.0 podrltid.info
 0.0.0.0 pool.cloudcoins.co
@@ -86,8 +87,11 @@
 0.0.0.0 pr0gramm.com
 0.0.0.0 projectpoi.com
 0.0.0.0 proxy-khlizawelj.now.sh
+0.0.0.0 px1.papoto.com
+0.0.0.0 px2.papoto.com
 0.0.0.0 reasedoper.pw
 0.0.0.0 s.gus.host
+0.0.0.0 s003.papoto.com
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 server.jsecoin.com
 0.0.0.0 static.reasedoper.pw
@@ -245,6 +249,7 @@
 0.0.0.0 www.hashforcash.us
 0.0.0.0 www.jsecoin.com
 0.0.0.0 www.moneroocean.stream
+0.0.0.0 www.papoto.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.sbhmn-miner.com
