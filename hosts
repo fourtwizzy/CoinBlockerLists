@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 08 Nov 2017 13:42
+# Last modified: 12 Nov 2017 15:45
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -75,6 +75,7 @@
 0.0.0.0 cann.suprnova.cc
 0.0.0.0 capodannoinversilia.com
 0.0.0.0 cdn.cloudcoins.co
+0.0.0.0 cdn.rocks.io
 0.0.0.0 chc.suprnova.cc
 0.0.0.0 checkcoin.miningpoolhub.com
 0.0.0.0 cirkev.bitcoin.cz
@@ -115,6 +116,7 @@
 0.0.0.0 de.ckpool.org
 0.0.0.0 de.kano.is
 0.0.0.0 de.moneroocean.stream
+0.0.0.0 deepbit.net
 0.0.0.0 deepc.cc
 0.0.0.0 deltapool.net
 0.0.0.0 deny.minemonero.pro
@@ -137,6 +139,7 @@
 0.0.0.0 dsh.tugae2.com
 0.0.0.0 eac.suprnova.cc
 0.0.0.0 edgeno.de
+0.0.0.0 electroneum.mobile-mining.com
 0.0.0.0 electrum.bitcoin.cz
 0.0.0.0 electrum1.wemineltc.com
 0.0.0.0 email.crypto-coins.club
@@ -195,6 +198,7 @@
 0.0.0.0 exp.suprnova.cc
 0.0.0.0 expanse.miningpoolhub.com
 0.0.0.0 explorer.bitcoin-russia.ru
+0.0.0.0 f1.deepbit.net
 0.0.0.0 fail.suprnova.cc
 0.0.0.0 faraday.mmpool.org
 0.0.0.0 feathercoin.miningpoolhub.com
@@ -369,6 +373,7 @@
 0.0.0.0 mint.bitminter.com
 0.0.0.0 minzpool.ml
 0.0.0.0 mmpool.org
+0.0.0.0 mobile-mining.com
 0.0.0.0 mobile.bitcoin.cz
 0.0.0.0 mona-api.suprnova.cc
 0.0.0.0 monacoin.miningpoolhub.com
@@ -430,6 +435,7 @@
 0.0.0.0 phkttm64gbquasaq.onion
 0.0.0.0 phoenixcoin.miningpoolhub.com
 0.0.0.0 pi2.bitcoin.cz
+0.0.0.0 pit.deepbit.net
 0.0.0.0 platform.jsecoin.com
 0.0.0.0 podrltid.info
 0.0.0.0 pool.antpool.com
@@ -469,6 +475,7 @@
 0.0.0.0 rdd.coinedpool.com
 0.0.0.0 reactor.cc
 0.0.0.0 reasedoper.pw
+0.0.0.0 rocks.io
 0.0.0.0 s.gus.host
 0.0.0.0 s.zsolo.bid
 0.0.0.0 s003.papoto.com
@@ -613,6 +620,7 @@
 0.0.0.0 wc3-soft.sbhmn-miner.com
 0.0.0.0 wckp.sbhmn-miner.com
 0.0.0.0 web-master.sbhmn-miner.com
+0.0.0.0 web.rocks.io
 0.0.0.0 webmail.tugae2.com
 0.0.0.0 webmine.cz
 0.0.0.0 wijzeman.sbhmn-miner.com
@@ -623,6 +631,15 @@
 0.0.0.0 world.wemineltc.com
 0.0.0.0 worm.suprnova.cc
 0.0.0.0 wp.bitcoin.cz
+0.0.0.0 ws-ca-01.rocks.io
+0.0.0.0 ws-de-01.rocks.io
+0.0.0.0 ws-de-02.rocks.io
+0.0.0.0 ws-de-03.rocks.io
+0.0.0.0 ws-de-04.rocks.io
+0.0.0.0 ws-de-05.rocks.io
+0.0.0.0 ws-fr-01.rocks.io
+0.0.0.0 ws-fr-02.rocks.io
+0.0.0.0 ws-fr-03.rocks.io
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
 0.0.0.0 ws001.coinhive.com
@@ -772,6 +789,7 @@
 0.0.0.0 www.coinlab.biz
 0.0.0.0 www.crypto-coins.club
 0.0.0.0 www.crypto-loot.com
+0.0.0.0 www.deepbit.net
 0.0.0.0 www.deltapool.net
 0.0.0.0 www.dogepool.rf.gd
 0.0.0.0 www.eth.pp.ua
@@ -784,6 +802,7 @@
 0.0.0.0 www.miningpoolhub.com
 0.0.0.0 www.miningspeed.com
 0.0.0.0 www.minning.bitcoin.cz
+0.0.0.0 www.mobile-mining.com
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.multipool.us
 0.0.0.0 www.p2pool.in
@@ -792,6 +811,7 @@
 0.0.0.0 www.papoto.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
+0.0.0.0 www.rocks.io
 0.0.0.0 www.sbhmn-miner.com
 0.0.0.0 www.secumine.net
 0.0.0.0 www.slushpool.com
