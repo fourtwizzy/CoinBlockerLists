@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 08 Nov 2017 13:42
+# Last modified: 12 Nov 2017 15:51
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -20,6 +20,7 @@
 0.0.0.0 btc-bitcore3.trezor.io
 0.0.0.0 cdn.inwemo.com
 0.0.0.0 cdn1.cryptopia.co.nz
+0.0.0.0 cdn2.inwemo.com
 0.0.0.0 cloud.awesomeminer.com
 0.0.0.0 coinminerz.com
 0.0.0.0 connect.trezor.io
@@ -27,14 +28,17 @@
 0.0.0.0 cpanel.imperiumminer.com
 0.0.0.0 cryptopia.co.nz
 0.0.0.0 dash-bitcore1.trezor.io
+0.0.0.0 dashboard.inwemo.com
 0.0.0.0 download.emercoin.com
 0.0.0.0 emercoin.com
 0.0.0.0 forum.bitcoin.org
 0.0.0.0 ftp.antminer-store.com
 0.0.0.0 ftp.awesomeminer.com
 0.0.0.0 ftp.imperiumminer.com
+0.0.0.0 ftp.inwemo.com
 0.0.0.0 i2p.emercoin.com
 0.0.0.0 imperiumminer.com
+0.0.0.0 inwemo.com
 0.0.0.0 ltc-bitcore3.trezor.io
 0.0.0.0 mail.antminer-store.com
 0.0.0.0 mail.awesomeminer.com
@@ -84,6 +88,7 @@
 0.0.0.0 www.cryptopia.co.nz
 0.0.0.0 www.emercoin.com
 0.0.0.0 www.imperiumminer.com
+0.0.0.0 www.inwemo.com
 0.0.0.0 www.mineshop.eu
 0.0.0.0 www.mining-rig.de
 0.0.0.0 www.mymonero.com

@@ -17,6 +17,7 @@ btc-bitcore1.trezor.io
 btc-bitcore3.trezor.io
 cdn.inwemo.com
 cdn1.cryptopia.co.nz
+cdn2.inwemo.com
 cloud.awesomeminer.com
 coinminerz.com
 connect.trezor.io
@@ -24,14 +25,17 @@ cpanel.antminer-store.com
 cpanel.imperiumminer.com
 cryptopia.co.nz
 dash-bitcore1.trezor.io
+dashboard.inwemo.com
 download.emercoin.com
 emercoin.com
 forum.bitcoin.org
 ftp.antminer-store.com
 ftp.awesomeminer.com
 ftp.imperiumminer.com
+ftp.inwemo.com
 i2p.emercoin.com
 imperiumminer.com
+inwemo.com
 ltc-bitcore3.trezor.io
 mail.antminer-store.com
 mail.awesomeminer.com
@@ -81,6 +85,7 @@ www.blog.trezor.io
 www.cryptopia.co.nz
 www.emercoin.com
 www.imperiumminer.com
+www.inwemo.com
 www.mineshop.eu
 www.mining-rig.de
 www.mymonero.com
