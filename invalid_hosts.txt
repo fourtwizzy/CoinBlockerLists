@@ -1,0 +1,5 @@
+# This file contains all invalid hosts
+# Last modified: 12 Nov 2017 15:59
+hans.pr0gramm.com
+hurensohn.pr0gramm.com
+m.pr0gramm.com
