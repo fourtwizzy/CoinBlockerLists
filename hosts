@@ -1,9 +1,10 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 14 Nov 2017 18:29
+# Last modified: 16 Nov 2017 14:12
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
 0.0.0.0 abc.suprnova.cc
+0.0.0.0 ads.bitcoin.com
 0.0.0.0 adzcoin.miningpoolhub.com
 0.0.0.0 aeon.pools.e-scavo.net.ar
 0.0.0.0 afminer.com
@@ -18,6 +19,7 @@
 0.0.0.0 api.minemonero.pro
 0.0.0.0 api.moneroocean.stream
 0.0.0.0 api.multipool.us
+0.0.0.0 api.pool.bitcoin.com
 0.0.0.0 api.slushpool.com
 0.0.0.0 api2.bitcoin.cz
 0.0.0.0 app.pr0gramm.com
@@ -51,6 +53,7 @@
 0.0.0.0 bip.crypto-coins.club
 0.0.0.0 bitcoin-cash.miningpoolhub.com
 0.0.0.0 bitcoin-russia.ru
+0.0.0.0 bitcoin.com
 0.0.0.0 bitcoin.cz
 0.0.0.0 bitcoin.miningpoolhub.com
 0.0.0.0 bitcoinz.getpool.network
@@ -65,6 +68,7 @@
 0.0.0.0 bsd.suprnova.cc
 0.0.0.0 bta.suprnova.cc
 0.0.0.0 btc.suprnova.cc
+0.0.0.0 btc1.seeds.bitcoin.com
 0.0.0.0 btcd-us-tx.bravo-mining.com
 0.0.0.0 btcprominer.life
 0.0.0.0 btcz-api.suprnova.cc
@@ -72,6 +76,7 @@
 0.0.0.0 btg.altpool.pro
 0.0.0.0 btgpool.pro
 0.0.0.0 btx.suprnova.cc
+0.0.0.0 buy.bitcoin.com
 0.0.0.0 calc.btgpool.pro
 0.0.0.0 cann.suprnova.cc
 0.0.0.0 capodannoinversilia.com
@@ -94,6 +99,8 @@
 0.0.0.0 coinlab.biz
 0.0.0.0 coinnebula.com
 0.0.0.0 com-http.us
+0.0.0.0 connect.pool.bitcoin.com
+0.0.0.0 console.pool.bitcoin.com
 0.0.0.0 cqfnvznw.info
 0.0.0.0 crevacoin.miningpoolhub.com
 0.0.0.0 cryptmonero.com
@@ -365,6 +372,7 @@
 0.0.0.0 minig.bitcoin.cz
 0.0.0.0 minimg.bitcoin.cz
 0.0.0.0 minin.bitcoin.cz
+0.0.0.0 mining.bitcoin.com
 0.0.0.0 mining.bitcoin.cz
 0.0.0.0 mining.coin-hive.com
 0.0.0.0 mining.deltapool.net
@@ -442,6 +450,7 @@
 0.0.0.0 podrltid.info
 0.0.0.0 pool.antpool.com
 0.0.0.0 pool.ar-net.info
+0.0.0.0 pool.bitcoin.com
 0.0.0.0 pool.bitcoin.cz
 0.0.0.0 pool.bohemianpool.com
 0.0.0.0 pool.burstmarketplace.com
@@ -459,6 +468,7 @@
 0.0.0.0 pool1.us.multipool.us
 0.0.0.0 poolmining.org
 0.0.0.0 pools.tugae2.com
+0.0.0.0 poolsupport.bitcoin.com
 0.0.0.0 potcoin.miningpoolhub.com
 0.0.0.0 power.wemineltc.com
 0.0.0.0 ppoi.org
@@ -484,13 +494,16 @@
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 scrypt.cryptobroker.io
 0.0.0.0 seattle01.minemonero.pro
+0.0.0.0 secretbeta.bitcoin.com
 0.0.0.0 secumine.net
 0.0.0.0 securecoin.miningpoolhub.com
+0.0.0.0 server.bitcoin.com
 0.0.0.0 server.jsecoin.com
 0.0.0.0 sexcoin.miningpoolhub.com
 0.0.0.0 sg.bitcoin.cz
 0.0.0.0 sg.kano.is
 0.0.0.0 sg.stratum.slushpool.com
+0.0.0.0 shell.bitcoin.com
 0.0.0.0 sia.suprnova.cc
 0.0.0.0 siacoin.miningpoolhub.com
 0.0.0.0 sib.suprnova.cc
@@ -621,11 +634,15 @@
 0.0.0.0 virtualminingcoin.miningpoolhub.com
 0.0.0.0 vps.btgpool.pro
 0.0.0.0 w13.coinhive.com
+0.0.0.0 wallet-backend.bitcoin.com
+0.0.0.0 wallet.bitcoin.com
 0.0.0.0 wallet.btgpool.pro
+0.0.0.0 wallets.bitcoin.com
 0.0.0.0 wc3-soft.sbhmn-miner.com
 0.0.0.0 wckp.sbhmn-miner.com
 0.0.0.0 web-master.sbhmn-miner.com
 0.0.0.0 web.rocks.io
+0.0.0.0 web04.bitcoin.com
 0.0.0.0 webmail.tugae2.com
 0.0.0.0 webmine.cz
 0.0.0.0 wijzeman.sbhmn-miner.com
