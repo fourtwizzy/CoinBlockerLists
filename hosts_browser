@@ -1,7 +1,8 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 12 Nov 2017 15:45
+# Last modified: 16 Nov 2017 14:01
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 2giga.link
+0.0.0.0 ad-miner.com
 0.0.0.0 afminer.com
 0.0.0.0 anime.reactor.cc
 0.0.0.0 api.coinhive.com
@@ -13,8 +14,10 @@
 0.0.0.0 avatar.pr0gramm.com
 0.0.0.0 azvjudwr.info
 0.0.0.0 back4.2giga.link
+0.0.0.0 browsermine.com
 0.0.0.0 capodannoinversilia.com
 0.0.0.0 cdn.cloudcoins.co
+0.0.0.0 cdn.cookiescript.info
 0.0.0.0 cdn.rocks.io
 0.0.0.0 cnhv.co
 0.0.0.0 coin-have.com
@@ -27,15 +30,20 @@
 0.0.0.0 coinhive.com
 0.0.0.0 coinlab.biz
 0.0.0.0 coinnebula.com
+0.0.0.0 cookiescript.info
 0.0.0.0 cqfnvznw.info
 0.0.0.0 crypto-loot.com
+0.0.0.0 de.cookiescript.info
 0.0.0.0 de.moneroocean.stream
 0.0.0.0 deepc.cc
 0.0.0.0 dev.coinlab.biz
 0.0.0.0 dmdamedia.hu
 0.0.0.0 edgeno.de
 0.0.0.0 email.moneroocean.stream
+0.0.0.0 en.cookiescript.info
+0.0.0.0 es.cookiescript.info
 0.0.0.0 escobar.pr0gramm.com
+0.0.0.0 fr.cookiescript.info
 0.0.0.0 ftp.coinhive-manager.com
 0.0.0.0 ftp.coinlab.biz
 0.0.0.0 full.pr0gramm.com
@@ -50,6 +58,7 @@
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hurensohn.pr0gramm.com
 0.0.0.0 img.pr0gramm.com
+0.0.0.0 it.cookiescript.info
 0.0.0.0 joyreactor.cc
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js.coinhive.com
@@ -59,11 +68,14 @@
 0.0.0.0 kissdoujin.com
 0.0.0.0 kisshentai.net
 0.0.0.0 kiwifarms.net
+0.0.0.0 light.browsermine.com
+0.0.0.0 lightminer.co
 0.0.0.0 listat.biz
 0.0.0.0 lmodr.biz
 0.0.0.0 load.jsecoin.com
 0.0.0.0 m.pr0gramm.com
 0.0.0.0 mail.coinhive-manager.com
+0.0.0.0 mail.cookiescript.info
 0.0.0.0 mail.crypto-loot.com
 0.0.0.0 mail.sbhmn-miner.com
 0.0.0.0 mataharirama.xyz
@@ -74,10 +86,13 @@
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
+0.0.0.0 minr.browsermine.com
+0.0.0.0 monero-miner.net
 0.0.0.0 monerominer.rocks
 0.0.0.0 moneroocean.stream
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 myfhology.sbhmn-miner.com
+0.0.0.0 nl.cookiescript.info
 0.0.0.0 oload.info
 0.0.0.0 papoto.com
 0.0.0.0 platform.jsecoin.com
@@ -96,6 +111,7 @@
 0.0.0.0 s003.papoto.com
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 server.jsecoin.com
+0.0.0.0 sr.cookiescript.info
 0.0.0.0 static.reasedoper.pw
 0.0.0.0 thumb.pr0gramm.com
 0.0.0.0 us.moneroocean.stream
@@ -251,15 +267,19 @@
 0.0.0.0 ww.pr0gramm.com
 0.0.0.0 www-tb7c.pr0gramm.com
 0.0.0.0 www.2giga.link
+0.0.0.0 www.ad-miner.com
 0.0.0.0 www.authedmine.com
+0.0.0.0 www.browsermine.com
 0.0.0.0 www.cloudcoins.co
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.coinlab.biz
+0.0.0.0 www.cookiescript.info
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
 0.0.0.0 www.jsecoin.com
+0.0.0.0 www.lightminer.co
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.papoto.com
 0.0.0.0 www.ppoi.org
@@ -273,5 +293,7 @@
 0.0.0.0 www5.2giga.link
 0.0.0.0 www6.2giga.link
 0.0.0.0 www7.2giga.link
+0.0.0.0 x.browsermine.com
 0.0.0.0 xbasfbno.info
 0.0.0.0 xmr.coinlab.biz
+0.0.0.0 xmrm.browsermine.com
