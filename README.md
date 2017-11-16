@@ -38,3 +38,6 @@ https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist/tree/master/.input_sources/_ZeroDot1/CoinBlockerLists
 
 Thanks to https://github.com/mitchellkrogza :)
+
+### Contributing
+You can contribute to the project as you want and you can also fork it but the changes must be public as the GPLv3 license specifies.
