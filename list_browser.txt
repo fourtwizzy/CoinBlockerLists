@@ -27,7 +27,9 @@ coinhive-proxy.party
 coinhive.com
 coinlab.biz
 coinnebula.com
+coinworker.com
 cookiescript.info
+cookiescriptcdn.pro
 cqfnvznw.info
 crypto-loot.com
 de.cookiescript.info
@@ -92,6 +94,7 @@ myfhology.sbhmn-miner.com
 nl.cookiescript.info
 oload.info
 papoto.com
+party-nngvitbizn.now.sh
 platform.jsecoin.com
 podrltid.info
 pool.cloudcoins.co
