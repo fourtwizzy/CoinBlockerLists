@@ -41,3 +41,10 @@ Thanks to https://github.com/mitchellkrogza :)
 
 ### Contributing
 You can contribute to the project as you want and you can also fork it but the changes must be public as the GPLv3 license specifies.
+Thanks to all who use and support CoinBlockerlists.
+
+## References:
+http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf
+https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/
+https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/
+http://jasonhill.co.uk/pfsense/blocklists.txt
