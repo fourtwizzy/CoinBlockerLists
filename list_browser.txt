@@ -16,6 +16,7 @@ capodannoinversilia.com
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.rocks.io
+cloudcoins.co
 cnhv.co
 coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh

@@ -85,6 +85,7 @@ chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
 clortho.multipool.us
+cloudcoins.co
 cn.stratum.slushpool.com
 cnhv.co
 coin-have.com
