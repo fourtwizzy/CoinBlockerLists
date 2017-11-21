@@ -74,6 +74,8 @@ dev.a-ads.com
 dev.cointraffic.io
 download.emercoin.com
 emercoin.com
+evergreencoin.org
+faucet.evergreencoin.org
 files.a-ads.com
 files.cointraffic.io
 forum.bitcoin.org
@@ -130,6 +132,8 @@ smtp.awesomeminer.com
 static.a-ads.com
 status.trezor.io
 support.a-ads.com
+support.evergreencoin.org
+transactions.evergreencoin.org
 trezor.io
 uclick.in
 upload.a-ads.com
@@ -142,6 +146,7 @@ webmail.awesomeminer.com
 webmail.imperiumminer.com
 webmail.uclick.in
 wiki.emercoin.com
+wiki.evergreencoin.org
 wiki.trezor.io
 www.803mine.com
 www.a-ads.com
@@ -157,6 +162,7 @@ www.coinadnet.com
 www.cointraffic.io
 www.cryptopia.co.nz
 www.emercoin.com
+www.evergreencoin.org
 www.files.cointraffic.io
 www.imperiumminer.com
 www.inwemo.com

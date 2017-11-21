@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 17 Nov 2017 16:06
+# Last modified: 21 Nov 2017 15:15
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -77,6 +77,8 @@
 0.0.0.0 dev.cointraffic.io
 0.0.0.0 download.emercoin.com
 0.0.0.0 emercoin.com
+0.0.0.0 evergreencoin.org
+0.0.0.0 faucet.evergreencoin.org
 0.0.0.0 files.a-ads.com
 0.0.0.0 files.cointraffic.io
 0.0.0.0 forum.bitcoin.org
@@ -133,6 +135,8 @@
 0.0.0.0 static.a-ads.com
 0.0.0.0 status.trezor.io
 0.0.0.0 support.a-ads.com
+0.0.0.0 support.evergreencoin.org
+0.0.0.0 transactions.evergreencoin.org
 0.0.0.0 trezor.io
 0.0.0.0 uclick.in
 0.0.0.0 upload.a-ads.com
@@ -145,6 +149,7 @@
 0.0.0.0 webmail.imperiumminer.com
 0.0.0.0 webmail.uclick.in
 0.0.0.0 wiki.emercoin.com
+0.0.0.0 wiki.evergreencoin.org
 0.0.0.0 wiki.trezor.io
 0.0.0.0 www.803mine.com
 0.0.0.0 www.a-ads.com
@@ -160,6 +165,7 @@
 0.0.0.0 www.cointraffic.io
 0.0.0.0 www.cryptopia.co.nz
 0.0.0.0 www.emercoin.com
+0.0.0.0 www.evergreencoin.org
 0.0.0.0 www.files.cointraffic.io
 0.0.0.0 www.imperiumminer.com
 0.0.0.0 www.inwemo.com

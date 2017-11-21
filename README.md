@@ -48,3 +48,4 @@ http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf
 https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/
 https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/
 http://jasonhill.co.uk/pfsense/blocklists.txt
+https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24
