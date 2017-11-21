@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: CoinBlockerlists
+description: Simple lists that can help prevent cryptomining in the browser or other applications.
+show_downloads: true
