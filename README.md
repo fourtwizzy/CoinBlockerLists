@@ -9,7 +9,7 @@
 Simple lists that can help prevent cryptomining in the browser or other applications.
 ![PC_ping](img/pc_ping.png)
 
-CoinBlockerLists Short URL: [https://git.io/vFdPR](https://git.io/vFdPR)
+CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 
 | List | Description |
 | --- | --- |
@@ -56,4 +56,4 @@ Thanks to all who use and support CoinBlockerlists.
 [https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/](https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/)
 [https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/](https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/)
 [http://jasonhill.co.uk/pfsense/blocklists.txt](http://jasonhill.co.uk/pfsense/blocklists.txt)
-[https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24) 
+[https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24)
