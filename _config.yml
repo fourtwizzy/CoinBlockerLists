@@ -2,3 +2,8 @@ theme: jekyll-theme-cayman
 title: CoinBlockerlists
 description: Simple lists that can help prevent cryptomining in the browser or other applications.
 show_downloads: true
+url: https://zerodot1.github.io/CoinBlockerLists/
+owner:
+  name:           ZeroDot1
+  bio:            "I have a lot of good ideas."
+  email:          zerodot1@bk.ru
