@@ -9,6 +9,8 @@
 Simple lists that can help prevent cryptomining in the browser or other applications.
 ![PC_ping](img/pc_ping.png)
 
+CoinBlockerLists Short URL: https://git.io/vFdPR
+
 | List | Description |
 | --- | --- |
 | All mining domains (list.txt/hosts) | A list for administrators to prevent mining in networks |
@@ -38,6 +40,12 @@ https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist
 https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist/tree/master/.input_sources/_ZeroDot1/CoinBlockerLists
 
 Thanks to https://github.com/mitchellkrogza :)
+
+### CoinBlockerLists is available in smokingwheels.github.io/allhosts
+https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/allhosts
+
+Thanks to https://github.com/smokingwheels :)
+
 
 ### Contributing
 You can contribute to the project as you want and you can also fork it but the changes must be public as the GPLv3 license specifies.
