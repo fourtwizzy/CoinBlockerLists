@@ -11,11 +11,6 @@ Simple lists that can help prevent cryptomining in the browser or other applicat
 
 CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 
-| List | Description |
-| --- | --- |
-| All mining domains (list.txt/hosts) | A list for administrators to prevent mining in networks |
-| Optional domains (optional.txt/hosts_optional) | An additional list for administrators |
-| Browser mining domains (list_browser.txt/hosts_browser) | A list to prevent browser mining only  |
 
 | Format | Description | URL |
 | --- | --- | --- |
