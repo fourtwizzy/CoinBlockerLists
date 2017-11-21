@@ -41,7 +41,7 @@ Thanks to [https://github.com/pyamsoft](https://github.com/pyamsoft) :)
 
 Thanks to [https://github.com/mitchellkrogza](https://github.com/mitchellkrogza) :)
 
-### CoinBlockerLists is available in smokingwheels.github.io/allhosts
+### CoinBlockerLists is available in (smokingwheels.github.io)
 [https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/allhosts](https://raw.githubusercontent.com/smokingwheels/smokingwheels.github.io/master/Pi-hole/allhosts)
 
 Thanks to [https://github.com/smokingwheels](https://github.com/smokingwheels) :)
