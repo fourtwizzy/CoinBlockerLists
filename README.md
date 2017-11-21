@@ -9,7 +9,7 @@
 Simple lists that can help prevent cryptomining in the browser or other applications.
 ![PC_ping](img/pc_ping.png)
 
-CoinBlockerLists Short URL: https://git.io/vFdPR
+CoinBlockerLists Short URL: [https://git.io/vFdPR](https://git.io/vFdPR)
 
 | List | Description |
 | --- | --- |
@@ -26,7 +26,7 @@ CoinBlockerLists Short URL: https://git.io/vFdPR
 | Hosts | This list contains all optional domains | https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_optional |
 | Hosts | This list contains all browser mining domains | https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser |
 
-### CoinBlockerLists is available on https://wally3k.github.io/
+### CoinBlockerLists is available on [https://wally3k.github.io/](https://wally3k.github.io/)
 Thanks to https://github.com/WaLLy3K and https://github.com/beerisgood :)
 
 ### CoinBlockerLists is available in update-hosts
