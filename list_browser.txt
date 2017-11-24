@@ -1,5 +1,6 @@
 2giga.link
 ad-miner.com
+adminer.com
 afminer.com
 anime.reactor.cc
 api.coinhive.com
@@ -117,6 +118,7 @@ static.reasedoper.pw
 thumb.pr0gramm.com
 us.moneroocean.stream
 vid.pr0gramm.com
+vxelkrhl.info
 w13.coinhive.com
 wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
@@ -266,9 +268,11 @@ ws7.coin-have.com
 ws8.coin-have.com
 ws9.coin-have.com
 ww.pr0gramm.com
+ww8.adminer.com
 www-tb7c.pr0gramm.com
 www.2giga.link
 www.ad-miner.com
+www.adminer.com
 www.authedmine.com
 www.browsermine.com
 www.cloudcoins.co

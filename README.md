@@ -41,13 +41,16 @@ Thanks to [https://github.com/mitchellkrogza](https://github.com/mitchellkrogza)
 Thanks to [https://github.com/smokingwheels/](https://github.com/smokingwheels/) :)
 
 
-### Contributing
+# Contributing
 You can contribute to the project as you want and you can also fork it but the changes must be public as the GPLv3 license specifies.
 Thanks to all who use and support CoinBlockerLists.
+
+## Find sites infected with Coinhive: [http://whorunscoinhive.com/](http://whorunscoinhive.com/)
 
 ## References:
 [http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf](http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf)
 [https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/](https://blog.cryptoaustralia.org.au/2017/11/15/favourite-block-lists-cryptoaustralia/)
 [https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/](https://www.ubuntuboss.com/how-to-install-pihole-on-ubuntu-16-04/)
+[https://otx.alienvault.com/pulse/5a0a9d03fee07f1774a21123](https://otx.alienvault.com/pulse/5a0a9d03fee07f1774a21123)
 [http://jasonhill.co.uk/pfsense/blocklists.txt](http://jasonhill.co.uk/pfsense/blocklists.txt)
 [https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24)

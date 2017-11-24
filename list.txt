@@ -1,6 +1,8 @@
 2giga.link
 a37ubfu6nmjxzcff.onion
 abc.suprnova.cc
+ad-miner.com
+adminer.com
 ads.bitcoin.com
 adzcoin.miningpoolhub.com
 aeon.pools.e-scavo.net.ar
@@ -647,6 +649,7 @@ vip.slushpool.com
 vip48.wemineltc.com
 virtualminingcoin.miningpoolhub.com
 vps.btgpool.pro
+vxelkrhl.info
 w13.coinhive.com
 wallet-backend.bitcoin.com
 wallet.bitcoin.com
@@ -808,8 +811,11 @@ ws7.coin-have.com
 ws8.coin-have.com
 ws9.coin-have.com
 ww.pr0gramm.com
+ww8.adminer.com
 www-tb7c.pr0gramm.com
 www.2giga.link
+www.ad-miner.com
+www.adminer.com
 www.altpool.pro
 www.antpool.com
 www.authedmine.com
