@@ -46,6 +46,7 @@ You can contribute to the project as you want and you can also fork it but the c
 Thanks to all who use and support CoinBlockerLists.
 
 ## Find sites infected with Coinhive: [http://whorunscoinhive.com/](http://whorunscoinhive.com/)
+## Pi-hole - A black hole for Internet advertisements [https://github.com/pi-hole](https://github.com/pi-hole)
 
 ## References:
 [http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf](http://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-024.pdf)

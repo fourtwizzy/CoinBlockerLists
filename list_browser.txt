@@ -34,6 +34,7 @@ cookiescript.info
 cookiescriptcdn.pro
 cqfnvznw.info
 crypto-loot.com
+ctrb.jscdndel.com
 de.cookiescript.info
 de.moneroocean.stream
 deepc.cc
@@ -63,6 +64,8 @@ it.cookiescript.info
 joyreactor.cc
 jroqvbvw.info
 js.coinhive.com
+jsccnn.com
+jscdndel.com
 jsecoin.com
 jyhfuqoh.info
 kdowqlpt.info
@@ -283,6 +286,8 @@ www.cookiescript.info
 www.crypto-loot.com
 www.gus.host
 www.hashforcash.us
+www.jsccnn.com
+www.jscdndel.com
 www.jsecoin.com
 www.lightminer.co
 www.moneroocean.stream

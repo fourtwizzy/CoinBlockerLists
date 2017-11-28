@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 24 Nov 2017 19:55
+# Last modified: 28 Nov 2017 16:37
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 ad-miner.com
@@ -37,6 +37,7 @@
 0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cqfnvznw.info
 0.0.0.0 crypto-loot.com
+0.0.0.0 ctrb.jscdndel.com
 0.0.0.0 de.cookiescript.info
 0.0.0.0 de.moneroocean.stream
 0.0.0.0 deepc.cc
@@ -66,6 +67,8 @@
 0.0.0.0 joyreactor.cc
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js.coinhive.com
+0.0.0.0 jsccnn.com
+0.0.0.0 jscdndel.com
 0.0.0.0 jsecoin.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 kdowqlpt.info
@@ -286,6 +289,8 @@
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
+0.0.0.0 www.jsccnn.com
+0.0.0.0 www.jscdndel.com
 0.0.0.0 www.jsecoin.com
 0.0.0.0 www.lightminer.co
 0.0.0.0 www.moneroocean.stream

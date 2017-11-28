@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 24 Nov 2017 19:55
+# Last modified: 28 Nov 2017 16:37
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -21,6 +21,7 @@
 0.0.0.0 api.minemonero.pro
 0.0.0.0 api.moneroocean.stream
 0.0.0.0 api.multipool.us
+0.0.0.0 api.nanopool.org
 0.0.0.0 api.pool.bitcoin.com
 0.0.0.0 api.slushpool.com
 0.0.0.0 api2.bitcoin.cz
@@ -34,6 +35,7 @@
 0.0.0.0 asia.miningspeed.com
 0.0.0.0 asia.monero.miningpoolhub.com
 0.0.0.0 asia1.ethereum.miningpoolhub.com
+0.0.0.0 asia1.nanopool.org
 0.0.0.0 asia1.zcash.miningpoolhub.com
 0.0.0.0 atlanta.minemonero.pro
 0.0.0.0 atlas.phoenixcoin.org
@@ -118,6 +120,7 @@
 0.0.0.0 cryptominingpool.eu
 0.0.0.0 cryptoxpool.com
 0.0.0.0 csc.suprnova.cc
+0.0.0.0 ctrb.jscdndel.com
 0.0.0.0 d1.eth.pp.ua
 0.0.0.0 darkcoin.miningpoolhub.com
 0.0.0.0 dash.miningpoolhub.com
@@ -168,23 +171,34 @@
 0.0.0.0 equal.suprnova.cc
 0.0.0.0 equihash.cryptobroker.io
 0.0.0.0 escobar.pr0gramm.com
+0.0.0.0 etc-asia1.nanopool.org
+0.0.0.0 etc-eu1.nanopool.org
+0.0.0.0 etc-eu2.nanopool.org
+0.0.0.0 etc.nanopool.org
 0.0.0.0 etc.suprnova.cc
 0.0.0.0 eth-ar.dwarfpool.com
 0.0.0.0 eth-asia.dwarfpool.com
+0.0.0.0 eth-asia1.nanopool.org
 0.0.0.0 eth-au.dwarfpool.com
 0.0.0.0 eth-br.dwarfpool.com
 0.0.0.0 eth-cn.dwarfpool.com
 0.0.0.0 eth-cn2.dwarfpool.com
 0.0.0.0 eth-eu.dwarfpool.com
+0.0.0.0 eth-eu1.nanopool.org
+0.0.0.0 eth-eu2.nanopool.org
 0.0.0.0 eth-hk.dwarfpool.com
 0.0.0.0 eth-ru.dwarfpool.com
 0.0.0.0 eth-ru2.dwarfpool.com
 0.0.0.0 eth-sg.dwarfpool.com
+0.0.0.0 eth-us-east1.nanopool.org
+0.0.0.0 eth-us-west1.nanopool.org
 0.0.0.0 eth-us.dwarfpool.com
 0.0.0.0 eth-us2.dwarfpool.com
 0.0.0.0 eth.antpool.com
+0.0.0.0 eth.nanopool.org
 0.0.0.0 eth.pp.ua
 0.0.0.0 eth.suprnova.cc
+0.0.0.0 eth1.nanopool.org
 0.0.0.0 ethereum-classic.miningpoolhub.com
 0.0.0.0 ethereum.miningpoolhub.com
 0.0.0.0 ethweb.antpool.com
@@ -205,6 +219,7 @@
 0.0.0.0 eu.wemineltc.com
 0.0.0.0 eu.zec.slushpool.com
 0.0.0.0 eu1.bitminter.com
+0.0.0.0 eu1.nanopool.org
 0.0.0.0 eu2.multipool.us
 0.0.0.0 eu2.wemineltc.com
 0.0.0.0 europe.cryptonight-hub.miningpoolhub.com
@@ -217,6 +232,7 @@
 0.0.0.0 exp-eu.dwarfpool.com
 0.0.0.0 exp-us.dwarfpool.com
 0.0.0.0 exp.suprnova.cc
+0.0.0.0 exp1.nanopool.org
 0.0.0.0 expanse.miningpoolhub.com
 0.0.0.0 explorer.bitcoin-russia.ru
 0.0.0.0 f1.deepbit.net
@@ -277,6 +293,7 @@
 0.0.0.0 grs.suprnova.cc
 0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 gus.host
+0.0.0.0 h.nanopool.org
 0.0.0.0 halibut.multipool.us
 0.0.0.0 hans.pr0gramm.com
 0.0.0.0 hashforcash.us
@@ -304,6 +321,8 @@
 0.0.0.0 joyreactor.cc
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js.coinhive.com
+0.0.0.0 jsccnn.com
+0.0.0.0 jscdndel.com
 0.0.0.0 jsecoin.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 kano.is
@@ -353,8 +372,10 @@
 0.0.0.0 mail.miningpoolhub.com
 0.0.0.0 mail.miningspeed.com
 0.0.0.0 mail.multipool.us
+0.0.0.0 mail.nanopool.org
 0.0.0.0 mail.sbhmn-miner.com
 0.0.0.0 mail.tugae2.com
+0.0.0.0 mailzimbra.nanopool.org
 0.0.0.0 map.bitcoin-russia.ru
 0.0.0.0 mar.suprnova.cc
 0.0.0.0 mataharirama.xyz
@@ -421,6 +442,7 @@
 0.0.0.0 multipool.us
 0.0.0.0 muning.bitcoin.cz
 0.0.0.0 musicoin.miningpoolhub.com
+0.0.0.0 mx.nanopool.org
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 myrgrs.suprnova.cc
@@ -428,6 +450,7 @@
 0.0.0.0 myriadcoin-qubit.miningpoolhub.com
 0.0.0.0 myriadcoin-skein.miningpoolhub.com
 0.0.0.0 myriadcoin-yescrypt.miningpoolhub.com
+0.0.0.0 nanopool.org
 0.0.0.0 ndc.bitember.com
 0.0.0.0 neohash.com
 0.0.0.0 netko.suprnova.cc
@@ -454,6 +477,9 @@
 0.0.0.0 papoto.com
 0.0.0.0 paris01.minemonero.pro
 0.0.0.0 party-nngvitbizn.now.sh
+0.0.0.0 pasc-eu1.nanopool.org
+0.0.0.0 pasc-eu2.nanopool.org
+0.0.0.0 pasc.nanopool.org
 0.0.0.0 pasc.suprnova.cc
 0.0.0.0 pasl.suprnova.cc
 0.0.0.0 pc.crypto-coins.club
@@ -522,6 +548,11 @@
 0.0.0.0 sg.kano.is
 0.0.0.0 sg.stratum.slushpool.com
 0.0.0.0 shell.bitcoin.com
+0.0.0.0 sia-asia1.nanopool.org
+0.0.0.0 sia-eu1.nanopool.org
+0.0.0.0 sia-eu2.nanopool.org
+0.0.0.0 sia-us-west1.nanopool.org
+0.0.0.0 sia.nanopool.org
 0.0.0.0 sia.suprnova.cc
 0.0.0.0 siacoin.miningpoolhub.com
 0.0.0.0 sib.suprnova.cc
@@ -585,6 +616,7 @@
 0.0.0.0 sydney01.minemonero.pro
 0.0.0.0 teracycle.net
 0.0.0.0 test.bitminter.com
+0.0.0.0 test.crypto-coins.club
 0.0.0.0 test.eth.pp.ua
 0.0.0.0 test.miningpoolhub.com
 0.0.0.0 testnet.xmr-tw.org
@@ -622,6 +654,7 @@
 0.0.0.0 us-east2.multipool.us
 0.0.0.0 us-west.bitcoin.cz
 0.0.0.0 us-west.multipool.us
+0.0.0.0 us-west1.nanopool.org
 0.0.0.0 us-west2.multipool.us
 0.0.0.0 us.bitcoin.cz
 0.0.0.0 us.east.bitcoin.cz
@@ -844,6 +877,8 @@
 0.0.0.0 www.eth.pp.ua
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
+0.0.0.0 www.jsccnn.com
+0.0.0.0 www.jscdndel.com
 0.0.0.0 www.jsecoin.com
 0.0.0.0 www.kano.is
 0.0.0.0 www.madmining.club
@@ -854,6 +889,7 @@
 0.0.0.0 www.mobile-mining.com
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.multipool.us
+0.0.0.0 www.nanopool.org
 0.0.0.0 www.p2pool.in
 0.0.0.0 www.p2pool.info
 0.0.0.0 www.p2pool.org
@@ -884,11 +920,15 @@
 0.0.0.0 xci.crypto-coins.club
 0.0.0.0 xlc.crypto-coins.club
 0.0.0.0 xmg.suprnova.cc
+0.0.0.0 xmr-asia1.nanopool.org
 0.0.0.0 xmr-eu.dwarfpool.com
 0.0.0.0 xmr-eu.secumine.net
 0.0.0.0 xmr-eu.suprnova.cc
 0.0.0.0 xmr-eu1.nanopool.org
+0.0.0.0 xmr-eu2.nanopool.org
 0.0.0.0 xmr-tw.org
+0.0.0.0 xmr-us-east1.nanopool.org
+0.0.0.0 xmr-us-west1.nanopool.org
 0.0.0.0 xmr-us.suprnova.cc
 0.0.0.0 xmr-usa.dwarfpool.com
 0.0.0.0 xmr.alimabi.cn
@@ -915,6 +955,7 @@
 0.0.0.0 zcash.deltapool.net
 0.0.0.0 zcash.miningpoolhub.com
 0.0.0.0 zcash.miningspeed.com
+0.0.0.0 zcl.nanopool.org
 0.0.0.0 zcl.suprnova.cc
 0.0.0.0 zclassic.miningpoolhub.com
 0.0.0.0 zclassic.miningspeed.com
@@ -923,12 +964,17 @@
 0.0.0.0 zdash.suprnova.cc
 0.0.0.0 zec-apac.suprnova.cc
 0.0.0.0 zec-api.suprnova.cc
+0.0.0.0 zec-asia1.nanopool.org
 0.0.0.0 zec-cn.suprnova.cc
 0.0.0.0 zec-cn1.dwarfpool.com
 0.0.0.0 zec-eu1.dwarfpool.com
+0.0.0.0 zec-eu1.nanopool.org
+0.0.0.0 zec-eu2.nanopool.org
 0.0.0.0 zec-ru1.dwarfpool.com
+0.0.0.0 zec-us-west1.nanopool.org
 0.0.0.0 zec-us.suprnova.cc
 0.0.0.0 zec-us1.dwarfpool.com
+0.0.0.0 zec.nanopool.org
 0.0.0.0 zec.slushpool.com
 0.0.0.0 zec.suprnova.cc
 0.0.0.0 zen-api.suprnova.cc
