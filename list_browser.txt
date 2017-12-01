@@ -3,15 +3,18 @@ ad-miner.com
 adminer.com
 afminer.com
 anime.reactor.cc
+api.coinbase.com
 api.coinhive.com
 api.moneroocean.stream
 app.pr0gramm.com
+assets.coinbase.com
 auroramine.com
 authedmine.com
 authedwebmine.cz
 avatar.pr0gramm.com
 azvjudwr.info
 back4.2giga.link
+beta.coinbase.com
 browsermine.com
 capodannoinversilia.com
 cdn.cloudcoins.co
@@ -22,11 +25,13 @@ cnhv.co
 coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive.com
+coinbase.com
 coinblind.com
 coinerra.com
 coinhive-manager.com
 coinhive-proxy.party
 coinhive.com
+coinhiveproxy.com
 coinlab.biz
 coinnebula.com
 coinworker.com
@@ -114,6 +119,7 @@ reasedoper.pw
 rocks.io
 s.gus.host
 s003.papoto.com
+sandbox.coinbase.com
 sbhmn-miner.com
 server.jsecoin.com
 sr.cookiescript.info
@@ -141,6 +147,7 @@ ws-de-05.rocks.io
 ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
+ws.coinbase.com
 ws000.coinhive.com
 ws001.authedmine.com
 ws001.coinhive.com
@@ -307,3 +314,4 @@ x.browsermine.com
 xbasfbno.info
 xmr.coinlab.biz
 xmrm.browsermine.com
+youporn.sexy

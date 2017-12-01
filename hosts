@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 28 Nov 2017 16:37
+# Last modified: 01 Dec 2017 20:56
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -17,12 +17,15 @@
 0.0.0.0 antpool.com
 0.0.0.0 api-stratum.bitcoin.cz
 0.0.0.0 api.bitcoin.cz
+0.0.0.0 api.coinbase.com
 0.0.0.0 api.coinhive.com
+0.0.0.0 api.exchange.coinbase.com
 0.0.0.0 api.minemonero.pro
 0.0.0.0 api.moneroocean.stream
 0.0.0.0 api.multipool.us
 0.0.0.0 api.nanopool.org
 0.0.0.0 api.pool.bitcoin.com
+0.0.0.0 api.sandbox.coinbase.com
 0.0.0.0 api.slushpool.com
 0.0.0.0 api2.bitcoin.cz
 0.0.0.0 app.pr0gramm.com
@@ -37,6 +40,7 @@
 0.0.0.0 asia1.ethereum.miningpoolhub.com
 0.0.0.0 asia1.nanopool.org
 0.0.0.0 asia1.zcash.miningpoolhub.com
+0.0.0.0 assets.coinbase.com
 0.0.0.0 atlanta.minemonero.pro
 0.0.0.0 atlas.phoenixcoin.org
 0.0.0.0 auroramine.com
@@ -52,6 +56,7 @@
 0.0.0.0 bcc.suprnova.cc
 0.0.0.0 bella.suprnova.cc
 0.0.0.0 beta-mining.bitcoin.cz
+0.0.0.0 beta.coinbase.com
 0.0.0.0 beta.madmining.club
 0.0.0.0 beta.mining.bitcoin.cz
 0.0.0.0 beta.slushpool.com
@@ -66,8 +71,10 @@
 0.0.0.0 bitminer.io
 0.0.0.0 bitminter.com
 0.0.0.0 bitnex.io
+0.0.0.0 bittip.coinbase.com
 0.0.0.0 bitzfree.com
 0.0.0.0 blog.bitcoin.cz
+0.0.0.0 blog.coinbase.com
 0.0.0.0 blog.slushpool.com
 0.0.0.0 boat.suprnova.cc
 0.0.0.0 bravo-mining.com
@@ -83,6 +90,7 @@
 0.0.0.0 btgpool.pro
 0.0.0.0 btx.suprnova.cc
 0.0.0.0 buy.bitcoin.com
+0.0.0.0 buy.coinbase.com
 0.0.0.0 calc.btgpool.pro
 0.0.0.0 cann.suprnova.cc
 0.0.0.0 capodannoinversilia.com
@@ -98,15 +106,18 @@
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive-proxy-ybydcnjgkl.now.sh
 0.0.0.0 coin-hive.com
+0.0.0.0 coinbase.com
 0.0.0.0 coinblind.com
 0.0.0.0 coinerra.com
 0.0.0.0 coinhive-manager.com
 0.0.0.0 coinhive-proxy.party
 0.0.0.0 coinhive.com
+0.0.0.0 coinhiveproxy.com
 0.0.0.0 coinlab.biz
 0.0.0.0 coinnebula.com
 0.0.0.0 coinworker.com
 0.0.0.0 com-http.us
+0.0.0.0 community.coinbase.com
 0.0.0.0 connect.pool.bitcoin.com
 0.0.0.0 console.pool.bitcoin.com
 0.0.0.0 cookiescriptcdn.pro
@@ -121,6 +132,7 @@
 0.0.0.0 cryptoxpool.com
 0.0.0.0 csc.suprnova.cc
 0.0.0.0 ctrb.jscdndel.com
+0.0.0.0 custody.coinbase.com
 0.0.0.0 d1.eth.pp.ua
 0.0.0.0 darkcoin.miningpoolhub.com
 0.0.0.0 dash.miningpoolhub.com
@@ -146,6 +158,7 @@
 0.0.0.0 dev.coinlab.biz
 0.0.0.0 dev.minemonero.pro
 0.0.0.0 dev.multipool.us
+0.0.0.0 developers.coinbase.com
 0.0.0.0 dgbg.suprnova.cc
 0.0.0.0 dgbq.suprnova.cc
 0.0.0.0 dgbs.suprnova.cc
@@ -155,10 +168,12 @@
 0.0.0.0 digibyte-skein.miningpoolhub.com
 0.0.0.0 digitalcoin-x11.miningpoolhub.com
 0.0.0.0 dmdamedia.hu
+0.0.0.0 docs.exchange.coinbase.com
 0.0.0.0 dogepool.rf.gd
 0.0.0.0 dsh.tugae2.com
 0.0.0.0 eac.suprnova.cc
 0.0.0.0 edgeno.de
+0.0.0.0 eio-feed.exchange.coinbase.com
 0.0.0.0 electroneum.cryptominingpool.eu
 0.0.0.0 electroneum.mobile-mining.com
 0.0.0.0 electroneum.ovh
@@ -167,6 +182,8 @@
 0.0.0.0 email.crypto-coins.club
 0.0.0.0 email.moneroocean.stream
 0.0.0.0 emc2.suprnova.cc
+0.0.0.0 engineering.coinbase.com
+0.0.0.0 ent-api.sandbox.coinbase.com
 0.0.0.0 eqt.suprnova.cc
 0.0.0.0 equal.suprnova.cc
 0.0.0.0 equihash.cryptobroker.io
@@ -228,6 +245,9 @@
 0.0.0.0 europe.monero.miningpoolhub.com
 0.0.0.0 europe.zcoin.miningpoolhub.com
 0.0.0.0 europe1.darkcoin.miningpoolhub.com
+0.0.0.0 ex-notify.coinbase.com
+0.0.0.0 exceptions.coinbase.com
+0.0.0.0 exchange.coinbase.com
 0.0.0.0 execoin.miningpoolhub.com
 0.0.0.0 exp-eu.dwarfpool.com
 0.0.0.0 exp-us.dwarfpool.com
@@ -239,7 +259,10 @@
 0.0.0.0 fail.suprnova.cc
 0.0.0.0 faraday.mmpool.org
 0.0.0.0 feathercoin.miningpoolhub.com
+0.0.0.0 feed.exchange.coinbase.com
 0.0.0.0 feedback.poolmining.org
+0.0.0.0 filetransfer.coinbase.com
+0.0.0.0 fix.exchange.coinbase.com
 0.0.0.0 flo.suprnova.cc
 0.0.0.0 forre.st
 0.0.0.0 forum.bitcoin.cz
@@ -313,6 +336,7 @@
 0.0.0.0 hush.suprnova.cc
 0.0.0.0 icarus.phoenixcoin.org
 0.0.0.0 im.forre.st
+0.0.0.0 images.coinbase.com
 0.0.0.0 img.pr0gramm.com
 0.0.0.0 influx.miningpoolhub.com
 0.0.0.0 irc.minemonero.pro
@@ -352,6 +376,7 @@
 0.0.0.0 local.ckpool.org
 0.0.0.0 localhost.miningspeed.com
 0.0.0.0 login.bitcoin.cz
+0.0.0.0 login.coinbase.com
 0.0.0.0 losangeles01.minemonero.pro
 0.0.0.0 ltc.suprnova.cc
 0.0.0.0 ltcminer.io
@@ -363,6 +388,7 @@
 0.0.0.0 mac.suprnova.cc
 0.0.0.0 mail.altpool.pro
 0.0.0.0 mail.btgpool.pro
+0.0.0.0 mail.coinbase.com
 0.0.0.0 mail.coinhive-manager.com
 0.0.0.0 mail.crypto-coins.club
 0.0.0.0 mail.crypto-loot.com
@@ -520,6 +546,7 @@
 0.0.0.0 prometheus.phoenixcoin.org
 0.0.0.0 proxy-khlizawelj.now.sh
 0.0.0.0 public.deltapool.net
+0.0.0.0 public.sandbox.exchange.coinbase.com
 0.0.0.0 pure.suprnova.cc
 0.0.0.0 px1.papoto.com
 0.0.0.0 px2.papoto.com
@@ -534,6 +561,8 @@
 0.0.0.0 s.gus.host
 0.0.0.0 s.zsolo.bid
 0.0.0.0 s003.papoto.com
+0.0.0.0 sandbox.coinbase.com
+0.0.0.0 sandbox.exchange.coinbase.com
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 scrypt.cryptobroker.io
 0.0.0.0 seattle01.minemonero.pro
@@ -573,6 +602,7 @@
 0.0.0.0 spaincoin.miningpoolhub.com
 0.0.0.0 spr.suprnova.cc
 0.0.0.0 sql.eth.pp.ua
+0.0.0.0 staging.community.coinbase.com
 0.0.0.0 start.suprnova.cc
 0.0.0.0 startcoin.miningpoolhub.com
 0.0.0.0 startminer.com
@@ -581,8 +611,10 @@
 0.0.0.0 static.reasedoper.pw
 0.0.0.0 statum.bitcoin.cz
 0.0.0.0 staturm.bitcoin.cz
+0.0.0.0 status.coinbase.com
 0.0.0.0 sto.suprnova.cc
 0.0.0.0 stonk.suprnova.cc
+0.0.0.0 store.coinbase.com
 0.0.0.0 strarum.bitcoin.cz
 0.0.0.0 stratham.bitcoin.cz
 0.0.0.0 strathum.bitcoin.cz
@@ -608,6 +640,7 @@
 0.0.0.0 straum.bitcoin.cz
 0.0.0.0 sumo.poolto.be
 0.0.0.0 support.bitcoin.cz
+0.0.0.0 support.coinbase.com
 0.0.0.0 support.slushpool.com
 0.0.0.0 supportxmr.com
 0.0.0.0 suprnova.cc
@@ -714,9 +747,12 @@
 0.0.0.0 ws-de-03.rocks.io
 0.0.0.0 ws-de-04.rocks.io
 0.0.0.0 ws-de-05.rocks.io
+0.0.0.0 ws-feed.exchange.coinbase.com
 0.0.0.0 ws-fr-01.rocks.io
 0.0.0.0 ws-fr-02.rocks.io
 0.0.0.0 ws-fr-03.rocks.io
+0.0.0.0 ws.coinbase.com
+0.0.0.0 ws.sandbox.coinbase.com
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
 0.0.0.0 ws001.coinhive.com
@@ -859,11 +895,13 @@
 0.0.0.0 www.bitcoin.cz
 0.0.0.0 www.bitminter.com
 0.0.0.0 www.bitzfree.com
+0.0.0.0 www.blog.coinbase.com
 0.0.0.0 www.blog.slushpool.com
 0.0.0.0 www.bravo-mining.com
 0.0.0.0 www.btgpool.pro
 0.0.0.0 www.ckpool.org
 0.0.0.0 www.cloudcoins.co
+0.0.0.0 www.coinbase.com
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.coinlab.biz
@@ -874,6 +912,7 @@
 0.0.0.0 www.deepbit.net
 0.0.0.0 www.deltapool.net
 0.0.0.0 www.dogepool.rf.gd
+0.0.0.0 www.engineering.coinbase.com
 0.0.0.0 www.eth.pp.ua
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
@@ -951,6 +990,7 @@
 0.0.0.0 xsecurity.fblaster.com
 0.0.0.0 xzc.suprnova.cc
 0.0.0.0 xzpool.com
+0.0.0.0 youporn.sexy
 0.0.0.0 zabbix.minemonero.pro
 0.0.0.0 zcash.deltapool.net
 0.0.0.0 zcash.miningpoolhub.com
