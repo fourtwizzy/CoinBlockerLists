@@ -20,6 +20,7 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 | Hosts | This list contains all domains - A hostslist for administrators to prevent mining in networks| [RAW = hosts](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts) |
 | Hosts | This list contains all optional domains - An additional hostslist for administrators| [RAW = hosts_optional](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_optional) |
 | Hosts | This list contains all browser mining domains - A hostslist to prevent browser mining only| [RAW = hosts_browser](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) |
+| List | This list contains all IPs - A additional list for administrators to prevent mining in networks| [RAW = hosts](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/MiningServerIPList.txt) |
 
 ### CoinBlockerLists is available on [https://wally3k.github.io/](https://wally3k.github.io/)
 Thanks to [https://github.com/WaLLy3K](https://github.com/WaLLy3K) and [https://github.com/beerisgood](https://github.com/beerisgood/) :)
