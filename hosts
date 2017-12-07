@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 07 Dec 2017 21:21
+# Last modified: 07 Dec 2017 21:58
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -473,6 +473,7 @@
 0.0.0.0 mining.coin-hive.com
 0.0.0.0 mining.deltapool.net
 0.0.0.0 mining.miningspeed.com
+0.0.0.0 miningpool.africa
 0.0.0.0 mininh.bitcoin.cz
 0.0.0.0 minning.bitcoin.cz
 0.0.0.0 minnng.bitcoin.cz
@@ -519,6 +520,7 @@
 0.0.0.0 neva.suprnova.cc
 0.0.0.0 new.nicehash.com
 0.0.0.0 newark.minemonero.pro
+0.0.0.0 nicehash.com
 0.0.0.0 nist5.usa.nicehash.com
 0.0.0.0 node1.xmr-tw.org
 0.0.0.0 node2.xmr-tw.org
@@ -1054,6 +1056,7 @@
 0.0.0.0 xzc.suprnova.cc
 0.0.0.0 xzpool.com
 0.0.0.0 youporn.sexy
+0.0.0.0 za.miningpool.africa
 0.0.0.0 zabbix.minemonero.pro
 0.0.0.0 zcash.deltapool.net
 0.0.0.0 zcash.miningpoolhub.com

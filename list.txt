@@ -470,6 +470,7 @@ mining.bitcoin.cz
 mining.coin-hive.com
 mining.deltapool.net
 mining.miningspeed.com
+miningpool.africa
 mininh.bitcoin.cz
 minning.bitcoin.cz
 minnng.bitcoin.cz
@@ -516,6 +517,7 @@ netko.suprnova.cc
 neva.suprnova.cc
 new.nicehash.com
 newark.minemonero.pro
+nicehash.com
 nist5.usa.nicehash.com
 node1.xmr-tw.org
 node2.xmr-tw.org
@@ -1051,6 +1053,7 @@ xsecurity.fblaster.com
 xzc.suprnova.cc
 xzpool.com
 youporn.sexy
+za.miningpool.africa
 zabbix.minemonero.pro
 zcash.deltapool.net
 zcash.miningpoolhub.com
