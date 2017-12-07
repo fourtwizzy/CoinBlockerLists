@@ -21,6 +21,7 @@ api.minemonero.pro
 api.moneroocean.stream
 api.multipool.us
 api.nanopool.org
+api.nicehash.com
 api.pool.bitcoin.com
 api.sandbox.coinbase.com
 api.slushpool.com
@@ -70,6 +71,8 @@ bitminter.com
 bitnex.io
 bittip.coinbase.com
 bitzfree.com
+blake2s.eu.nicehash.com
+blake2s.hk.nicehash.com
 blog.bitcoin.cz
 blog.coinbase.com
 blog.slushpool.com
@@ -126,11 +129,22 @@ crypto-loot.com
 cryptofriends.org
 cryptomine.pro
 cryptominingpool.eu
+cryptonight.eu.nicehash.com
+cryptonight.hk.nicehash.com
+cryptonight.in.nicehash.com
+cryptonight.jp.nicehash.com
+cryptonight.usa.nicehash.com
 cryptoxpool.com
 csc.suprnova.cc
 ctrb.jscdndel.com
 custody.coinbase.com
 d1.eth.pp.ua
+daggerhashimoto.br.nicehash.com
+daggerhashimoto.eu.nicehash.com
+daggerhashimoto.hk.nicehash.com
+daggerhashimoto.in.nicehash.com
+daggerhashimoto.jp.nicehash.com
+daggerhashimoto.usa.nicehash.com
 darkcoin.miningpoolhub.com
 dash.miningpoolhub.com
 dash.suprnova.cc
@@ -145,6 +159,8 @@ de-wal-01.suprnova.cc
 de.ckpool.org
 de.kano.is
 de.moneroocean.stream
+decred.eu.nicehash.com
+decred.usa.nicehash.com
 deepbit.net
 deepc.cc
 deltapool.net
@@ -155,6 +171,7 @@ destratum.ckpool.org
 dev.coinlab.biz
 dev.minemonero.pro
 dev.multipool.us
+devel.nicehash.com
 developers.coinbase.com
 dgbg.suprnova.cc
 dgbq.suprnova.cc
@@ -184,6 +201,10 @@ ent-api.sandbox.coinbase.com
 eqt.suprnova.cc
 equal.suprnova.cc
 equihash.cryptobroker.io
+equihash.eu.nicehash.com
+equihash.hk.nicehash.com
+equihash.jp.nicehash.com
+equihash.usa.nicehash.com
 escobar.pr0gramm.com
 etc-asia1.nanopool.org
 etc-eu1.nanopool.org
@@ -301,6 +322,7 @@ geo.suprnova.cc
 geocoin.miningpoolhub.com
 getpool.network
 gigahash.wemineltc.com
+gitlab.nicehash.com
 givecoin.miningpoolhub.com
 global.wemineltc.com
 globalboosty.miningpoolhub.com
@@ -350,6 +372,7 @@ kano.is
 kano.space
 karbo.crypto-coins.club
 kdowqlpt.info
+keccak.eu.nicehash.com
 kissdoujin.com
 kisshentai.net
 kiwifarms.net
@@ -362,7 +385,10 @@ kryptex.info
 kurt.suprnova.cc
 la01.supportxmr.com
 lbry-api.suprnova.cc
+lbry.eu.nicehash.com
+lbry.hk.nicehash.com
 lbry.suprnova.cc
+lbry.usa.nicehash.com
 leaf.api.minemonero.pro
 leafapi.minemonero.pro
 listat.biz
@@ -379,6 +405,11 @@ ltc.suprnova.cc
 ltcminer.io
 luckpool.org
 luna.suprnova.cc
+lyra2re.eu.nicehash.com
+lyra2re.usa.nicehash.com
+lyra2rev2.eu.nicehash.com
+lyra2rev2.hk.nicehash.com
+lyra2rev2.usa.nicehash.com
 m.bitcoin.cz
 m.pr0gramm.com
 maaapi.mooo.com
@@ -396,8 +427,10 @@ mail.miningpoolhub.com
 mail.miningspeed.com
 mail.multipool.us
 mail.nanopool.org
+mail.nicehash.com
 mail.sbhmn-miner.com
 mail.tugae2.com
+mail2.nicehash.com
 mailzimbra.nanopool.org
 map.bitcoin-russia.ru
 mar.suprnova.cc
@@ -417,6 +450,7 @@ mineing.bitcoin.cz
 minemonero.pro
 minemytraffic.com
 miner.bitcoin.cz
+miner.nicehash.com
 miner.pr0gramm.com
 minercircle.com
 minerjet.com
@@ -476,9 +510,13 @@ myriadcoin-yescrypt.miningpoolhub.com
 nanopool.org
 ndc.bitember.com
 neohash.com
+neoscrypt.eu.nicehash.com
+neoscrypt.usa.nicehash.com
 netko.suprnova.cc
 neva.suprnova.cc
+new.nicehash.com
 newark.minemonero.pro
+nist5.usa.nicehash.com
 node1.xmr-tw.org
 node2.xmr-tw.org
 nodes.bitcoin-russia.ru
@@ -489,6 +527,7 @@ ns2.cryptmonero.com
 ny1.minez.zone
 oc.suprnova.cc
 old.bitcoin.cz
+old.nicehash.com
 oload.info
 p2p-multipool.greengaming.de
 p2pool.in
@@ -504,6 +543,8 @@ pasc-eu1.nanopool.org
 pasc-eu2.nanopool.org
 pasc.nanopool.org
 pasc.suprnova.cc
+pascal.eu.nicehash.com
+pascal.usa.nicehash.com
 pasl.suprnova.cc
 pc.crypto-coins.club
 pepe.suprnova.cc
@@ -539,9 +580,13 @@ potcoin.miningpoolhub.com
 power.wemineltc.com
 ppoi.org
 pr0gramm.com
+private.equihash.usa.nicehash.com
 projectpoi.com
 prometheus.phoenixcoin.org
 proxy-khlizawelj.now.sh
+proxy01.eu.nicehash.com
+proxy01.usa.nicehash.com
+proxy02.eu.nicehash.com
 public.deltapool.net
 public.sandbox.exchange.coinbase.com
 pure.suprnova.cc
@@ -562,6 +607,9 @@ sandbox.coinbase.com
 sandbox.exchange.coinbase.com
 sbhmn-miner.com
 scrypt.cryptobroker.io
+scrypt.eu.nicehash.com
+scrypt.jp.nicehash.com
+scrypt.usa.nicehash.com
 seattle01.minemonero.pro
 secretbeta.bitcoin.com
 secumine.net
@@ -573,6 +621,7 @@ sexcoin.miningpoolhub.com
 sg.bitcoin.cz
 sg.kano.is
 sg.stratum.slushpool.com
+sha256.usa.nicehash.com
 shell.bitcoin.com
 sia-asia1.nanopool.org
 sia-eu1.nanopool.org
@@ -580,6 +629,7 @@ sia-eu2.nanopool.org
 sia-us-west1.nanopool.org
 sia.nanopool.org
 sia.suprnova.cc
+sia.usa.nicehash.com
 siacoin.miningpoolhub.com
 sib.suprnova.cc
 sig.edgeno.de
@@ -587,6 +637,7 @@ sigt-api.suprnova.cc
 sigt.suprnova.cc
 singapore.minemonero.pro
 singapore02.minemonero.pro
+skunk.eu.nicehash.com
 slushpool.com
 smartcoin.miningpoolhub.com
 smtp.cryptominingpool.eu
@@ -595,8 +646,15 @@ smtp.tugae2.com
 solarcoin.miningpoolhub.com
 solid.mine-for.us
 solo.ckpool.org
+solo.nicehash.com
 sologateway.ckpool.org
 spaincoin.miningpoolhub.com
+speedtest.br.nicehash.com
+speedtest.eu.nicehash.com
+speedtest.hk.nicehash.com
+speedtest.in.nicehash.com
+speedtest.jp.nicehash.com
+speedtest.usa.nicehash.com
 spr.suprnova.cc
 sql.eth.pp.ua
 staging.community.coinbase.com
@@ -632,6 +690,7 @@ stratum.eu.bitcoin.cz
 stratum.kano.is
 stratum.mining.eligius.st
 stratum.slushpool.com
+stratum.solo.nicehash.com
 stratum2.wemineltc.com
 stratun.bitcoin.cz
 straum.bitcoin.cz
@@ -726,6 +785,7 @@ wckp.sbhmn-miner.com
 web-master.sbhmn-miner.com
 web.rocks.io
 web04.bitcoin.com
+webmail.nicehash.com
 webmail.tugae2.com
 webmail.xzpool.com
 webmine.cz
@@ -926,6 +986,7 @@ www.mobile-mining.com
 www.moneroocean.stream
 www.multipool.us
 www.nanopool.org
+www.nicehash.com
 www.p2pool.in
 www.p2pool.info
 www.p2pool.org
@@ -952,6 +1013,8 @@ www5.2giga.link
 www6.2giga.link
 www7.2giga.link
 wyv.suprnova.cc
+x11gost.eu.nicehash.com
+x11gost.usa.nicehash.com
 xbasfbno.info
 xci.crypto-coins.club
 xlc.crypto-coins.club
@@ -992,6 +1055,7 @@ zabbix.minemonero.pro
 zcash.deltapool.net
 zcash.miningpoolhub.com
 zcash.miningspeed.com
+zcash.nicehash.com
 zcl.nanopool.org
 zcl.suprnova.cc
 zclassic.miningpoolhub.com
