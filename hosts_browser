@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 09 Dec 2017 18:47
+# Last modified: 09 Dec 2017 19:10
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 50bots.nullrefexcep.com
@@ -40,6 +40,7 @@
 0.0.0.0 coinhive-proxy.party
 0.0.0.0 coinhive.com
 0.0.0.0 coinhiveproxy.com
+0.0.0.0 coinimp.com
 0.0.0.0 coinlab.biz
 0.0.0.0 coinnebula.com
 0.0.0.0 coinpot.co
@@ -134,8 +135,10 @@
 0.0.0.0 podrltid.info
 0.0.0.0 pool-de.supportxmr.com
 0.0.0.0 pool.cloudcoins.co
+0.0.0.0 pool.coinimp.com
 0.0.0.0 pool.coinlab.biz
 0.0.0.0 pool.supportxmr.com
+0.0.0.0 pool2.coinimp.com
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gramm.com
 0.0.0.0 projectpoi.com
@@ -331,6 +334,7 @@
 0.0.0.0 www.cloudcoins.co
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com
+0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinlab.biz
 0.0.0.0 www.coinpot.co
 0.0.0.0 www.cookiescript.info
@@ -345,6 +349,8 @@
 0.0.0.0 www.moneroocean.stream
 0.0.0.0 www.nullrefexcep.com
 0.0.0.0 www.papoto.com
+0.0.0.0 www.pool.coinimp.com
+0.0.0.0 www.pool2.coinimp.com
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.rocks.io

@@ -62,10 +62,12 @@ beta-mining.bitcoin.cz
 beta.coinbase.com
 beta.madmining.club
 beta.mining.bitcoin.cz
+beta.prohashing.com
 beta.slushpool.com
 beta.supportxmr.com
 bic.crypto-coins.club
 bip.crypto-coins.club
+bitbucket.prohashing.com
 bitcoin-cash.miningpoolhub.com
 bitcoin-russia.ru
 bitcoin.com
@@ -120,12 +122,15 @@ coinhive-manager.com
 coinhive-proxy.party
 coinhive.com
 coinhiveproxy.com
+coinimp.com
 coinlab.biz
 coinnebula.com
 coinpot.co
+coins.prohashing.com
 coinworker.com
 com-http.us
 community.coinbase.com
+confluence.prohashing.com
 connect.pool.bitcoin.com
 console.pool.bitcoin.com
 cookiescriptcdn.pro
@@ -181,6 +186,7 @@ destratum.ckpool.org
 dev.coinlab.biz
 dev.minemonero.pro
 dev.multipool.us
+dev.prohashing.com
 devel.nicehash.com
 developers.coinbase.com
 dgbg.suprnova.cc
@@ -297,7 +303,9 @@ fix.exchange.coinbase.com
 flo.suprnova.cc
 forre.st
 forum.bitcoin.cz
+forum.prohashing.com
 forums.deltapool.net
+forums.prohashing.com
 fr-db0.suprnova.cc
 fr-db1.suprnova.cc
 fr-db2.suprnova.cc
@@ -378,6 +386,7 @@ influx.miningpoolhub.com
 irc.minemonero.pro
 iwanttoearn.money
 jackpotcoin.miningpoolhub.com
+jira.prohashing.com
 joyreactor.cc
 jroqvbvw.info
 js.coinhive.com
@@ -413,6 +422,7 @@ leafapi.minemonero.pro
 listat.biz
 lite.wemineltc.com
 litecoin.miningpoolhub.com
+live.prohashing.com
 lmodr.biz
 load.jsecoin.com
 local.ckpool.org
@@ -447,6 +457,7 @@ mail.miningspeed.com
 mail.multipool.us
 mail.nanopool.org
 mail.nicehash.com
+mail.prohashing.com
 mail.ron.si
 mail.sbhmn-miner.com
 mail.tugae2.com
@@ -543,6 +554,7 @@ new.minr.pw
 new.nicehash.com
 new.supportxmr.com
 newark.minemonero.pro
+newsupport.prohashing.com
 nicehash.com
 nist5.usa.nicehash.com
 node.supportxmr.com
@@ -558,6 +570,7 @@ ny1.minez.zone
 oc.suprnova.cc
 old.bitcoin.cz
 old.nicehash.com
+oldsupport.prohashing.com
 oload.info
 openkatalog.com
 p2p-multipool.greengaming.de
@@ -595,6 +608,7 @@ pool.bohemianpool.com
 pool.burstmarketplace.com
 pool.ckpool.org
 pool.cloudcoins.co
+pool.coinimp.com
 pool.coinlab.biz
 pool.cryptmonero.com
 pool.eth.pp.ua
@@ -606,6 +620,7 @@ pool.moriaxmr.com
 pool.supportxmr.com
 pool.xmr.pt
 pool1.us.multipool.us
+pool2.coinimp.com
 poolmining.org
 pools.tugae2.com
 poolsupport.bitcoin.com
@@ -616,6 +631,7 @@ ppoi.org
 pr0gramm.com
 preview.supportxmr.com
 private.equihash.usa.nicehash.com
+prohashing.com
 projectpoi.com
 prometheus.phoenixcoin.org
 proxy-khlizawelj.now.sh
@@ -745,7 +761,9 @@ stream.nullrefexcep.com
 sumo.poolto.be
 support.bitcoin.cz
 support.coinbase.com
+support.prohashing.com
 support.slushpool.com
+supporttickets.prohashing.com
 supportxmr.com
 suprnova.cc
 sv1.kano.is
@@ -1013,6 +1031,7 @@ www.cloudcoins.co
 www.coinbase.com
 www.coinhive-manager.com
 www.coinhive.com
+www.coinimp.com
 www.coinlab.biz
 www.coinpot.co
 www.crypto-coins.club
@@ -1030,6 +1049,7 @@ www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com
 www.kano.is
+www.live.prohashing.com
 www.madmining.club
 www.minemonero.pro
 www.miningpoolhub.com
@@ -1046,9 +1066,12 @@ www.p2pool.in
 www.p2pool.info
 www.p2pool.org
 www.papoto.com
+www.pool.coinimp.com
+www.pool2.coinimp.com
 www.poolmining.org
 www.ppoi.org
 www.pr0gramm.com
+www.prohashing.com
 www.rocks.io
 www.sbhmn-miner.com
 www.secumine.net

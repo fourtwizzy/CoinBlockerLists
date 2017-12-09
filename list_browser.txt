@@ -37,6 +37,7 @@ coinhive-manager.com
 coinhive-proxy.party
 coinhive.com
 coinhiveproxy.com
+coinimp.com
 coinlab.biz
 coinnebula.com
 coinpot.co
@@ -131,8 +132,10 @@ platform.jsecoin.com
 podrltid.info
 pool-de.supportxmr.com
 pool.cloudcoins.co
+pool.coinimp.com
 pool.coinlab.biz
 pool.supportxmr.com
+pool2.coinimp.com
 ppoi.org
 pr0gramm.com
 projectpoi.com
@@ -328,6 +331,7 @@ www.browsermine.com
 www.cloudcoins.co
 www.coinhive-manager.com
 www.coinhive.com
+www.coinimp.com
 www.coinlab.biz
 www.coinpot.co
 www.cookiescript.info
@@ -342,6 +346,8 @@ www.minr.pw
 www.moneroocean.stream
 www.nullrefexcep.com
 www.papoto.com
+www.pool.coinimp.com
+www.pool2.coinimp.com
 www.ppoi.org
 www.pr0gramm.com
 www.rocks.io
