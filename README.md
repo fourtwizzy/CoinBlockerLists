@@ -22,6 +22,14 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 | Hosts | This list contains all browser mining domains - A hostslist to prevent browser mining only| [RAW = hosts_browser](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts_browser) |
 | List | This list contains all IPs - A additional list for administrators to prevent mining in networks| [RAW = MiningServerIPList.txt](https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/MiningServerIPList.txt) |
 
+### CoinBlockerLists is now listed in FireHOL: [http://iplists.firehol.org/](http://iplists.firehol.org/)  
+- [http://iplists.firehol.org/?ipset=coinbl_hosts](http://iplists.firehol.org/?ipset=coinbl_hosts)
+- [http://iplists.firehol.org/?ipset=coinbl_hosts_optional](http://iplists.firehol.org/?ipset=coinbl_hosts_optional)
+- [http://iplists.firehol.org/?ipset=coinbl_hosts_browser](http://iplists.firehol.org/?ipset=coinbl_hosts_browser)
+- [http://iplists.firehol.org/?ipset=coinbl_ips](http://iplists.firehol.org/?ipset=coinbl_ips)
+
+Many thanks to [https://github.com/ktsaou](https://github.com/ktsaou) :)
+
 ### CoinBlockerLists is available on [https://wally3k.github.io/](https://wally3k.github.io/)
 Thanks to [https://github.com/WaLLy3K](https://github.com/WaLLy3K) and [https://github.com/beerisgood](https://github.com/beerisgood/) :)
 
