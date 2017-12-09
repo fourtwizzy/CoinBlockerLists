@@ -103,6 +103,7 @@ buy.coinbase.com
 calc.btgpool.pro
 cann.suprnova.cc
 capodannoinversilia.com
+captchas.freebitco.in
 cdn.cloudcoins.co
 cdn.rocks.io
 chc.suprnova.cc
@@ -209,8 +210,10 @@ electroneum.mobile-mining.com
 electroneum.ovh
 electrum.bitcoin.cz
 electrum1.wemineltc.com
+eligius.st
 elthamely.com
 email.crypto-coins.club
+email.mail.faucethub.io
 email.moneroocean.stream
 emc2.suprnova.cc
 engineering.coinbase.com
@@ -295,6 +298,9 @@ explorer.bitcoin-russia.ru
 f1.deepbit.net
 fail.suprnova.cc
 faraday.mmpool.org
+faucethub.io
+fbtc-audio.freebitco.in
+fbtc-uab.freebitco.in
 feathercoin.miningpoolhub.com
 feed.exchange.coinbase.com
 feedback.poolmining.org
@@ -324,6 +330,7 @@ fr.kano.is
 fr04.supportxmr.com
 fractalcoin.miningpoolhub.com
 frankfurt.minemonero.pro
+freebitco.in
 freedom.wemineltc.com
 friendshipcoin.miningpoolhub.com
 ftc.suprnova.cc
@@ -339,10 +346,13 @@ full.pr0gramm.com
 fwl.bitcoin.cz
 gamecredits.miningpoolhub.com
 gb.suprnova.cc
+gbminers.com
+gbt.mining.eligius.st
 gemius.pl
 geo.suprnova.cc
 geocoin.miningpoolhub.com
 getpool.network
+getwork.mining.eligius.st
 gigahash.wemineltc.com
 gitlab.nicehash.com
 givecoin.miningpoolhub.com
@@ -383,6 +393,7 @@ im.forre.st
 images.coinbase.com
 img.pr0gramm.com
 influx.miningpoolhub.com
+ipv6.freebitco.in
 irc.minemonero.pro
 iwanttoearn.money
 jackpotcoin.miningpoolhub.com
@@ -501,6 +512,8 @@ mining.bitcoin.com
 mining.bitcoin.cz
 mining.coin-hive.com
 mining.deltapool.net
+mining.eligius.st
+mining.freebitco.in
 mining.miningspeed.com
 miningpool.africa
 mininh.bitcoin.cz
@@ -531,6 +544,7 @@ moneroocean.stream
 moneropool.com
 monetaryunit.miningpoolhub.com
 monitoring.minemonero.pro
+moonbit.co.in
 multicoin.eu
 multipool.us
 muning.bitcoin.cz
@@ -652,6 +666,7 @@ px1.papoto.com
 px2.papoto.com
 qtl.suprnova.cc
 quark.miningpoolhub.com
+ra.mining.eligius.st
 rain.suprnova.cc
 ratchetmining.com
 rdd.coinedpool.com
@@ -661,6 +676,7 @@ rocks.io
 ron.si
 rot.ron.si
 s.gus.host
+s.m.eligius.st
 s.zsolo.bid
 s003.papoto.com
 sandbox.coinbase.com
@@ -725,7 +741,16 @@ startcoin.miningpoolhub.com
 startminer.com
 startum.bitcoin.cz
 static.btgpool.pro
+static.freebitco.in
 static.reasedoper.pw
+static1.freebitco.in
+static2.freebitco.in
+static3.freebitco.in
+static4.freebitco.in
+static5.freebitco.in
+static6.freebitco.in
+static7.freebitco.in
+static8.freebitco.in
 statum.bitcoin.cz
 staturm.bitcoin.cz
 status.coinbase.com
@@ -737,6 +762,8 @@ strarum.bitcoin.cz
 stratham.bitcoin.cz
 strathum.bitcoin.cz
 stratm.bitcoin.cz
+stratum%2bstratum.mining.eligius.st
+stratum+stratum.mining.eligius.st
 stratum-dash.antpool.com
 stratum-etc.antpool.com
 stratum-eth.antpool.com
@@ -750,6 +777,7 @@ stratum.bitcoin.inc.hk
 stratum.bravo-mining.com
 stratum.deltapool.net
 stratum.eu.bitcoin.cz
+stratum.gbminers.com
 stratum.kano.is
 stratum.mining.eligius.st
 stratum.slushpool.com
@@ -758,9 +786,11 @@ stratum2.wemineltc.com
 stratun.bitcoin.cz
 straum.bitcoin.cz
 stream.nullrefexcep.com
+su.mining.eligius.st
 sumo.poolto.be
 support.bitcoin.cz
 support.coinbase.com
+support.faucethub.io
 support.prohashing.com
 support.slushpool.com
 supporttickets.prohashing.com
@@ -779,6 +809,7 @@ test.minr.pw
 testnet.xmr-tw.org
 thumb.pr0gramm.com
 tokio01.minemonero.pro
+tracking.freebitco.in
 tratum.bitcoin.cz
 trezor.bitcoin.cz
 ttc.suprnova.cc
@@ -831,6 +862,12 @@ usa2.bitcoin.cz
 usa2.wemineltc.com
 usa4.wemineltc.com
 usxmrpool.com
+v1.srv.eligius.st
+v2.srv.eligius.st
+v3.srv.eligius.st
+v5.srv.eligius.st
+v6.srv.eligius.st
+v7.srv.eligius.st
 validator.btgpool.pro
 vcash.miningpoolhub.com
 veltor.suprnova.cc
@@ -879,6 +916,7 @@ ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
 ws.coinbase.com
+ws.freebitco.in
 ws.sandbox.coinbase.com
 ws000.coinhive.com
 ws001.authedmine.com
@@ -1009,6 +1047,7 @@ ws6.coin-have.com
 ws7.coin-have.com
 ws8.coin-have.com
 ws9.coin-have.com
+wsnew.freebitco.in
 ww.pr0gramm.com
 ww8.adminer.com
 www-tb7c.pr0gramm.com
@@ -1041,8 +1080,12 @@ www.cryptoxpool.com
 www.deepbit.net
 www.deltapool.net
 www.dogepool.rf.gd
+www.eligius.st
 www.engineering.coinbase.com
 www.eth.pp.ua
+www.faucethub.io
+www.freebitco.in
+www.gbminers.com
 www.gus.host
 www.hashforcash.us
 www.jsccnn.com
@@ -1058,6 +1101,7 @@ www.minning.bitcoin.cz
 www.minr.pw
 www.mobile-mining.com
 www.moneroocean.stream
+www.moonbit.co.in
 www.multipool.us
 www.nanopool.org
 www.nicehash.com
@@ -1082,6 +1126,8 @@ www.tugae2.com
 www.ucrypto.net
 www.webminerpool.com
 www.wemineltc.com
+www.ws.freebitco.in
+www.wsnew.freebitco.in
 www.xmr-tw.org
 www.xzpool.com
 www1.2giga.link

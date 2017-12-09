@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 09 Dec 2017 19:10
+# Last modified: 09 Dec 2017 20:12
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 2giga.link
 0.0.0.0 50bots.nullrefexcep.com
@@ -106,6 +106,7 @@
 0.0.0.0 calc.btgpool.pro
 0.0.0.0 cann.suprnova.cc
 0.0.0.0 capodannoinversilia.com
+0.0.0.0 captchas.freebitco.in
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.rocks.io
 0.0.0.0 chc.suprnova.cc
@@ -212,8 +213,10 @@
 0.0.0.0 electroneum.ovh
 0.0.0.0 electrum.bitcoin.cz
 0.0.0.0 electrum1.wemineltc.com
+0.0.0.0 eligius.st
 0.0.0.0 elthamely.com
 0.0.0.0 email.crypto-coins.club
+0.0.0.0 email.mail.faucethub.io
 0.0.0.0 email.moneroocean.stream
 0.0.0.0 emc2.suprnova.cc
 0.0.0.0 engineering.coinbase.com
@@ -298,6 +301,9 @@
 0.0.0.0 f1.deepbit.net
 0.0.0.0 fail.suprnova.cc
 0.0.0.0 faraday.mmpool.org
+0.0.0.0 faucethub.io
+0.0.0.0 fbtc-audio.freebitco.in
+0.0.0.0 fbtc-uab.freebitco.in
 0.0.0.0 feathercoin.miningpoolhub.com
 0.0.0.0 feed.exchange.coinbase.com
 0.0.0.0 feedback.poolmining.org
@@ -327,6 +333,7 @@
 0.0.0.0 fr04.supportxmr.com
 0.0.0.0 fractalcoin.miningpoolhub.com
 0.0.0.0 frankfurt.minemonero.pro
+0.0.0.0 freebitco.in
 0.0.0.0 freedom.wemineltc.com
 0.0.0.0 friendshipcoin.miningpoolhub.com
 0.0.0.0 ftc.suprnova.cc
@@ -342,10 +349,13 @@
 0.0.0.0 fwl.bitcoin.cz
 0.0.0.0 gamecredits.miningpoolhub.com
 0.0.0.0 gb.suprnova.cc
+0.0.0.0 gbminers.com
+0.0.0.0 gbt.mining.eligius.st
 0.0.0.0 gemius.pl
 0.0.0.0 geo.suprnova.cc
 0.0.0.0 geocoin.miningpoolhub.com
 0.0.0.0 getpool.network
+0.0.0.0 getwork.mining.eligius.st
 0.0.0.0 gigahash.wemineltc.com
 0.0.0.0 gitlab.nicehash.com
 0.0.0.0 givecoin.miningpoolhub.com
@@ -386,6 +396,7 @@
 0.0.0.0 images.coinbase.com
 0.0.0.0 img.pr0gramm.com
 0.0.0.0 influx.miningpoolhub.com
+0.0.0.0 ipv6.freebitco.in
 0.0.0.0 irc.minemonero.pro
 0.0.0.0 iwanttoearn.money
 0.0.0.0 jackpotcoin.miningpoolhub.com
@@ -504,6 +515,8 @@
 0.0.0.0 mining.bitcoin.cz
 0.0.0.0 mining.coin-hive.com
 0.0.0.0 mining.deltapool.net
+0.0.0.0 mining.eligius.st
+0.0.0.0 mining.freebitco.in
 0.0.0.0 mining.miningspeed.com
 0.0.0.0 miningpool.africa
 0.0.0.0 mininh.bitcoin.cz
@@ -534,6 +547,7 @@
 0.0.0.0 moneropool.com
 0.0.0.0 monetaryunit.miningpoolhub.com
 0.0.0.0 monitoring.minemonero.pro
+0.0.0.0 moonbit.co.in
 0.0.0.0 multicoin.eu
 0.0.0.0 multipool.us
 0.0.0.0 muning.bitcoin.cz
@@ -655,6 +669,7 @@
 0.0.0.0 px2.papoto.com
 0.0.0.0 qtl.suprnova.cc
 0.0.0.0 quark.miningpoolhub.com
+0.0.0.0 ra.mining.eligius.st
 0.0.0.0 rain.suprnova.cc
 0.0.0.0 ratchetmining.com
 0.0.0.0 rdd.coinedpool.com
@@ -664,6 +679,7 @@
 0.0.0.0 ron.si
 0.0.0.0 rot.ron.si
 0.0.0.0 s.gus.host
+0.0.0.0 s.m.eligius.st
 0.0.0.0 s.zsolo.bid
 0.0.0.0 s003.papoto.com
 0.0.0.0 sandbox.coinbase.com
@@ -728,7 +744,16 @@
 0.0.0.0 startminer.com
 0.0.0.0 startum.bitcoin.cz
 0.0.0.0 static.btgpool.pro
+0.0.0.0 static.freebitco.in
 0.0.0.0 static.reasedoper.pw
+0.0.0.0 static1.freebitco.in
+0.0.0.0 static2.freebitco.in
+0.0.0.0 static3.freebitco.in
+0.0.0.0 static4.freebitco.in
+0.0.0.0 static5.freebitco.in
+0.0.0.0 static6.freebitco.in
+0.0.0.0 static7.freebitco.in
+0.0.0.0 static8.freebitco.in
 0.0.0.0 statum.bitcoin.cz
 0.0.0.0 staturm.bitcoin.cz
 0.0.0.0 status.coinbase.com
@@ -740,6 +765,8 @@
 0.0.0.0 stratham.bitcoin.cz
 0.0.0.0 strathum.bitcoin.cz
 0.0.0.0 stratm.bitcoin.cz
+0.0.0.0 stratum%2bstratum.mining.eligius.st
+0.0.0.0 stratum+stratum.mining.eligius.st
 0.0.0.0 stratum-dash.antpool.com
 0.0.0.0 stratum-etc.antpool.com
 0.0.0.0 stratum-eth.antpool.com
@@ -753,6 +780,7 @@
 0.0.0.0 stratum.bravo-mining.com
 0.0.0.0 stratum.deltapool.net
 0.0.0.0 stratum.eu.bitcoin.cz
+0.0.0.0 stratum.gbminers.com
 0.0.0.0 stratum.kano.is
 0.0.0.0 stratum.mining.eligius.st
 0.0.0.0 stratum.slushpool.com
@@ -761,9 +789,11 @@
 0.0.0.0 stratun.bitcoin.cz
 0.0.0.0 straum.bitcoin.cz
 0.0.0.0 stream.nullrefexcep.com
+0.0.0.0 su.mining.eligius.st
 0.0.0.0 sumo.poolto.be
 0.0.0.0 support.bitcoin.cz
 0.0.0.0 support.coinbase.com
+0.0.0.0 support.faucethub.io
 0.0.0.0 support.prohashing.com
 0.0.0.0 support.slushpool.com
 0.0.0.0 supporttickets.prohashing.com
@@ -782,6 +812,7 @@
 0.0.0.0 testnet.xmr-tw.org
 0.0.0.0 thumb.pr0gramm.com
 0.0.0.0 tokio01.minemonero.pro
+0.0.0.0 tracking.freebitco.in
 0.0.0.0 tratum.bitcoin.cz
 0.0.0.0 trezor.bitcoin.cz
 0.0.0.0 ttc.suprnova.cc
@@ -834,6 +865,12 @@
 0.0.0.0 usa2.wemineltc.com
 0.0.0.0 usa4.wemineltc.com
 0.0.0.0 usxmrpool.com
+0.0.0.0 v1.srv.eligius.st
+0.0.0.0 v2.srv.eligius.st
+0.0.0.0 v3.srv.eligius.st
+0.0.0.0 v5.srv.eligius.st
+0.0.0.0 v6.srv.eligius.st
+0.0.0.0 v7.srv.eligius.st
 0.0.0.0 validator.btgpool.pro
 0.0.0.0 vcash.miningpoolhub.com
 0.0.0.0 veltor.suprnova.cc
@@ -882,6 +919,7 @@
 0.0.0.0 ws-fr-02.rocks.io
 0.0.0.0 ws-fr-03.rocks.io
 0.0.0.0 ws.coinbase.com
+0.0.0.0 ws.freebitco.in
 0.0.0.0 ws.sandbox.coinbase.com
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
@@ -1012,6 +1050,7 @@
 0.0.0.0 ws7.coin-have.com
 0.0.0.0 ws8.coin-have.com
 0.0.0.0 ws9.coin-have.com
+0.0.0.0 wsnew.freebitco.in
 0.0.0.0 ww.pr0gramm.com
 0.0.0.0 ww8.adminer.com
 0.0.0.0 www-tb7c.pr0gramm.com
@@ -1044,8 +1083,12 @@
 0.0.0.0 www.deepbit.net
 0.0.0.0 www.deltapool.net
 0.0.0.0 www.dogepool.rf.gd
+0.0.0.0 www.eligius.st
 0.0.0.0 www.engineering.coinbase.com
 0.0.0.0 www.eth.pp.ua
+0.0.0.0 www.faucethub.io
+0.0.0.0 www.freebitco.in
+0.0.0.0 www.gbminers.com
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
 0.0.0.0 www.jsccnn.com
@@ -1061,6 +1104,7 @@
 0.0.0.0 www.minr.pw
 0.0.0.0 www.mobile-mining.com
 0.0.0.0 www.moneroocean.stream
+0.0.0.0 www.moonbit.co.in
 0.0.0.0 www.multipool.us
 0.0.0.0 www.nanopool.org
 0.0.0.0 www.nicehash.com
@@ -1085,6 +1129,8 @@
 0.0.0.0 www.ucrypto.net
 0.0.0.0 www.webminerpool.com
 0.0.0.0 www.wemineltc.com
+0.0.0.0 www.ws.freebitco.in
+0.0.0.0 www.wsnew.freebitco.in
 0.0.0.0 www.xmr-tw.org
 0.0.0.0 www.xzpool.com
 0.0.0.0 www1.2giga.link
