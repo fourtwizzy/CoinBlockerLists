@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 21 Nov 2017 15:15
+# Last modified: 11 Dec 2017 17:17
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -89,6 +89,10 @@
 0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 ftp.uclick.in
+0.0.0.0 hashcoin.io
+0.0.0.0 hashcoins.com
+0.0.0.0 hashcoins.ee
+0.0.0.0 hashcoins.ru
 0.0.0.0 i2p.emercoin.com
 0.0.0.0 imperiumminer.com
 0.0.0.0 inwemo.com
@@ -167,6 +171,9 @@
 0.0.0.0 www.emercoin.com
 0.0.0.0 www.evergreencoin.org
 0.0.0.0 www.files.cointraffic.io
+0.0.0.0 www.hashcoins.com
+0.0.0.0 www.hashcoins.ee
+0.0.0.0 www.hashcoins.ru
 0.0.0.0 www.imperiumminer.com
 0.0.0.0 www.inwemo.com
 0.0.0.0 www.mellowads.com

@@ -86,6 +86,10 @@ ftp.imperiumminer.com
 ftp.inwemo.com
 ftp.mellowads.com
 ftp.uclick.in
+hashcoin.io
+hashcoins.com
+hashcoins.ee
+hashcoins.ru
 i2p.emercoin.com
 imperiumminer.com
 inwemo.com
@@ -164,6 +168,9 @@ www.cryptopia.co.nz
 www.emercoin.com
 www.evergreencoin.org
 www.files.cointraffic.io
+www.hashcoins.com
+www.hashcoins.ee
+www.hashcoins.ru
 www.imperiumminer.com
 www.inwemo.com
 www.mellowads.com

@@ -31,6 +31,7 @@ api.coinbase.com
 api.coinhive.com
 api.moneroocean.stream
 app.pr0gramm.com
+aservices.party
 assets.coinbase.com
 auroramine.com
 authedmine.com
@@ -39,6 +40,7 @@ avatar.pr0gramm.com
 azvjudwr.info
 b.proxy4.nullrefexcep.com
 back4.2giga.link
+baiduccdn1.com
 beta.coinbase.com
 browsermine.com
 capodannoinversilia.com
@@ -432,6 +434,7 @@ www.2giga.link
 www.ad-miner.com
 www.adminer.com
 www.authedmine.com
+www.baiduccdn1.com
 www.browsermine.com
 www.cloudcoins.co
 www.coinhive-manager.com
