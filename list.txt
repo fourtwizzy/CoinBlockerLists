@@ -175,6 +175,7 @@ cryptmonero.com
 crypto-coins.club
 crypto-loot.com
 cryptofriends.org
+cryptoloot.pro
 cryptomine.pro
 cryptominingpool.eu
 cryptonight.eu.nicehash.com
@@ -638,6 +639,7 @@ ns2.cryptmonero.com
 nullrefexcep.com
 ny1.minez.zone
 oc.suprnova.cc
+ocean.cryptoloot.pro
 old.bitcoin.cz
 old.nicehash.com
 oldsupport.prohashing.com
@@ -747,6 +749,7 @@ scrypt.cryptobroker.io
 scrypt.eu.nicehash.com
 scrypt.jp.nicehash.com
 scrypt.usa.nicehash.com
+sea.cryptoloot.pro
 seattle01.minemonero.pro
 secretbeta.bitcoin.com
 secumine.net
@@ -1237,6 +1240,7 @@ www.coinlab.biz
 www.coinpot.co
 www.crypto-coins.club
 www.crypto-loot.com
+www.cryptoloot.pro
 www.cryptominingpool.eu
 www.cryptoxpool.com
 www.deepbit.net

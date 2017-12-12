@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 12 Dec 2017 17:26
+# Last modified: 11 Dec 2017 19:34
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -178,6 +178,7 @@
 0.0.0.0 crypto-coins.club
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptofriends.org
+0.0.0.0 cryptoloot.pro
 0.0.0.0 cryptomine.pro
 0.0.0.0 cryptominingpool.eu
 0.0.0.0 cryptonight.eu.nicehash.com
@@ -641,6 +642,7 @@
 0.0.0.0 nullrefexcep.com
 0.0.0.0 ny1.minez.zone
 0.0.0.0 oc.suprnova.cc
+0.0.0.0 ocean.cryptoloot.pro
 0.0.0.0 old.bitcoin.cz
 0.0.0.0 old.nicehash.com
 0.0.0.0 oldsupport.prohashing.com
@@ -750,6 +752,7 @@
 0.0.0.0 scrypt.eu.nicehash.com
 0.0.0.0 scrypt.jp.nicehash.com
 0.0.0.0 scrypt.usa.nicehash.com
+0.0.0.0 sea.cryptoloot.pro
 0.0.0.0 seattle01.minemonero.pro
 0.0.0.0 secretbeta.bitcoin.com
 0.0.0.0 secumine.net
@@ -1240,6 +1243,7 @@
 0.0.0.0 www.coinpot.co
 0.0.0.0 www.crypto-coins.club
 0.0.0.0 www.crypto-loot.com
+0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.cryptominingpool.eu
 0.0.0.0 www.cryptoxpool.com
 0.0.0.0 www.deepbit.net

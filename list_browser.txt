@@ -68,6 +68,7 @@ cookiescript.info
 cookiescriptcdn.pro
 cqfnvznw.info
 crypto-loot.com
+cryptoloot.pro
 ctrb.jscdndel.com
 d3iz6lralvg77g.cloudfront.net
 de.cookiescript.info
@@ -145,6 +146,7 @@ myfhology.sbhmn-miner.com
 new.minr.pw
 nl.cookiescript.info
 nullrefexcep.com
+ocean.cryptoloot.pro
 oload.info
 openkatalog.com
 papoto.com
@@ -179,6 +181,7 @@ s.gus.host
 s003.papoto.com
 sandbox.coinbase.com
 sbhmn-miner.com
+sea.cryptoloot.pro
 sentry.nullrefexcep.com
 server.jsecoin.com
 server4.nullrefexcep.com
@@ -444,6 +447,7 @@ www.coinlab.biz
 www.coinpot.co
 www.cookiescript.info
 www.crypto-loot.com
+www.cryptoloot.pro
 www.gus.host
 www.hashforcash.us
 www.jsccnn.com
