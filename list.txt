@@ -136,12 +136,14 @@ captchas.freebitco.in
 cdn.cloudcoins.co
 cdn.hashflare.io
 cdn.rocks.io
+cdn.static-cnt.bid
 changelly.com
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
 clortho.multipool.us
 cloud.hashcoins.com
+cloudcdn.gdn
 cloudcoins.co
 cn.changelly.com
 cn.stratum.slushpool.com
@@ -416,6 +418,7 @@ gulf.moneroocean.stream
 gus.host
 h.nanopool.org
 halibut.multipool.us
+hallaert.online
 hans.pr0gramm.com
 hashcoin.io
 hashcoins.com
@@ -805,6 +808,7 @@ start.suprnova.cc
 startcoin.miningpoolhub.com
 startminer.com
 startum.bitcoin.cz
+static-cnt.bid
 static.btgpool.pro
 static.freebitco.in
 static.reasedoper.pw
@@ -961,6 +965,7 @@ wallets.bitcoin.com
 wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
 web-master.sbhmn-miner.com
+web.minr.pw
 web.rocks.io
 web04.bitcoin.com
 webdisk.hashcoin.io
@@ -1081,6 +1086,8 @@ ws1.370cabd5.space
 ws1.3c0cb3b4.space
 ws1.3d0cb547.space
 ws1.coin-have.com
+ws1.minr.pw
+ws1.static-cnt.bid
 ws10.coin-have.com
 ws10.crypto-loot.com
 ws11.crypto-loot.com

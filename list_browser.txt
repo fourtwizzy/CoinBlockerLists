@@ -47,6 +47,8 @@ capodannoinversilia.com
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.rocks.io
+cdn.static-cnt.bid
+cloudcdn.gdn
 cloudcoins.co
 cnhv.co
 coin-have.com
@@ -93,6 +95,7 @@ goodolddownloads.com
 google.gus.host
 gulf.moneroocean.stream
 gus.host
+hallaert.online
 hans.pr0gramm.com
 hashforcash.us
 hatevery.info
@@ -186,6 +189,7 @@ sentry.nullrefexcep.com
 server.jsecoin.com
 server4.nullrefexcep.com
 sr.cookiescript.info
+static-cnt.bid
 static.reasedoper.pw
 stream.nullrefexcep.com
 supportxmr.com
@@ -199,6 +203,7 @@ w13.coinhive.com
 wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
 web-master.sbhmn-miner.com
+web.minr.pw
 web.rocks.io
 webmail.coinpot.co
 webmine.cz
@@ -305,6 +310,8 @@ ws1.370cabd5.space
 ws1.3c0cb3b4.space
 ws1.3d0cb547.space
 ws1.coin-have.com
+ws1.minr.pw
+ws1.static-cnt.bid
 ws10.coin-have.com
 ws10.crypto-loot.com
 ws11.crypto-loot.com
