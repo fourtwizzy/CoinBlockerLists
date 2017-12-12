@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 11 Dec 2017 17:17
+# Last modified: 12 Dec 2017 17:26
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -33,6 +33,7 @@
 0.0.0.0 ad226.a-ads.com
 0.0.0.0 ad228.a-ads.com
 0.0.0.0 ad302.a-ads.com
+0.0.0.0 alpha.myetherwallet.com
 0.0.0.0 antminer-store.com
 0.0.0.0 api.inwemo.com
 0.0.0.0 api.mymonero.com
@@ -77,6 +78,7 @@
 0.0.0.0 dev.cointraffic.io
 0.0.0.0 download.emercoin.com
 0.0.0.0 emercoin.com
+0.0.0.0 ether.cards
 0.0.0.0 evergreencoin.org
 0.0.0.0 faucet.evergreencoin.org
 0.0.0.0 files.a-ads.com
@@ -114,6 +116,7 @@
 0.0.0.0 mm.a-ads.com
 0.0.0.0 monero-miner.000webhostapp.com
 0.0.0.0 mx.peerhash.com
+0.0.0.0 myetherwallet.com
 0.0.0.0 mymonero.com
 0.0.0.0 nodes1.cryptopia.co.nz
 0.0.0.0 nodes2.cryptopia.co.nz
@@ -129,6 +132,7 @@
 0.0.0.0 preorder.trezor.io
 0.0.0.0 redmine.emercoin.com
 0.0.0.0 rm.cointraffic.io
+0.0.0.0 rpc.myetherwallet.com
 0.0.0.0 s.a-ads.com
 0.0.0.0 safelinkconverter.com
 0.0.0.0 seed.emercoin.com
@@ -169,6 +173,7 @@
 0.0.0.0 www.cointraffic.io
 0.0.0.0 www.cryptopia.co.nz
 0.0.0.0 www.emercoin.com
+0.0.0.0 www.ether.cards
 0.0.0.0 www.evergreencoin.org
 0.0.0.0 www.files.cointraffic.io
 0.0.0.0 www.hashcoins.com
@@ -179,6 +184,7 @@
 0.0.0.0 www.mellowads.com
 0.0.0.0 www.mineshop.eu
 0.0.0.0 www.mining-rig.de
+0.0.0.0 www.myetherwallet.com
 0.0.0.0 www.mymonero.com
 0.0.0.0 www.peerhash.com
 0.0.0.0 www.rm.cointraffic.io

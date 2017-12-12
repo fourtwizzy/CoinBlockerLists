@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 11 Dec 2017 17:17
+# Last modified: 12 Dec 2017 17:26
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -29,6 +29,7 @@
 0.0.0.0 andrew.nullrefexcep.com
 0.0.0.0 anime.reactor.cc
 0.0.0.0 antpool.com
+0.0.0.0 api-docs.changelly.com
 0.0.0.0 api-stratum.bitcoin.cz
 0.0.0.0 api.1beb2a44.space
 0.0.0.0 api.300ca0d0.space
@@ -41,6 +42,7 @@
 0.0.0.0 api.3c0cb3b4.space
 0.0.0.0 api.3d0cb547.space
 0.0.0.0 api.bitcoin.cz
+0.0.0.0 api.changelly.com
 0.0.0.0 api.coinbase.com
 0.0.0.0 api.coinhive.com
 0.0.0.0 api.exchange.coinbase.com
@@ -55,6 +57,7 @@
 0.0.0.0 api2.bitcoin.cz
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 app.slushpool.com
+0.0.0.0 ar.changelly.com
 0.0.0.0 aricoin.miningpoolhub.com
 0.0.0.0 aservices.party
 0.0.0.0 asia.cryptonight-hub.miningpoolhub.com
@@ -84,6 +87,7 @@
 0.0.0.0 bbr.suprnova.cc
 0.0.0.0 bcc.suprnova.cc
 0.0.0.0 bella.suprnova.cc
+0.0.0.0 bestETNpool.com
 0.0.0.0 beta-mining.bitcoin.cz
 0.0.0.0 beta.coinbase.com
 0.0.0.0 beta.madmining.club
@@ -108,6 +112,7 @@
 0.0.0.0 blake2s.eu.nicehash.com
 0.0.0.0 blake2s.hk.nicehash.com
 0.0.0.0 blog.bitcoin.cz
+0.0.0.0 blog.changelly.com
 0.0.0.0 blog.coinbase.com
 0.0.0.0 blog.hashflare.io
 0.0.0.0 blog.slushpool.com
@@ -134,12 +139,14 @@
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.hashflare.io
 0.0.0.0 cdn.rocks.io
+0.0.0.0 changelly.com
 0.0.0.0 chc.suprnova.cc
 0.0.0.0 checkcoin.miningpoolhub.com
 0.0.0.0 cirkev.bitcoin.cz
 0.0.0.0 clortho.multipool.us
 0.0.0.0 cloud.hashcoins.com
 0.0.0.0 cloudcoins.co
+0.0.0.0 cn.changelly.com
 0.0.0.0 cn.stratum.slushpool.com
 0.0.0.0 cnhv.co
 0.0.0.0 coin-have.com
@@ -201,6 +208,7 @@
 0.0.0.0 dcy.crypto-coins.club
 0.0.0.0 de-sn01.suprnova.cc
 0.0.0.0 de-wal-01.suprnova.cc
+0.0.0.0 de.changelly.com
 0.0.0.0 de.ckpool.org
 0.0.0.0 de.kano.is
 0.0.0.0 de.moneroocean.stream
@@ -247,6 +255,7 @@
 0.0.0.0 email.mail.faucethub.io
 0.0.0.0 email.moneroocean.stream
 0.0.0.0 emc2.suprnova.cc
+0.0.0.0 en.changelly.com
 0.0.0.0 engineering.coinbase.com
 0.0.0.0 ent-api.sandbox.coinbase.com
 0.0.0.0 eqt.suprnova.cc
@@ -256,6 +265,7 @@
 0.0.0.0 equihash.hk.nicehash.com
 0.0.0.0 equihash.jp.nicehash.com
 0.0.0.0 equihash.usa.nicehash.com
+0.0.0.0 es.changelly.com
 0.0.0.0 escobar.pr0gramm.com
 0.0.0.0 etc-asia1.nanopool.org
 0.0.0.0 etc-eu1.nanopool.org
@@ -330,6 +340,7 @@
 0.0.0.0 f1.deepbit.net
 0.0.0.0 f2.deepbit.net
 0.0.0.0 f2pool.com
+0.0.0.0 fabulouspanda.com
 0.0.0.0 fail.suprnova.cc
 0.0.0.0 faraday.mmpool.org
 0.0.0.0 faucethub.io
@@ -360,6 +371,7 @@
 0.0.0.0 fr-db7a.suprnova.cc
 0.0.0.0 fr-db8.suprnova.cc
 0.0.0.0 fr-zecdcr-backup.suprnova.cc
+0.0.0.0 fr.changelly.com
 0.0.0.0 fr.kano.is
 0.0.0.0 fr04.supportxmr.com
 0.0.0.0 fractalcoin.miningpoolhub.com
@@ -438,6 +450,7 @@
 0.0.0.0 irc.minemonero.pro
 0.0.0.0 itcareers.hashcoins.com
 0.0.0.0 iwanttoearn.money
+0.0.0.0 ja.changelly.com
 0.0.0.0 jackpotcoin.miningpoolhub.com
 0.0.0.0 jira.prohashing.com
 0.0.0.0 joyreactor.cc
@@ -496,6 +509,7 @@
 0.0.0.0 m.pr0gramm.com
 0.0.0.0 maaapi.mooo.com
 0.0.0.0 mac.suprnova.cc
+0.0.0.0 macminer.fabulouspanda.com
 0.0.0.0 mail.altpool.pro
 0.0.0.0 mail.btgpool.pro
 0.0.0.0 mail.coinbase.com
@@ -650,6 +664,7 @@
 0.0.0.0 pascal.usa.nicehash.com
 0.0.0.0 pasl.suprnova.cc
 0.0.0.0 pat.ron.si
+0.0.0.0 payments.changelly.com
 0.0.0.0 pc.crypto-coins.club
 0.0.0.0 pepe.suprnova.cc
 0.0.0.0 phkttm64gbquasaq.onion
@@ -688,6 +703,7 @@
 0.0.0.0 power.wemineltc.com
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gramm.com
+0.0.0.0 preprod.changelly.com
 0.0.0.0 preview.supportxmr.com
 0.0.0.0 private.equihash.usa.nicehash.com
 0.0.0.0 prohashing.com
@@ -711,6 +727,7 @@
 0.0.0.0 px1.papoto.com
 0.0.0.0 px2.papoto.com
 0.0.0.0 qtl.suprnova.cc
+0.0.0.0 qtum.changelly.com
 0.0.0.0 quark.miningpoolhub.com
 0.0.0.0 ra.mining.eligius.st
 0.0.0.0 rain.suprnova.cc
@@ -721,6 +738,7 @@
 0.0.0.0 rocks.io
 0.0.0.0 ron.si
 0.0.0.0 rot.ron.si
+0.0.0.0 ru.changelly.com
 0.0.0.0 s.gus.host
 0.0.0.0 s.m.eligius.st
 0.0.0.0 s.zsolo.bid
@@ -855,6 +873,7 @@
 0.0.0.0 sydney01.minemonero.pro
 0.0.0.0 teracycle.net
 0.0.0.0 test.bitminter.com
+0.0.0.0 test.changelly.com
 0.0.0.0 test.crypto-coins.club
 0.0.0.0 test.eth.pp.ua
 0.0.0.0 test.miningpoolhub.com
@@ -1196,17 +1215,21 @@
 0.0.0.0 www.adminer.com
 0.0.0.0 www.altpool.pro
 0.0.0.0 www.antpool.com
+0.0.0.0 www.api.changelly.com
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.baiduccdn1.com
+0.0.0.0 www.bestETNpool.com
 0.0.0.0 www.bitcoin-russia.ru
 0.0.0.0 www.bitcoin.cz
 0.0.0.0 www.bitminter.com
 0.0.0.0 www.bitzfree.com
+0.0.0.0 www.blog.changelly.com
 0.0.0.0 www.blog.coinbase.com
 0.0.0.0 www.blog.hashflare.io
 0.0.0.0 www.blog.slushpool.com
 0.0.0.0 www.bravo-mining.com
 0.0.0.0 www.btgpool.pro
+0.0.0.0 www.changelly.com
 0.0.0.0 www.ckpool.org
 0.0.0.0 www.cloudcoins.co
 0.0.0.0 www.coinbase.com
@@ -1263,6 +1286,7 @@
 0.0.0.0 www.poolmining.org
 0.0.0.0 www.ppoi.org
 0.0.0.0 www.pr0gramm.com
+0.0.0.0 www.preprod.changelly.com
 0.0.0.0 www.prohashing.com
 0.0.0.0 www.rocks.io
 0.0.0.0 www.sbhmn-miner.com

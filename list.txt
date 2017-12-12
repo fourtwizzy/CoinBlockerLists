@@ -26,6 +26,7 @@ amsterdam01.minemonero.pro
 andrew.nullrefexcep.com
 anime.reactor.cc
 antpool.com
+api-docs.changelly.com
 api-stratum.bitcoin.cz
 api.1beb2a44.space
 api.300ca0d0.space
@@ -38,6 +39,7 @@ api.370cabd5.space
 api.3c0cb3b4.space
 api.3d0cb547.space
 api.bitcoin.cz
+api.changelly.com
 api.coinbase.com
 api.coinhive.com
 api.exchange.coinbase.com
@@ -52,6 +54,7 @@ api.slushpool.com
 api2.bitcoin.cz
 app.pr0gramm.com
 app.slushpool.com
+ar.changelly.com
 aricoin.miningpoolhub.com
 aservices.party
 asia.cryptonight-hub.miningpoolhub.com
@@ -81,6 +84,7 @@ bbr.crypto-coins.club
 bbr.suprnova.cc
 bcc.suprnova.cc
 bella.suprnova.cc
+bestETNpool.com
 beta-mining.bitcoin.cz
 beta.coinbase.com
 beta.madmining.club
@@ -105,6 +109,7 @@ bitzfree.com
 blake2s.eu.nicehash.com
 blake2s.hk.nicehash.com
 blog.bitcoin.cz
+blog.changelly.com
 blog.coinbase.com
 blog.hashflare.io
 blog.slushpool.com
@@ -131,12 +136,14 @@ captchas.freebitco.in
 cdn.cloudcoins.co
 cdn.hashflare.io
 cdn.rocks.io
+changelly.com
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
 clortho.multipool.us
 cloud.hashcoins.com
 cloudcoins.co
+cn.changelly.com
 cn.stratum.slushpool.com
 cnhv.co
 coin-have.com
@@ -198,6 +205,7 @@ dcr.suprnova.cc
 dcy.crypto-coins.club
 de-sn01.suprnova.cc
 de-wal-01.suprnova.cc
+de.changelly.com
 de.ckpool.org
 de.kano.is
 de.moneroocean.stream
@@ -244,6 +252,7 @@ email.crypto-coins.club
 email.mail.faucethub.io
 email.moneroocean.stream
 emc2.suprnova.cc
+en.changelly.com
 engineering.coinbase.com
 ent-api.sandbox.coinbase.com
 eqt.suprnova.cc
@@ -253,6 +262,7 @@ equihash.eu.nicehash.com
 equihash.hk.nicehash.com
 equihash.jp.nicehash.com
 equihash.usa.nicehash.com
+es.changelly.com
 escobar.pr0gramm.com
 etc-asia1.nanopool.org
 etc-eu1.nanopool.org
@@ -327,6 +337,7 @@ explorer.bitcoin-russia.ru
 f1.deepbit.net
 f2.deepbit.net
 f2pool.com
+fabulouspanda.com
 fail.suprnova.cc
 faraday.mmpool.org
 faucethub.io
@@ -357,6 +368,7 @@ fr-db7.suprnova.cc
 fr-db7a.suprnova.cc
 fr-db8.suprnova.cc
 fr-zecdcr-backup.suprnova.cc
+fr.changelly.com
 fr.kano.is
 fr04.supportxmr.com
 fractalcoin.miningpoolhub.com
@@ -435,6 +447,7 @@ ipv6.freebitco.in
 irc.minemonero.pro
 itcareers.hashcoins.com
 iwanttoearn.money
+ja.changelly.com
 jackpotcoin.miningpoolhub.com
 jira.prohashing.com
 joyreactor.cc
@@ -493,6 +506,7 @@ m.bitcoin.cz
 m.pr0gramm.com
 maaapi.mooo.com
 mac.suprnova.cc
+macminer.fabulouspanda.com
 mail.altpool.pro
 mail.btgpool.pro
 mail.coinbase.com
@@ -647,6 +661,7 @@ pascal.eu.nicehash.com
 pascal.usa.nicehash.com
 pasl.suprnova.cc
 pat.ron.si
+payments.changelly.com
 pc.crypto-coins.club
 pepe.suprnova.cc
 phkttm64gbquasaq.onion
@@ -685,6 +700,7 @@ potcoin.miningpoolhub.com
 power.wemineltc.com
 ppoi.org
 pr0gramm.com
+preprod.changelly.com
 preview.supportxmr.com
 private.equihash.usa.nicehash.com
 prohashing.com
@@ -708,6 +724,7 @@ pure.suprnova.cc
 px1.papoto.com
 px2.papoto.com
 qtl.suprnova.cc
+qtum.changelly.com
 quark.miningpoolhub.com
 ra.mining.eligius.st
 rain.suprnova.cc
@@ -718,6 +735,7 @@ reasedoper.pw
 rocks.io
 ron.si
 rot.ron.si
+ru.changelly.com
 s.gus.host
 s.m.eligius.st
 s.zsolo.bid
@@ -852,6 +870,7 @@ sweep.suprnova.cc
 sydney01.minemonero.pro
 teracycle.net
 test.bitminter.com
+test.changelly.com
 test.crypto-coins.club
 test.eth.pp.ua
 test.miningpoolhub.com
@@ -1193,17 +1212,21 @@ www.ad-miner.com
 www.adminer.com
 www.altpool.pro
 www.antpool.com
+www.api.changelly.com
 www.authedmine.com
 www.baiduccdn1.com
+www.bestETNpool.com
 www.bitcoin-russia.ru
 www.bitcoin.cz
 www.bitminter.com
 www.bitzfree.com
+www.blog.changelly.com
 www.blog.coinbase.com
 www.blog.hashflare.io
 www.blog.slushpool.com
 www.bravo-mining.com
 www.btgpool.pro
+www.changelly.com
 www.ckpool.org
 www.cloudcoins.co
 www.coinbase.com
@@ -1260,6 +1283,7 @@ www.pool2.coinimp.com
 www.poolmining.org
 www.ppoi.org
 www.pr0gramm.com
+www.preprod.changelly.com
 www.prohashing.com
 www.rocks.io
 www.sbhmn-miner.com
