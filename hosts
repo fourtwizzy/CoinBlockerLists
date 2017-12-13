@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 12 Dec 2017 20:20
+# Last modified: 13 Dec 2017 21:18
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -24,6 +24,7 @@
 0.0.0.0 aeon.pools.e-scavo.net.ar
 0.0.0.0 afminer.com
 0.0.0.0 alimabi.cn
+0.0.0.0 alpha.cryptokitties.co
 0.0.0.0 altpool.pro
 0.0.0.0 amsterdam01.minemonero.pro
 0.0.0.0 andrew.nullrefexcep.com
@@ -45,6 +46,8 @@
 0.0.0.0 api.changelly.com
 0.0.0.0 api.coinbase.com
 0.0.0.0 api.coinhive.com
+0.0.0.0 api.cryptokitties.co
+0.0.0.0 api.demo.cryptokitties.co
 0.0.0.0 api.exchange.coinbase.com
 0.0.0.0 api.minemonero.pro
 0.0.0.0 api.moneroocean.stream
@@ -54,6 +57,7 @@
 0.0.0.0 api.pool.bitcoin.com
 0.0.0.0 api.sandbox.coinbase.com
 0.0.0.0 api.slushpool.com
+0.0.0.0 api.staging.cryptokitties.co
 0.0.0.0 api2.bitcoin.cz
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 app.slushpool.com
@@ -180,6 +184,8 @@
 0.0.0.0 crypto-coins.club
 0.0.0.0 crypto-loot.com
 0.0.0.0 cryptofriends.org
+0.0.0.0 cryptokitties.co
+0.0.0.0 cryptokittydex.com
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cryptomine.pro
 0.0.0.0 cryptominingpool.eu
@@ -295,9 +301,11 @@
 0.0.0.0 eth-us.dwarfpool.com
 0.0.0.0 eth-us2.dwarfpool.com
 0.0.0.0 eth.antpool.com
+0.0.0.0 eth.cryptokitties.co
 0.0.0.0 eth.f2pool.com
 0.0.0.0 eth.nanopool.org
 0.0.0.0 eth.pp.ua
+0.0.0.0 eth.staging.cryptokitties.co
 0.0.0.0 eth.suprnova.cc
 0.0.0.0 eth1.nanopool.org
 0.0.0.0 ethereum-classic.miningpoolhub.com
@@ -710,6 +718,7 @@
 0.0.0.0 pr0gramm.com
 0.0.0.0 preprod.changelly.com
 0.0.0.0 preview.supportxmr.com
+0.0.0.0 private.cryptokitties.co
 0.0.0.0 private.equihash.usa.nicehash.com
 0.0.0.0 prohashing.com
 0.0.0.0 projectpoi.com
@@ -744,6 +753,8 @@
 0.0.0.0 ron.si
 0.0.0.0 rot.ron.si
 0.0.0.0 ru.changelly.com
+0.0.0.0 rufflet-api.cryptokitties.co
+0.0.0.0 rufflet.cryptokitties.co
 0.0.0.0 s.gus.host
 0.0.0.0 s.m.eligius.st
 0.0.0.0 s.zsolo.bid
@@ -807,6 +818,7 @@
 0.0.0.0 sql.eth.pp.ua
 0.0.0.0 stage.hashflare.io
 0.0.0.0 staging.community.coinbase.com
+0.0.0.0 staging.cryptokitties.co
 0.0.0.0 start.suprnova.cc
 0.0.0.0 startcoin.miningpoolhub.com
 0.0.0.0 startminer.com
@@ -1250,6 +1262,7 @@
 0.0.0.0 www.coinpot.co
 0.0.0.0 www.crypto-coins.club
 0.0.0.0 www.crypto-loot.com
+0.0.0.0 www.cryptokitties.co
 0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.cryptominingpool.eu
 0.0.0.0 www.cryptoxpool.com

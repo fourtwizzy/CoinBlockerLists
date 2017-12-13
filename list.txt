@@ -21,6 +21,7 @@ adzcoin.miningpoolhub.com
 aeon.pools.e-scavo.net.ar
 afminer.com
 alimabi.cn
+alpha.cryptokitties.co
 altpool.pro
 amsterdam01.minemonero.pro
 andrew.nullrefexcep.com
@@ -42,6 +43,8 @@ api.bitcoin.cz
 api.changelly.com
 api.coinbase.com
 api.coinhive.com
+api.cryptokitties.co
+api.demo.cryptokitties.co
 api.exchange.coinbase.com
 api.minemonero.pro
 api.moneroocean.stream
@@ -51,6 +54,7 @@ api.nicehash.com
 api.pool.bitcoin.com
 api.sandbox.coinbase.com
 api.slushpool.com
+api.staging.cryptokitties.co
 api2.bitcoin.cz
 app.pr0gramm.com
 app.slushpool.com
@@ -177,6 +181,8 @@ cryptmonero.com
 crypto-coins.club
 crypto-loot.com
 cryptofriends.org
+cryptokitties.co
+cryptokittydex.com
 cryptoloot.pro
 cryptomine.pro
 cryptominingpool.eu
@@ -292,9 +298,11 @@ eth-us-west1.nanopool.org
 eth-us.dwarfpool.com
 eth-us2.dwarfpool.com
 eth.antpool.com
+eth.cryptokitties.co
 eth.f2pool.com
 eth.nanopool.org
 eth.pp.ua
+eth.staging.cryptokitties.co
 eth.suprnova.cc
 eth1.nanopool.org
 ethereum-classic.miningpoolhub.com
@@ -707,6 +715,7 @@ ppoi.org
 pr0gramm.com
 preprod.changelly.com
 preview.supportxmr.com
+private.cryptokitties.co
 private.equihash.usa.nicehash.com
 prohashing.com
 projectpoi.com
@@ -741,6 +750,8 @@ rocks.io
 ron.si
 rot.ron.si
 ru.changelly.com
+rufflet-api.cryptokitties.co
+rufflet.cryptokitties.co
 s.gus.host
 s.m.eligius.st
 s.zsolo.bid
@@ -804,6 +815,7 @@ spr.suprnova.cc
 sql.eth.pp.ua
 stage.hashflare.io
 staging.community.coinbase.com
+staging.cryptokitties.co
 start.suprnova.cc
 startcoin.miningpoolhub.com
 startminer.com
@@ -1247,6 +1259,7 @@ www.coinlab.biz
 www.coinpot.co
 www.crypto-coins.club
 www.crypto-loot.com
+www.cryptokitties.co
 www.cryptoloot.pro
 www.cryptominingpool.eu
 www.cryptoxpool.com
