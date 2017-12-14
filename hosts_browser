@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 12 Dec 2017 20:20
+# Last modified: 14 Dec 2017 01:31
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -15,6 +15,7 @@
 0.0.0.0 50bots.nullrefexcep.com
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
+0.0.0.0 abc.pema.cl
 0.0.0.0 ad-miner.com
 0.0.0.0 adminer.com
 0.0.0.0 afminer.com
@@ -50,6 +51,7 @@
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.cookiescript.info
 0.0.0.0 cdn.rocks.io
+0.0.0.0 cdn.rove.cl
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloudcoins.co
@@ -192,7 +194,9 @@
 0.0.0.0 server.jsecoin.com
 0.0.0.0 server4.nullrefexcep.com
 0.0.0.0 sr.cookiescript.info
+0.0.0.0 st.kjli.fi
 0.0.0.0 static-cnt.bid
+0.0.0.0 static.hk.rs
 0.0.0.0 static.reasedoper.pw
 0.0.0.0 stream.nullrefexcep.com
 0.0.0.0 supportxmr.com
@@ -206,6 +210,7 @@
 0.0.0.0 wc3-soft.sbhmn-miner.com
 0.0.0.0 wckp.sbhmn-miner.com
 0.0.0.0 web-master.sbhmn-miner.com
+0.0.0.0 web.clod.pw
 0.0.0.0 web.minr.pw
 0.0.0.0 web.rocks.io
 0.0.0.0 webmail.coinpot.co

@@ -12,6 +12,7 @@
 50bots.nullrefexcep.com
 a.proxy4.nullrefexcep.com
 a.proxy5.nullrefexcep.com
+abc.pema.cl
 ad-miner.com
 adminer.com
 afminer.com
@@ -47,6 +48,7 @@ capodannoinversilia.com
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.rocks.io
+cdn.rove.cl
 cdn.static-cnt.bid
 cloudcdn.gdn
 cloudcoins.co
@@ -189,7 +191,9 @@ sentry.nullrefexcep.com
 server.jsecoin.com
 server4.nullrefexcep.com
 sr.cookiescript.info
+st.kjli.fi
 static-cnt.bid
+static.hk.rs
 static.reasedoper.pw
 stream.nullrefexcep.com
 supportxmr.com
@@ -203,6 +207,7 @@ w13.coinhive.com
 wc3-soft.sbhmn-miner.com
 wckp.sbhmn-miner.com
 web-master.sbhmn-miner.com
+web.clod.pw
 web.minr.pw
 web.rocks.io
 webmail.coinpot.co

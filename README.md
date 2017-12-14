@@ -49,6 +49,9 @@ Thanks to [https://github.com/mitchellkrogza](https://github.com/mitchellkrogza)
 
 Thanks to [https://github.com/smokingwheels/](https://github.com/smokingwheels/) :)
 
+### CoinBlockerLists is used in nolovia [https://github.com/parseword/nolovia](https://github.com/parseword/nolovia)
+
+Thanks to [https://github.com/parseword](https://github.com/parseword) :)
 
 # Contributing
 You can contribute to the project as you want and you can also fork it but the changes must be public as the GPLv3 license specifies.
@@ -64,3 +67,6 @@ Thanks to all who use and support CoinBlockerLists.
 [https://otx.alienvault.com/pulse/5a0a9d03fee07f1774a21123](https://otx.alienvault.com/pulse/5a0a9d03fee07f1774a21123)
 [http://jasonhill.co.uk/pfsense/blocklists.txt](http://jasonhill.co.uk/pfsense/blocklists.txt)
 [https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24](https://discourse.pi-hole.net/t/i-concatenated-every-blocklist-i-could-find/5184/24)
+
+### Contact
+Twitter: [@hobbygrafix](https://twitter.com/hobbygrafix)
