@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 14 Dec 2017 01:31
+# Last modified: 14 Dec 2017 14:28
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -48,14 +48,19 @@
 0.0.0.0 beta.coinbase.com
 0.0.0.0 browsermine.com
 0.0.0.0 capodannoinversilia.com
+0.0.0.0 carrel.services
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.cookiescript.info
 0.0.0.0 cdn.rocks.io
 0.0.0.0 cdn.rove.cl
 0.0.0.0 cdn.static-cnt.bid
+0.0.0.0 cliggi.download
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloudcoins.co
+0.0.0.0 cloudmediacdn.com
 0.0.0.0 cnhv.co
+0.0.0.0 cnt.statistic.date
+0.0.0.0 cody.services
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive-proxy-ybydcnjgkl.now.sh
 0.0.0.0 coin-hive.com
@@ -152,6 +157,7 @@
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 new.minr.pw
+0.0.0.0 nitsche.top
 0.0.0.0 nl.cookiescript.info
 0.0.0.0 nullrefexcep.com
 0.0.0.0 ocean.cryptoloot.pro
@@ -194,15 +200,18 @@
 0.0.0.0 server.jsecoin.com
 0.0.0.0 server4.nullrefexcep.com
 0.0.0.0 sr.cookiescript.info
+0.0.0.0 srv01.bitcoiner.win
 0.0.0.0 st.kjli.fi
 0.0.0.0 static-cnt.bid
 0.0.0.0 static.hk.rs
 0.0.0.0 static.reasedoper.pw
+0.0.0.0 statistic.date
 0.0.0.0 stream.nullrefexcep.com
 0.0.0.0 supportxmr.com
 0.0.0.0 swanson.ron.si
 0.0.0.0 test.minr.pw
 0.0.0.0 thumb.pr0gramm.com
+0.0.0.0 ullnot.download
 0.0.0.0 us.moneroocean.stream
 0.0.0.0 vid.pr0gramm.com
 0.0.0.0 vxelkrhl.info
@@ -454,6 +463,7 @@
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.baiduccdn1.com
 0.0.0.0 www.browsermine.com
+0.0.0.0 www.cloudcdn.gdn
 0.0.0.0 www.cloudcoins.co
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com

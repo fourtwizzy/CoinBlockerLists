@@ -154,6 +154,7 @@ calc.btgpool.pro
 cann.suprnova.cc
 capodannoinversilia.com
 captchas.freebitco.in
+carrel.services
 cdn.cloudcoins.co
 cdn.hashflare.io
 cdn.rocks.io
@@ -163,13 +164,17 @@ changelly.com
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
 cirkev.bitcoin.cz
+cliggi.download
 clortho.multipool.us
 cloud.hashcoins.com
 cloudcdn.gdn
 cloudcoins.co
+cloudmediacdn.com
 cn.changelly.com
 cn.stratum.slushpool.com
 cnhv.co
+cnt.statistic.date
+cody.services
 coin-have.com
 coin-hive-proxy-ybydcnjgkl.now.sh
 coin-hive.com
@@ -672,6 +677,7 @@ newark.minemonero.pro
 newsupport.prohashing.com
 nicehash.com
 nist5.usa.nicehash.com
+nitsche.top
 node.supportxmr.com
 node1.mycelium.com
 node1.xmr-tw.org
@@ -859,6 +865,7 @@ speedtest.jp.nicehash.com
 speedtest.usa.nicehash.com
 spr.suprnova.cc
 sql.eth.pp.ua
+srv01.bitcoiner.win
 st.kjli.fi
 stage.breadapp.com
 stage.hashflare.io
@@ -882,6 +889,7 @@ static5.freebitco.in
 static6.freebitco.in
 static7.freebitco.in
 static8.freebitco.in
+statistic.date
 statum.bitcoin.cz
 staturm.bitcoin.cz
 status.coinbase.com
@@ -963,6 +971,7 @@ u.forre.st
 ubiq.suprnova.cc
 ucrypto.net
 ufocoin.miningpoolhub.com
+ullnot.download
 unh.suprnova.cc
 uni.suprnova.cc
 united.wemineltc.com
@@ -1316,6 +1325,7 @@ www.breadapp.com
 www.btgpool.pro
 www.changelly.com
 www.ckpool.org
+www.cloudcdn.gdn
 www.cloudcoins.co
 www.coinbase.com
 www.coinhive-manager.com
