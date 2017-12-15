@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 15 Dec 2017 20:28
+# Last modified: 15 Dec 2017 22:51
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -161,7 +161,9 @@
 0.0.0.0 buy.coinbase.com
 0.0.0.0 calc.btgpool.pro
 0.0.0.0 cann.suprnova.cc
+0.0.0.0 capitain.noblock.pro
 0.0.0.0 capodannoinversilia.com
+0.0.0.0 captain.noblock.pro
 0.0.0.0 captchas.freebitco.in
 0.0.0.0 carrel.services
 0.0.0.0 cdn.cloudcoins.co
@@ -170,6 +172,7 @@
 0.0.0.0 cdn.rove.cl
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 changelly.com
+0.0.0.0 charlie.noblock.pro
 0.0.0.0 chc.suprnova.cc
 0.0.0.0 checkcoin.miningpoolhub.com
 0.0.0.0 cirkev.bitcoin.cz
@@ -508,6 +511,7 @@
 0.0.0.0 iwanttoearn.money
 0.0.0.0 ja.changelly.com
 0.0.0.0 jackpotcoin.miningpoolhub.com
+0.0.0.0 jasmine.noblock.pro
 0.0.0.0 jira.prohashing.com
 0.0.0.0 joyreactor.cc
 0.0.0.0 jroqvbvw.info
@@ -698,6 +702,7 @@
 0.0.0.0 nicehash.com
 0.0.0.0 nist5.usa.nicehash.com
 0.0.0.0 nitsche.top
+0.0.0.0 noblock.pro
 0.0.0.0 node.supportxmr.com
 0.0.0.0 node1.mycelium.com
 0.0.0.0 node1.xmr-tw.org
@@ -1439,6 +1444,7 @@
 0.0.0.0 www.wemineltc.com
 0.0.0.0 www.ws.freebitco.in
 0.0.0.0 www.wsnew.freebitco.in
+0.0.0.0 www.wty46.com
 0.0.0.0 www.xmr-tw.org
 0.0.0.0 www.xzpool.com
 0.0.0.0 www.zenmine.pro
