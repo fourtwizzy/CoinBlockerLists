@@ -113,6 +113,7 @@ host.d-ns.ga
 huiwiw.hit.gemius.pl
 hurensohn.pr0gramm.com
 img.pr0gramm.com
+infamylists.com
 it.cookiescript.info
 joyreactor.cc
 jroqvbvw.info
@@ -166,6 +167,7 @@ openkatalog.com
 papoto.com
 party-nngvitbizn.now.sh
 pat.ron.si
+pdf-1.infamylists.com
 platform.jsecoin.com
 podrltid.info
 pool-de.supportxmr.com
@@ -228,6 +230,7 @@ wijzeman.sbhmn-miner.com
 witkom.sbhmn-miner.com
 wo15.coinhive.com
 woork.sbhmn-miner.com
+wp-content.infamylists.com
 ws-ca-01.rocks.io
 ws-de-01.rocks.io
 ws-de-02.rocks.io
@@ -476,6 +479,7 @@ www.crypto-loot.com
 www.cryptoloot.pro
 www.gus.host
 www.hashforcash.us
+www.infamylists.com
 www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com

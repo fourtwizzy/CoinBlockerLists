@@ -495,6 +495,7 @@ ico.ditcoin.io
 im.forre.st
 images.coinbase.com
 img.pr0gramm.com
+infamylists.com
 influx.miningpoolhub.com
 info.bitcoin.de
 ipv6.freebitco.in
@@ -744,6 +745,7 @@ pasl.suprnova.cc
 pat.ron.si
 payments.changelly.com
 pc.crypto-coins.club
+pdf-1.infamylists.com
 pepe.suprnova.cc
 phkttm64gbquasaq.onion
 phoenixcoin.miningpoolhub.com
@@ -1087,6 +1089,7 @@ wood.suprnova.cc
 woork.sbhmn-miner.com
 world.wemineltc.com
 worm.suprnova.cc
+wp-content.infamylists.com
 wp.bitcoin.cz
 ws-ca-01.rocks.io
 ws-de-01.rocks.io
@@ -1386,6 +1389,7 @@ www.hashcoins.ee
 www.hashcoins.ru
 www.hashflare.io
 www.hashforcash.us
+www.infamylists.com
 www.jsccnn.com
 www.jscdndel.com
 www.jsecoin.com

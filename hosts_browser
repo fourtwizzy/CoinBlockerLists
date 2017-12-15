@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 15 Dec 2017 00:01
+# Last modified: 15 Dec 2017 20:28
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -116,6 +116,7 @@
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hurensohn.pr0gramm.com
 0.0.0.0 img.pr0gramm.com
+0.0.0.0 infamylists.com
 0.0.0.0 it.cookiescript.info
 0.0.0.0 joyreactor.cc
 0.0.0.0 jroqvbvw.info
@@ -169,6 +170,7 @@
 0.0.0.0 papoto.com
 0.0.0.0 party-nngvitbizn.now.sh
 0.0.0.0 pat.ron.si
+0.0.0.0 pdf-1.infamylists.com
 0.0.0.0 platform.jsecoin.com
 0.0.0.0 podrltid.info
 0.0.0.0 pool-de.supportxmr.com
@@ -231,6 +233,7 @@
 0.0.0.0 witkom.sbhmn-miner.com
 0.0.0.0 wo15.coinhive.com
 0.0.0.0 woork.sbhmn-miner.com
+0.0.0.0 wp-content.infamylists.com
 0.0.0.0 ws-ca-01.rocks.io
 0.0.0.0 ws-de-01.rocks.io
 0.0.0.0 ws-de-02.rocks.io
@@ -479,6 +482,7 @@
 0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
+0.0.0.0 www.infamylists.com
 0.0.0.0 www.jsccnn.com
 0.0.0.0 www.jscdndel.com
 0.0.0.0 www.jsecoin.com
