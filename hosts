@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 15 Dec 2017 22:51
+# Last modified: 16 Dec 2017 16:27
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -53,6 +53,7 @@
 0.0.0.0 api.coinhive.com
 0.0.0.0 api.cryptokitties.co
 0.0.0.0 api.demo.cryptokitties.co
+0.0.0.0 api.eminer.net
 0.0.0.0 api.exchange.coinbase.com
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.minemonero.pro
@@ -179,6 +180,7 @@
 0.0.0.0 cliggi.download
 0.0.0.0 clod.pw
 0.0.0.0 clortho.multipool.us
+0.0.0.0 cloud.eminer.net
 0.0.0.0 cloud.hashcoins.com
 0.0.0.0 cloudcdn.gdn
 0.0.0.0 cloudcoins.co
@@ -227,6 +229,7 @@
 0.0.0.0 cryptonight.in.nicehash.com
 0.0.0.0 cryptonight.jp.nicehash.com
 0.0.0.0 cryptonight.usa.nicehash.com
+0.0.0.0 cryptonoter.com
 0.0.0.0 cryptoxpool.com
 0.0.0.0 csc.suprnova.cc
 0.0.0.0 ctrb.jscdndel.com
@@ -301,6 +304,7 @@
 0.0.0.0 email.mail.faucethub.io
 0.0.0.0 email.moneroocean.stream
 0.0.0.0 emc2.suprnova.cc
+0.0.0.0 eminer.net
 0.0.0.0 en.changelly.com
 0.0.0.0 engineering.coinbase.com
 0.0.0.0 ent-api.sandbox.coinbase.com
@@ -310,6 +314,7 @@
 0.0.0.0 equihash.eu.nicehash.com
 0.0.0.0 equihash.hk.nicehash.com
 0.0.0.0 equihash.jp.nicehash.com
+0.0.0.0 equihash.mine.zpool.ca
 0.0.0.0 equihash.usa.nicehash.com
 0.0.0.0 es.changelly.com
 0.0.0.0 escobar.pr0gramm.com
@@ -399,8 +404,10 @@
 0.0.0.0 fbtc-audio.freebitco.in
 0.0.0.0 fbtc-uab.freebitco.in
 0.0.0.0 feathercoin.miningpoolhub.com
+0.0.0.0 fee.xmrig.com
 0.0.0.0 feed.exchange.coinbase.com
 0.0.0.0 feedback.poolmining.org
+0.0.0.0 fees.xmrig.com
 0.0.0.0 filetransfer.coinbase.com
 0.0.0.0 fix.exchange.coinbase.com
 0.0.0.0 flo.suprnova.cc
@@ -481,6 +488,7 @@
 0.0.0.0 hashflare.io
 0.0.0.0 hashforcash.us
 0.0.0.0 hashgate.eu
+0.0.0.0 hashrefinery.com
 0.0.0.0 hatevery.info
 0.0.0.0 hermes.bitcoin.de
 0.0.0.0 hexamining.io
@@ -570,6 +578,7 @@
 0.0.0.0 lyra2rev2.usa.nicehash.com
 0.0.0.0 m.bitcoin.cz
 0.0.0.0 m.pr0gramm.com
+0.0.0.0 m7m.mine.zpool.ca
 0.0.0.0 maaapi.mooo.com
 0.0.0.0 mac.suprnova.cc
 0.0.0.0 macminer.fabulouspanda.com
@@ -609,8 +618,10 @@
 0.0.0.0 mine-for.us
 0.0.0.0 mine.ar-net.info
 0.0.0.0 mine.bitcoin.cz
+0.0.0.0 mine.hashrefinery.com
 0.0.0.0 mine.xmr.mypool.online
 0.0.0.0 mine.xmrpool.xyz
+0.0.0.0 mine.zpool.ca
 0.0.0.0 mine1.alimabi.cn
 0.0.0.0 minecrunch.co
 0.0.0.0 mineing.bitcoin.cz
@@ -677,6 +688,7 @@
 0.0.0.0 mwnodes.viaxmr.com
 0.0.0.0 mx.mycelium.com
 0.0.0.0 mx.nanopool.org
+0.0.0.0 mx.zpool.ca
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 my.hashflare.io
 0.0.0.0 my.ledgerwallet.com
@@ -691,6 +703,7 @@
 0.0.0.0 ndc.bitember.com
 0.0.0.0 neohash.com
 0.0.0.0 neoscrypt.eu.nicehash.com
+0.0.0.0 neoscrypt.mine.zpool.ca
 0.0.0.0 neoscrypt.usa.nicehash.com
 0.0.0.0 netko.suprnova.cc
 0.0.0.0 neva.suprnova.cc
@@ -700,6 +713,7 @@
 0.0.0.0 newark.minemonero.pro
 0.0.0.0 newsupport.prohashing.com
 0.0.0.0 nicehash.com
+0.0.0.0 nidscom.io
 0.0.0.0 nist5.usa.nicehash.com
 0.0.0.0 nitsche.top
 0.0.0.0 noblock.pro
@@ -776,6 +790,7 @@
 0.0.0.0 pool.coinlab.biz
 0.0.0.0 pool.cryptmonero.com
 0.0.0.0 pool.eth.pp.ua
+0.0.0.0 pool.hashrefinery.com
 0.0.0.0 pool.kosmoplovci.org
 0.0.0.0 pool.minemonero.pro
 0.0.0.0 pool.miners.pro
@@ -846,6 +861,7 @@
 0.0.0.0 scrypt.cryptobroker.io
 0.0.0.0 scrypt.eu.nicehash.com
 0.0.0.0 scrypt.jp.nicehash.com
+0.0.0.0 scrypt.mine.zpool.ca
 0.0.0.0 scrypt.usa.nicehash.com
 0.0.0.0 sea.cryptoloot.pro
 0.0.0.0 seattle01.minemonero.pro
@@ -972,6 +988,7 @@
 0.0.0.0 support.ledgerwallet.com
 0.0.0.0 support.prohashing.com
 0.0.0.0 support.slushpool.com
+0.0.0.0 support.zpool.ca
 0.0.0.0 supporttickets.prohashing.com
 0.0.0.0 supportxmr.com
 0.0.0.0 suprnova.cc
@@ -1398,6 +1415,7 @@
 0.0.0.0 www.hashcoins.ru
 0.0.0.0 www.hashflare.io
 0.0.0.0 www.hashforcash.us
+0.0.0.0 www.hashrefinery.com
 0.0.0.0 www.infamylists.com
 0.0.0.0 www.jsccnn.com
 0.0.0.0 www.jscdndel.com
@@ -1448,6 +1466,7 @@
 0.0.0.0 www.xmr-tw.org
 0.0.0.0 www.xzpool.com
 0.0.0.0 www.zenmine.pro
+0.0.0.0 www.zpool.ca
 0.0.0.0 www1.2giga.link
 0.0.0.0 www2.2giga.link
 0.0.0.0 www2.wemineltc.com
@@ -1488,6 +1507,7 @@
 0.0.0.0 xmrapi.alimabi.cn
 0.0.0.0 xmrapib.alimabi.cn
 0.0.0.0 xmrget.com
+0.0.0.0 xmrig.com
 0.0.0.0 xmrminerpro.com
 0.0.0.0 xmrpool.eu
 0.0.0.0 xpool.net
@@ -1496,6 +1516,7 @@
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 xzc.suprnova.cc
 0.0.0.0 xzpool.com
+0.0.0.0 yescrypt.mine.zpool.ca
 0.0.0.0 youporn.sexy
 0.0.0.0 za.miningpool.africa
 0.0.0.0 zabbix.minemonero.pro
@@ -1532,4 +1553,5 @@
 0.0.0.0 zen.suprnova.cc
 0.0.0.0 zenmine.pro
 0.0.0.0 zero.suprnova.cc
+0.0.0.0 zpool.ca
 0.0.0.0 zrc-stratum.suprnova.cc
