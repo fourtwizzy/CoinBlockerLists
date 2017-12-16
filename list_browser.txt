@@ -56,6 +56,7 @@ ca.minexmr.com
 capitain.noblock.pro
 capodannoinversilia.com
 captain.noblock.pro
+captchas.freebitco.in
 carrel.services
 cdn.cloudcoins.co
 cdn.cookiescript.info
@@ -115,10 +116,12 @@ eu.hatevery.info
 ex-notify.coinbase.com
 exceptions.coinbase.com
 exchange.coinbase.com
+fbtc-uab.freebitco.in
 feed.exchange.coinbase.com
 filetransfer.coinbase.com
 fix.exchange.coinbase.com
 fr.cookiescript.info
+freebitco.in
 ftp.coinhive-manager.com
 ftp.coinlab.biz
 full.pr0gramm.com
@@ -177,6 +180,7 @@ minero-proxy-02.now.sh
 minero-proxy-03.now.sh
 minero.pw
 minexmr.com
+mining.freebitco.in
 minr.browsermine.com
 minr.nullrefexcep.com
 minr.pw
@@ -242,6 +246,14 @@ staging.community.coinbase.com
 static-cnt.bid
 static.hk.rs
 static.reasedoper.pw
+static1.freebitco.in
+static2.freebitco.in
+static3.freebitco.in
+static4.freebitco.in
+static5.freebitco.in
+static6.freebitco.in
+static7.freebitco.in
+static8.freebitco.in
 statistic.date
 stats.minexmr.com
 status.coinbase.com
@@ -253,6 +265,7 @@ supportxmr.com
 swanson.ron.si
 test.minr.pw
 thumb.pr0gramm.com
+tracking.freebitco.in
 ullnot.download
 us.moneroocean.stream
 vid.pr0gramm.com
@@ -282,6 +295,7 @@ ws-fr-01.rocks.io
 ws-fr-02.rocks.io
 ws-fr-03.rocks.io
 ws.coinbase.com
+ws.freebitco.in
 ws.sandbox.coinbase.com
 ws000.coinhive.com
 ws001.authedmine.com
@@ -499,6 +513,7 @@ ws9.360caa42.space
 ws9.3c0cb3b4.space
 ws9.3d0cb547.space
 ws9.coin-have.com
+wsnew.freebitco.in
 wty46.com
 ww.pr0gramm.com
 ww8.adminer.com
@@ -522,6 +537,7 @@ www.cookiescript.info
 www.crypto-loot.com
 www.cryptoloot.pro
 www.engineering.coinbase.com
+www.freebitco.in
 www.gus.host
 www.hashforcash.us
 www.infamylists.com
@@ -540,6 +556,8 @@ www.ppoi.org
 www.pr0gramm.com
 www.rocks.io
 www.sbhmn-miner.com
+www.ws.freebitco.in
+www.wsnew.freebitco.in
 www.wty46.com
 www1.2giga.link
 www2.2giga.link

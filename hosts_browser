@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 16 Dec 2017 17:12
+# Last modified: 16 Dec 2017 17:26
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -59,6 +59,7 @@
 0.0.0.0 capitain.noblock.pro
 0.0.0.0 capodannoinversilia.com
 0.0.0.0 captain.noblock.pro
+0.0.0.0 captchas.freebitco.in
 0.0.0.0 carrel.services
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.cookiescript.info
@@ -118,10 +119,12 @@
 0.0.0.0 ex-notify.coinbase.com
 0.0.0.0 exceptions.coinbase.com
 0.0.0.0 exchange.coinbase.com
+0.0.0.0 fbtc-uab.freebitco.in
 0.0.0.0 feed.exchange.coinbase.com
 0.0.0.0 filetransfer.coinbase.com
 0.0.0.0 fix.exchange.coinbase.com
 0.0.0.0 fr.cookiescript.info
+0.0.0.0 freebitco.in
 0.0.0.0 ftp.coinhive-manager.com
 0.0.0.0 ftp.coinlab.biz
 0.0.0.0 full.pr0gramm.com
@@ -180,6 +183,7 @@
 0.0.0.0 minero-proxy-03.now.sh
 0.0.0.0 minero.pw
 0.0.0.0 minexmr.com
+0.0.0.0 mining.freebitco.in
 0.0.0.0 minr.browsermine.com
 0.0.0.0 minr.nullrefexcep.com
 0.0.0.0 minr.pw
@@ -245,6 +249,14 @@
 0.0.0.0 static-cnt.bid
 0.0.0.0 static.hk.rs
 0.0.0.0 static.reasedoper.pw
+0.0.0.0 static1.freebitco.in
+0.0.0.0 static2.freebitco.in
+0.0.0.0 static3.freebitco.in
+0.0.0.0 static4.freebitco.in
+0.0.0.0 static5.freebitco.in
+0.0.0.0 static6.freebitco.in
+0.0.0.0 static7.freebitco.in
+0.0.0.0 static8.freebitco.in
 0.0.0.0 statistic.date
 0.0.0.0 stats.minexmr.com
 0.0.0.0 status.coinbase.com
@@ -256,6 +268,7 @@
 0.0.0.0 swanson.ron.si
 0.0.0.0 test.minr.pw
 0.0.0.0 thumb.pr0gramm.com
+0.0.0.0 tracking.freebitco.in
 0.0.0.0 ullnot.download
 0.0.0.0 us.moneroocean.stream
 0.0.0.0 vid.pr0gramm.com
@@ -285,6 +298,7 @@
 0.0.0.0 ws-fr-02.rocks.io
 0.0.0.0 ws-fr-03.rocks.io
 0.0.0.0 ws.coinbase.com
+0.0.0.0 ws.freebitco.in
 0.0.0.0 ws.sandbox.coinbase.com
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
@@ -502,6 +516,7 @@
 0.0.0.0 ws9.3c0cb3b4.space
 0.0.0.0 ws9.3d0cb547.space
 0.0.0.0 ws9.coin-have.com
+0.0.0.0 wsnew.freebitco.in
 0.0.0.0 wty46.com
 0.0.0.0 ww.pr0gramm.com
 0.0.0.0 ww8.adminer.com
@@ -525,6 +540,7 @@
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.engineering.coinbase.com
+0.0.0.0 www.freebitco.in
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
 0.0.0.0 www.infamylists.com
@@ -543,6 +559,8 @@
 0.0.0.0 www.pr0gramm.com
 0.0.0.0 www.rocks.io
 0.0.0.0 www.sbhmn-miner.com
+0.0.0.0 www.ws.freebitco.in
+0.0.0.0 www.wsnew.freebitco.in
 0.0.0.0 www.wty46.com
 0.0.0.0 www1.2giga.link
 0.0.0.0 www2.2giga.link
