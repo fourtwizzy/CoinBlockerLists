@@ -43,6 +43,7 @@ basicdemo.emercoin.com
 bch-bitcore2.trezor.io
 beta-wallet.trezor.io
 bfgminer.org
+bit.cur.lv
 bitcoin.org
 bitcore1.trezor.io
 bitcore3.trezor.io
@@ -70,6 +71,7 @@ cpanel.antminer-store.com
 cpanel.imperiumminer.com
 cpanel.uclick.in
 cryptopia.co.nz
+cur.lv
 dash-bitcore1.trezor.io
 dashboard.inwemo.com
 dev.a-ads.com
@@ -93,6 +95,7 @@ ftp.imperiumminer.com
 ftp.inwemo.com
 ftp.mellowads.com
 ftp.uclick.in
+go.cur.lv
 hashcoin.io
 hashcoins.com
 hashcoins.ee
@@ -100,18 +103,23 @@ hashcoins.ru
 headers.electrum.org
 i2p.emercoin.com
 imperiumminer.com
+in.cur.lv
 inwemo.com
+jump.cur.lv
 lb4.a-ads.com
+link.cur.lv
 ltc-bitcore3.trezor.io
 luckybits.io
 mail.antminer-store.com
 mail.awesomeminer.com
 mail.coinadnet.com
+mail.cur.lv
 mail.imperiumminer.com
 mail.mymonero.com
 mail.peerhash.com
 mail.uclick.in
 mail2.awesomeminer.com
+me.cur.lv
 mellowads.com
 minecraft.cryptopia.co.nz
 mineshop.eu
@@ -119,8 +127,11 @@ mining-rig.de
 mm.a-ads.com
 monero-miner.000webhostapp.com
 mx.peerhash.com
+my.cur.lv
 myetherwallet.com
 mymonero.com
+n.cur.lv
+name.cur.lv
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
 ns2.a-ads.com
@@ -148,6 +159,7 @@ static.a-ads.com
 status.trezor.io
 support.a-ads.com
 support.evergreencoin.org
+to.cur.lv
 transactions.evergreencoin.org
 trezor.io
 uclick.in
@@ -176,6 +188,7 @@ www.blog.trezor.io
 www.coinadnet.com
 www.cointraffic.io
 www.cryptopia.co.nz
+www.cur.lv
 www.electrum.org
 www.emercoin.com
 www.ether.cards

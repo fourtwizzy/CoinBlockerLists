@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 14 Dec 2017 01:31
+# Last modified: 16 Dec 2017 17:31
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -46,6 +46,7 @@
 0.0.0.0 bch-bitcore2.trezor.io
 0.0.0.0 beta-wallet.trezor.io
 0.0.0.0 bfgminer.org
+0.0.0.0 bit.cur.lv
 0.0.0.0 bitcoin.org
 0.0.0.0 bitcore1.trezor.io
 0.0.0.0 bitcore3.trezor.io
@@ -73,6 +74,7 @@
 0.0.0.0 cpanel.imperiumminer.com
 0.0.0.0 cpanel.uclick.in
 0.0.0.0 cryptopia.co.nz
+0.0.0.0 cur.lv
 0.0.0.0 dash-bitcore1.trezor.io
 0.0.0.0 dashboard.inwemo.com
 0.0.0.0 dev.a-ads.com
@@ -96,6 +98,7 @@
 0.0.0.0 ftp.inwemo.com
 0.0.0.0 ftp.mellowads.com
 0.0.0.0 ftp.uclick.in
+0.0.0.0 go.cur.lv
 0.0.0.0 hashcoin.io
 0.0.0.0 hashcoins.com
 0.0.0.0 hashcoins.ee
@@ -103,18 +106,23 @@
 0.0.0.0 headers.electrum.org
 0.0.0.0 i2p.emercoin.com
 0.0.0.0 imperiumminer.com
+0.0.0.0 in.cur.lv
 0.0.0.0 inwemo.com
+0.0.0.0 jump.cur.lv
 0.0.0.0 lb4.a-ads.com
+0.0.0.0 link.cur.lv
 0.0.0.0 ltc-bitcore3.trezor.io
 0.0.0.0 luckybits.io
 0.0.0.0 mail.antminer-store.com
 0.0.0.0 mail.awesomeminer.com
 0.0.0.0 mail.coinadnet.com
+0.0.0.0 mail.cur.lv
 0.0.0.0 mail.imperiumminer.com
 0.0.0.0 mail.mymonero.com
 0.0.0.0 mail.peerhash.com
 0.0.0.0 mail.uclick.in
 0.0.0.0 mail2.awesomeminer.com
+0.0.0.0 me.cur.lv
 0.0.0.0 mellowads.com
 0.0.0.0 minecraft.cryptopia.co.nz
 0.0.0.0 mineshop.eu
@@ -122,8 +130,11 @@
 0.0.0.0 mm.a-ads.com
 0.0.0.0 monero-miner.000webhostapp.com
 0.0.0.0 mx.peerhash.com
+0.0.0.0 my.cur.lv
 0.0.0.0 myetherwallet.com
 0.0.0.0 mymonero.com
+0.0.0.0 n.cur.lv
+0.0.0.0 name.cur.lv
 0.0.0.0 nodes1.cryptopia.co.nz
 0.0.0.0 nodes2.cryptopia.co.nz
 0.0.0.0 ns2.a-ads.com
@@ -151,6 +162,7 @@
 0.0.0.0 status.trezor.io
 0.0.0.0 support.a-ads.com
 0.0.0.0 support.evergreencoin.org
+0.0.0.0 to.cur.lv
 0.0.0.0 transactions.evergreencoin.org
 0.0.0.0 trezor.io
 0.0.0.0 uclick.in
@@ -179,6 +191,7 @@
 0.0.0.0 www.coinadnet.com
 0.0.0.0 www.cointraffic.io
 0.0.0.0 www.cryptopia.co.nz
+0.0.0.0 www.cur.lv
 0.0.0.0 www.electrum.org
 0.0.0.0 www.emercoin.com
 0.0.0.0 www.ether.cards
