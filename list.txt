@@ -53,6 +53,7 @@ api.eminer.net
 api.exchange.coinbase.com
 api.ledgerwallet.com
 api.minemonero.pro
+api.minexmr.com
 api.moneroocean.stream
 api.multipool.us
 api.nanopool.org
@@ -138,6 +139,7 @@ blog.coinbase.com
 blog.genesis-mining.com
 blog.hashflare.io
 blog.slushpool.com
+blox.minexmr.com
 blox.supportxmr.com
 boat.suprnova.cc
 bravo-mining.com
@@ -156,6 +158,7 @@ btgpool.pro
 btx.suprnova.cc
 buy.bitcoin.com
 buy.coinbase.com
+ca.minexmr.com
 calc.btgpool.pro
 cann.suprnova.cc
 capitain.noblock.pro
@@ -790,6 +793,7 @@ pool.hashrefinery.com
 pool.kosmoplovci.org
 pool.minemonero.pro
 pool.miners.pro
+pool.minexmr.com
 pool.miningspeed.com
 pool.moneropool.nl
 pool.moriaxmr.com
@@ -850,6 +854,7 @@ s.gus.host
 s.m.eligius.st
 s.zsolo.bid
 s003.papoto.com
+s3.minexmr.com
 sales.genesis-mining.com
 sandbox.coinbase.com
 sandbox.exchange.coinbase.com
@@ -934,10 +939,12 @@ static6.freebitco.in
 static7.freebitco.in
 static8.freebitco.in
 statistic.date
+stats.minexmr.com
 statum.bitcoin.cz
 staturm.bitcoin.cz
 status.coinbase.com
 status.hashflare.io
+status.minexmr.com
 status.supportxmr.com
 sto.suprnova.cc
 stonk.suprnova.cc
@@ -1422,6 +1429,7 @@ www.ledgerwallet.com
 www.live.prohashing.com
 www.madmining.club
 www.minemonero.pro
+www.minexmr.com
 www.miningpoolhub.com
 www.miningspeed.com
 www.minning.bitcoin.cz

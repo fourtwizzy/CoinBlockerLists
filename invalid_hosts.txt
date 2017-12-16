@@ -1,5 +1,5 @@
 # This file contains all invalid hosts
-# Last modified: 12 Nov 2017 15:59
+# Last modified: 16 Dec 2017 17:12
 hans.pr0gramm.com
 hurensohn.pr0gramm.com
 m.pr0gramm.com
@@ -15,3 +15,5 @@ abc.pema.cl
 metrika.ron.si
 cdn.rove.cl
 xy.nullrefexcep.com
+cdnfile.xyz
+web.die-news.pw

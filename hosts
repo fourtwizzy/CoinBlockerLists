@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 16 Dec 2017 16:27
+# Last modified: 16 Dec 2017 17:12
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -57,6 +57,7 @@
 0.0.0.0 api.exchange.coinbase.com
 0.0.0.0 api.ledgerwallet.com
 0.0.0.0 api.minemonero.pro
+0.0.0.0 api.minexmr.com
 0.0.0.0 api.moneroocean.stream
 0.0.0.0 api.multipool.us
 0.0.0.0 api.nanopool.org
@@ -142,6 +143,7 @@
 0.0.0.0 blog.genesis-mining.com
 0.0.0.0 blog.hashflare.io
 0.0.0.0 blog.slushpool.com
+0.0.0.0 blox.minexmr.com
 0.0.0.0 blox.supportxmr.com
 0.0.0.0 boat.suprnova.cc
 0.0.0.0 bravo-mining.com
@@ -160,6 +162,7 @@
 0.0.0.0 btx.suprnova.cc
 0.0.0.0 buy.bitcoin.com
 0.0.0.0 buy.coinbase.com
+0.0.0.0 ca.minexmr.com
 0.0.0.0 calc.btgpool.pro
 0.0.0.0 cann.suprnova.cc
 0.0.0.0 capitain.noblock.pro
@@ -794,6 +797,7 @@
 0.0.0.0 pool.kosmoplovci.org
 0.0.0.0 pool.minemonero.pro
 0.0.0.0 pool.miners.pro
+0.0.0.0 pool.minexmr.com
 0.0.0.0 pool.miningspeed.com
 0.0.0.0 pool.moneropool.nl
 0.0.0.0 pool.moriaxmr.com
@@ -854,6 +858,7 @@
 0.0.0.0 s.m.eligius.st
 0.0.0.0 s.zsolo.bid
 0.0.0.0 s003.papoto.com
+0.0.0.0 s3.minexmr.com
 0.0.0.0 sales.genesis-mining.com
 0.0.0.0 sandbox.coinbase.com
 0.0.0.0 sandbox.exchange.coinbase.com
@@ -938,10 +943,12 @@
 0.0.0.0 static7.freebitco.in
 0.0.0.0 static8.freebitco.in
 0.0.0.0 statistic.date
+0.0.0.0 stats.minexmr.com
 0.0.0.0 statum.bitcoin.cz
 0.0.0.0 staturm.bitcoin.cz
 0.0.0.0 status.coinbase.com
 0.0.0.0 status.hashflare.io
+0.0.0.0 status.minexmr.com
 0.0.0.0 status.supportxmr.com
 0.0.0.0 sto.suprnova.cc
 0.0.0.0 stonk.suprnova.cc
@@ -1426,6 +1433,7 @@
 0.0.0.0 www.live.prohashing.com
 0.0.0.0 www.madmining.club
 0.0.0.0 www.minemonero.pro
+0.0.0.0 www.minexmr.com
 0.0.0.0 www.miningpoolhub.com
 0.0.0.0 www.miningspeed.com
 0.0.0.0 www.minning.bitcoin.cz
