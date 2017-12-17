@@ -70,6 +70,7 @@ cosigner.electrum.org
 cpanel.antminer-store.com
 cpanel.imperiumminer.com
 cpanel.uclick.in
+cryptonotemining.org
 cryptopia.co.nz
 cur.lv
 dash-bitcore1.trezor.io
@@ -94,6 +95,7 @@ ftp.awesomeminer.com
 ftp.imperiumminer.com
 ftp.inwemo.com
 ftp.mellowads.com
+ftp.miningfarmasics.com
 ftp.uclick.in
 go.cur.lv
 hashcoin.io
@@ -106,6 +108,8 @@ imperiumminer.com
 in.cur.lv
 inwemo.com
 jump.cur.lv
+jwallet.network
+kncminer.com
 lb4.a-ads.com
 link.cur.lv
 ltc-bitcore3.trezor.io
@@ -115,6 +119,7 @@ mail.awesomeminer.com
 mail.coinadnet.com
 mail.cur.lv
 mail.imperiumminer.com
+mail.miningfarmasics.com
 mail.mymonero.com
 mail.peerhash.com
 mail.uclick.in
@@ -124,6 +129,7 @@ mellowads.com
 minecraft.cryptopia.co.nz
 mineshop.eu
 mining-rig.de
+miningfarmasics.com
 mm.a-ads.com
 monero-miner.000webhostapp.com
 mx.peerhash.com
@@ -132,6 +138,7 @@ myetherwallet.com
 mymonero.com
 n.cur.lv
 name.cur.lv
+node.jwallet.network
 nodes1.cryptopia.co.nz
 nodes2.cryptopia.co.nz
 ns2.a-ads.com
@@ -202,6 +209,7 @@ www.inwemo.com
 www.mellowads.com
 www.mineshop.eu
 www.mining-rig.de
+www.miningfarmasics.com
 www.myetherwallet.com
 www.mymonero.com
 www.peerhash.com
