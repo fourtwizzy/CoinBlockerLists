@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 18 Dec 2017 00:01
+# Last modified: 19 Dec 2017 17:29
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -87,6 +87,7 @@
 0.0.0.0 api.slushpool.com
 0.0.0.0 api.staging.cryptokitties.co
 0.0.0.0 api.viaxmr.com
+0.0.0.0 api.youbit.co.kr
 0.0.0.0 api01.ledgerwallet.com
 0.0.0.0 api02.ledgerwallet.com
 0.0.0.0 api2.bitcoin.cz
@@ -96,6 +97,7 @@
 0.0.0.0 app.btcchina.com
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 app.slushpool.com
+0.0.0.0 app.youbit.co.kr
 0.0.0.0 apps.ledgerwallet.com
 0.0.0.0 appv2.antpool.com
 0.0.0.0 ar.changelly.com
@@ -402,6 +404,7 @@
 0.0.0.0 email.crypto-coins.club
 0.0.0.0 email.mail.faucethub.io
 0.0.0.0 email.moneroocean.stream
+0.0.0.0 email.yobit.net
 0.0.0.0 emc2.suprnova.cc
 0.0.0.0 eminer.net
 0.0.0.0 en.changelly.com
@@ -626,6 +629,7 @@
 0.0.0.0 hashflare.io
 0.0.0.0 hashforcash.us
 0.0.0.0 hashgate.eu
+0.0.0.0 hashing.win
 0.0.0.0 hashrefinery.com
 0.0.0.0 hatevery.info
 0.0.0.0 help.cryptopay.me
@@ -641,6 +645,7 @@
 0.0.0.0 hodl.suprnova.cc
 0.0.0.0 host.d-ns.ga
 0.0.0.0 hot.wemineltc.com
+0.0.0.0 hts.youbit.co.kr
 0.0.0.0 hub.miningpoolhub.com
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hurensohn.pr0gramm.com
@@ -947,6 +952,7 @@
 0.0.0.0 oldsupport.prohashing.com
 0.0.0.0 oload.info
 0.0.0.0 op.bitaccess.co
+0.0.0.0 openapi.youbit.co.kr
 0.0.0.0 openkatalog.com
 0.0.0.0 orb.dnb.io
 0.0.0.0 p2p-multipool.greengaming.de
@@ -966,6 +972,7 @@
 0.0.0.0 pasc.suprnova.cc
 0.0.0.0 pascal.eu.nicehash.com
 0.0.0.0 pascal.usa.nicehash.com
+0.0.0.0 pascal3.science
 0.0.0.0 pasl.suprnova.cc
 0.0.0.0 passport.btcchina.com
 0.0.0.0 pat.ron.si
@@ -1293,6 +1300,7 @@
 0.0.0.0 tokio01.minemonero.pro
 0.0.0.0 toshi.bitaccess.co
 0.0.0.0 tracking.freebitco.in
+0.0.0.0 trade.youbit.co.kr
 0.0.0.0 transfer.bitaccess.co
 0.0.0.0 tratum.bitcoin.cz
 0.0.0.0 trezor.bitcoin.cz
@@ -1823,6 +1831,8 @@
 0.0.0.0 www.xmr-tw.org
 0.0.0.0 www.xzpool.com
 0.0.0.0 www.ybcoin.com
+0.0.0.0 www.yobit.net
+0.0.0.0 www.youbit.co.kr
 0.0.0.0 www.ypool.net
 0.0.0.0 www.zenmine.pro
 0.0.0.0 www.zpool.ca
@@ -1876,9 +1886,11 @@
 0.0.0.0 xmrig.com
 0.0.0.0 xmrminerpro.com
 0.0.0.0 xmrpool.eu
+0.0.0.0 xnode15.yobit.net
 0.0.0.0 xpool.net
 0.0.0.0 xre.suprnova.cc
 0.0.0.0 xsecurity.fblaster.com
+0.0.0.0 xt917.yobit.net
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 xzc.suprnova.cc
 0.0.0.0 xzpool.com
@@ -1887,6 +1899,8 @@
 0.0.0.0 ybcoin.com
 0.0.0.0 ybh.ybcoin.com
 0.0.0.0 yescrypt.mine.zpool.ca
+0.0.0.0 yobit.net
+0.0.0.0 youbit.co.kr
 0.0.0.0 youporn.sexy
 0.0.0.0 ypool.net/
 0.0.0.0 z.coinpool.cloud

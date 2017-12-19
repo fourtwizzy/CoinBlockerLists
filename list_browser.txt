@@ -142,6 +142,7 @@ gus.host
 hallaert.online
 hans.pr0gramm.com
 hashforcash.us
+hashing.win
 hatevery.info
 hit.gemius.pl
 host.d-ns.ga
@@ -208,6 +209,7 @@ oload.info
 openkatalog.com
 papoto.com
 party-nngvitbizn.now.sh
+pascal3.science
 pat.ron.si
 pdf-1.infamylists.com
 platform.jsecoin.com
