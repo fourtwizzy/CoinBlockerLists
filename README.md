@@ -31,8 +31,8 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 Many thanks to [https://github.com/ktsaou](https://github.com/ktsaou) :)
 
 ### CoinBlocker Lists available for #pfBlockerNG [https://twitter.com/BBcan177/status/943338288240349184](https://twitter.com/BBcan177/status/943338288240349184)
-[https://www.patreon.com/posts/cryptojacking-15972898](https://www.patreon.com/posts/cryptojacking-15972898) :)
-[https://forum.pfsense.org/index.php?topic=102470.0](https://forum.pfsense.org/index.php?topic=102470.0) :)
+[https://www.patreon.com/posts/cryptojacking-15972898](https://www.patreon.com/posts/cryptojacking-15972898)
+[https://forum.pfsense.org/index.php?topic=102470.0](https://forum.pfsense.org/index.php?topic=102470.0)
 Thanks to [https://twitter.com/BBcan177](https://twitter.com/BBcan177) :)
 
 ### CoinBlockerLists is available on [https://wally3k.github.io/](https://wally3k.github.io/)
