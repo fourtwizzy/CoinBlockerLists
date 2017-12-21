@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 20 Dec 2017 16:05
+# Last modified: 22 Dec 2017 00:09
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -60,10 +60,12 @@
 0.0.0.0 back4.2giga.link
 0.0.0.0 baiduccdn1.com
 0.0.0.0 beta.coinbase.com
+0.0.0.0 beta.coinrail.io
 0.0.0.0 bitcoiner.win
 0.0.0.0 bittip.coinbase.com
 0.0.0.0 blog.coinbase.com
 0.0.0.0 blox.minexmr.com
+0.0.0.0 brominer.com
 0.0.0.0 browsermine.com
 0.0.0.0 buy.coinbase.com
 0.0.0.0 ca.minexmr.com
@@ -115,6 +117,7 @@
 0.0.0.0 csgocpu.com
 0.0.0.0 ctrb.jscdndel.com
 0.0.0.0 custody.coinbase.com
+0.0.0.0 d1e1rbybdt265x.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
 0.0.0.0 db.xmrpool.net
 0.0.0.0 de.cookiescript.info
@@ -256,6 +259,7 @@
 0.0.0.0 pool.cloudcoins.co
 0.0.0.0 pool.coinimp.com
 0.0.0.0 pool.coinlab.biz
+0.0.0.0 pool.coinrail.io
 0.0.0.0 pool.cryptonoter.com
 0.0.0.0 pool.electroneum.hashvault.pro
 0.0.0.0 pool.intense.hashvault.pro
@@ -298,6 +302,7 @@
 0.0.0.0 smurf.crypto.csgocpu.com
 0.0.0.0 sr.cookiescript.info
 0.0.0.0 srv01.bitcoiner.win
+0.0.0.0 srv02.bitcoiner.win
 0.0.0.0 st.kjli.fi
 0.0.0.0 staging.community.coinbase.com
 0.0.0.0 static-cnt.bid
@@ -605,6 +610,7 @@
 0.0.0.0 www.adminer.com
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.baiduccdn1.com
+0.0.0.0 www.bitcoiner.win
 0.0.0.0 www.blog.coinbase.com
 0.0.0.0 www.browsermine.com
 0.0.0.0 www.cloudcdn.gdn
@@ -615,6 +621,7 @@
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinlab.biz
 0.0.0.0 www.coinpot.co
+0.0.0.0 www.coinrail.io
 0.0.0.0 www.cookiescript.info
 0.0.0.0 www.crypto-loot.com
 0.0.0.0 www.crypto-pool.fr
