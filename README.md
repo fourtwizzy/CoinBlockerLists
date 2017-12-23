@@ -1,6 +1,5 @@
-# Simple lists that can help prevent cryptomining in the browser or other applications.
 ![PC_ping](img/CoinBL_Logo.png)
-
+## Simple lists that can help prevent cryptomining in the browser or other applications.
 CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 
 
@@ -21,6 +20,10 @@ CoinBlockerLists Short URL: [https://git.io/vFFKT](https://git.io/vFFKT)
 - [http://iplists.firehol.org/?ipset=coinbl_ips](http://iplists.firehol.org/?ipset=coinbl_ips)
 
 Many thanks to [https://github.com/ktsaou](https://github.com/ktsaou) :)
+
+### CoinBlockerLists is available in Hostsblock
+[https://github.com/gaenserich/hostsblock](https://github.com/gaenserich/hostsblock)
+Thanks to [https://github.com/gaenserich](https://github.com/gaenserich) :)
 
 ### CoinBlocker Lists available for #pfBlockerNG [https://twitter.com/BBcan177/status/943338288240349184](https://twitter.com/BBcan177/status/943338288240349184)
 [https://www.patreon.com/posts/cryptojacking-15972898](https://www.patreon.com/posts/cryptojacking-15972898)

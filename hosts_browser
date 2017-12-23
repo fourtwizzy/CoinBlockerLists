@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 22 Dec 2017 00:09
+# Last modified: 23 Dec 2017 19:20
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -35,21 +35,17 @@
 0.0.0.0 api.3c0cb3b4.space
 0.0.0.0 api.3d0cb547.space
 0.0.0.0 api.aeon.hashvault.pro
-0.0.0.0 api.coinbase.com
 0.0.0.0 api.coinhive.com
 0.0.0.0 api.ethereum.hashvault.pro
-0.0.0.0 api.exchange.coinbase.com
 0.0.0.0 api.intense.hashvault.pro
 0.0.0.0 api.minexmr.com
 0.0.0.0 api.monero.hashvault.pro
 0.0.0.0 api.moneroocean.stream
-0.0.0.0 api.sandbox.coinbase.com
 0.0.0.0 api.sumo.hashvault.pro
 0.0.0.0 api.sumokoin.hashvault.pro
 0.0.0.0 api.xmrpool.net
 0.0.0.0 app.pr0gramm.com
 0.0.0.0 aservices.party
-0.0.0.0 assets.coinbase.com
 0.0.0.0 atlanta01.monero.hashvault.pro
 0.0.0.0 auroramine.com
 0.0.0.0 authedmine.com
@@ -59,15 +55,12 @@
 0.0.0.0 b.proxy4.nullrefexcep.com
 0.0.0.0 back4.2giga.link
 0.0.0.0 baiduccdn1.com
-0.0.0.0 beta.coinbase.com
 0.0.0.0 beta.coinrail.io
 0.0.0.0 bitcoiner.win
-0.0.0.0 bittip.coinbase.com
-0.0.0.0 blog.coinbase.com
+0.0.0.0 bjorksta.men
 0.0.0.0 blox.minexmr.com
 0.0.0.0 brominer.com
 0.0.0.0 browsermine.com
-0.0.0.0 buy.coinbase.com
 0.0.0.0 ca.minexmr.com
 0.0.0.0 capitain.noblock.pro
 0.0.0.0 capodannoinversilia.com
@@ -93,7 +86,6 @@
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive-proxy-ybydcnjgkl.now.sh
 0.0.0.0 coin-hive.com
-0.0.0.0 coinbase.com
 0.0.0.0 coinblind.com
 0.0.0.0 coinerra.com
 0.0.0.0 coinhive-manager.com
@@ -105,7 +97,6 @@
 0.0.0.0 coinnebula.com
 0.0.0.0 coinpot.co
 0.0.0.0 coinworker.com
-0.0.0.0 community.coinbase.com
 0.0.0.0 cookiescript.info
 0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cqfnvznw.info
@@ -116,7 +107,6 @@
 0.0.0.0 cryptonoter.com
 0.0.0.0 csgocpu.com
 0.0.0.0 ctrb.jscdndel.com
-0.0.0.0 custody.coinbase.com
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
 0.0.0.0 db.xmrpool.net
@@ -124,29 +114,18 @@
 0.0.0.0 de.moneroocean.stream
 0.0.0.0 deepc.cc
 0.0.0.0 dev.coinlab.biz
-0.0.0.0 developers.coinbase.com
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dmg.crypto.csgocpu.com
-0.0.0.0 docs.exchange.coinbase.com
 0.0.0.0 edgeno.de
 0.0.0.0 eeme7j.win
-0.0.0.0 eio-feed.exchange.coinbase.com
 0.0.0.0 electroneum.hashvault.pro
 0.0.0.0 elthamely.com
 0.0.0.0 email.moneroocean.stream
 0.0.0.0 en.cookiescript.info
-0.0.0.0 engineering.coinbase.com
-0.0.0.0 ent-api.sandbox.coinbase.com
 0.0.0.0 es.cookiescript.info
 0.0.0.0 escobar.pr0gramm.com
 0.0.0.0 eu.hatevery.info
-0.0.0.0 ex-notify.coinbase.com
-0.0.0.0 exceptions.coinbase.com
-0.0.0.0 exchange.coinbase.com
 0.0.0.0 fbtc-uab.freebitco.in
-0.0.0.0 feed.exchange.coinbase.com
-0.0.0.0 filetransfer.coinbase.com
-0.0.0.0 fix.exchange.coinbase.com
 0.0.0.0 fr.cookiescript.info
 0.0.0.0 frankfurt-1.xmrpool.net
 0.0.0.0 frankfurt01.monero.hashvault.pro
@@ -174,7 +153,6 @@
 0.0.0.0 host.d-ns.ga
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hurensohn.pr0gramm.com
-0.0.0.0 images.coinbase.com
 0.0.0.0 img.pr0gramm.com
 0.0.0.0 infamylists.com
 0.0.0.0 intense.hashvault.pro
@@ -198,11 +176,9 @@
 0.0.0.0 listat.biz
 0.0.0.0 lmodr.biz
 0.0.0.0 load.jsecoin.com
-0.0.0.0 login.coinbase.com
 0.0.0.0 london01.monero.hashvault.pro
 0.0.0.0 losangeles01.monero.hashvault.pro
 0.0.0.0 m.pr0gramm.com
-0.0.0.0 mail.coinbase.com
 0.0.0.0 mail.coinhive-manager.com
 0.0.0.0 mail.cookiescript.info
 0.0.0.0 mail.crypto-loot.com
@@ -279,7 +255,6 @@
 0.0.0.0 proxy7.nullrefexcep.com
 0.0.0.0 proxy8.nullrefexcep.com
 0.0.0.0 proxy9.nullrefexcep.com
-0.0.0.0 public.sandbox.exchange.coinbase.com
 0.0.0.0 px1.papoto.com
 0.0.0.0 px2.papoto.com
 0.0.0.0 reasedoper.pw
@@ -289,8 +264,6 @@
 0.0.0.0 s.gus.host
 0.0.0.0 s003.papoto.com
 0.0.0.0 s3.minexmr.com
-0.0.0.0 sandbox.coinbase.com
-0.0.0.0 sandbox.exchange.coinbase.com
 0.0.0.0 sbhmn-miner.com
 0.0.0.0 sea.cryptoloot.pro
 0.0.0.0 seattle01.monero.hashvault.pro
@@ -304,7 +277,6 @@
 0.0.0.0 srv01.bitcoiner.win
 0.0.0.0 srv02.bitcoiner.win
 0.0.0.0 st.kjli.fi
-0.0.0.0 staging.community.coinbase.com
 0.0.0.0 static-cnt.bid
 0.0.0.0 static.hk.rs
 0.0.0.0 static.reasedoper.pw
@@ -318,13 +290,10 @@
 0.0.0.0 static8.freebitco.in
 0.0.0.0 statistic.date
 0.0.0.0 stats.minexmr.com
-0.0.0.0 status.coinbase.com
 0.0.0.0 status.minexmr.com
-0.0.0.0 store.coinbase.com
 0.0.0.0 stream.nullrefexcep.com
 0.0.0.0 sumo.hashvault.pro
 0.0.0.0 sumokoin.hashvault.pro
-0.0.0.0 support.coinbase.com
 0.0.0.0 supportxmr.com
 0.0.0.0 swanson.ron.si
 0.0.0.0 sydney01.monero.hashvault.pro
@@ -358,13 +327,10 @@
 0.0.0.0 ws-de-03.rocks.io
 0.0.0.0 ws-de-04.rocks.io
 0.0.0.0 ws-de-05.rocks.io
-0.0.0.0 ws-feed.exchange.coinbase.com
 0.0.0.0 ws-fr-01.rocks.io
 0.0.0.0 ws-fr-02.rocks.io
 0.0.0.0 ws-fr-03.rocks.io
-0.0.0.0 ws.coinbase.com
 0.0.0.0 ws.freebitco.in
-0.0.0.0 ws.sandbox.coinbase.com
 0.0.0.0 ws.xmrpool.net
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
@@ -611,11 +577,9 @@
 0.0.0.0 www.authedmine.com
 0.0.0.0 www.baiduccdn1.com
 0.0.0.0 www.bitcoiner.win
-0.0.0.0 www.blog.coinbase.com
 0.0.0.0 www.browsermine.com
 0.0.0.0 www.cloudcdn.gdn
 0.0.0.0 www.cloudcoins.co
-0.0.0.0 www.coinbase.com
 0.0.0.0 www.coinhive-manager.com
 0.0.0.0 www.coinhive.com
 0.0.0.0 www.coinimp.com
@@ -627,7 +591,6 @@
 0.0.0.0 www.crypto-pool.fr
 0.0.0.0 www.cryptoloot.pro
 0.0.0.0 www.cryptonoter.com
-0.0.0.0 www.engineering.coinbase.com
 0.0.0.0 www.freebitco.in
 0.0.0.0 www.gus.host
 0.0.0.0 www.hashforcash.us
