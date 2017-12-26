@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 23 Dec 2017 19:20
+# Last modified: 26 Dec 2017 18:50
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 2giga.link
@@ -39,6 +39,7 @@
 0.0.0.0 api.ethereum.hashvault.pro
 0.0.0.0 api.intense.hashvault.pro
 0.0.0.0 api.minexmr.com
+0.0.0.0 api.monerise.com
 0.0.0.0 api.monero.hashvault.pro
 0.0.0.0 api.moneroocean.stream
 0.0.0.0 api.sumo.hashvault.pro
@@ -201,6 +202,7 @@
 0.0.0.0 minr.browsermine.com
 0.0.0.0 minr.nullrefexcep.com
 0.0.0.0 minr.pw
+0.0.0.0 monerise.com
 0.0.0.0 monero-miner.net
 0.0.0.0 monero.crypto-pool.fr
 0.0.0.0 monero.hashvault.pro
@@ -316,11 +318,13 @@
 0.0.0.0 web.rocks.io
 0.0.0.0 webmail.coinpot.co
 0.0.0.0 webmine.cz
+0.0.0.0 webminerpool.com
 0.0.0.0 wijzeman.sbhmn-miner.com
 0.0.0.0 witkom.sbhmn-miner.com
 0.0.0.0 wo15.coinhive.com
 0.0.0.0 woork.sbhmn-miner.com
 0.0.0.0 wp-content.infamylists.com
+0.0.0.0 wp-monero-miner.de
 0.0.0.0 ws-ca-01.rocks.io
 0.0.0.0 ws-de-01.rocks.io
 0.0.0.0 ws-de-02.rocks.io
