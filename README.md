@@ -70,3 +70,4 @@ Thanks to all who use and support CoinBlockerLists.
 
 ### Contact
 Twitter: [@hobbygrafix](https://twitter.com/hobbygrafix)
+E-Mail: [ZeroDot1@bK.Ru](mailto:zerodot1@bk.ru)
