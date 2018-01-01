@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 01 01 2018 00:00
+# Last modified: 01 01 2018 16:33
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.me
@@ -110,6 +110,7 @@
 0.0.0.0 crypto-loot.com
 0.0.0.0 crypto-pool.fr
 0.0.0.0 crypto.csgocpu.com
+0.0.0.0 cryptobara.com
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cryptonoter.com
 0.0.0.0 csgocpu.com
@@ -121,6 +122,8 @@
 0.0.0.0 de.moneroocean.stream
 0.0.0.0 deepc.cc
 0.0.0.0 dev.coinlab.biz
+0.0.0.0 dev.cryptobara.com
+0.0.0.0 digger.cryptobara.com
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dmg.crypto.csgocpu.com
 0.0.0.0 edgeno.de
@@ -199,6 +202,7 @@
 0.0.0.0 mine.xmrpool.net
 0.0.0.0 minecrunch.co
 0.0.0.0 minemytraffic.com
+0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh

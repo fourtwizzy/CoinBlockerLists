@@ -373,6 +373,7 @@ crypto-coins.club
 crypto-loot.com
 crypto-pool.fr
 crypto.csgocpu.com
+cryptobara.com
 cryptoescrow.eu
 cryptofriends.org
 cryptokitties.co
@@ -458,6 +459,7 @@ detector5.z.cash
 detector6.z.cash
 detector7.z.cash
 dev.coinlab.biz
+dev.cryptobara.com
 dev.minemonero.pro
 dev.multipool.us
 dev.prohashing.com
@@ -471,6 +473,7 @@ dgbq.suprnova.cc
 dgbs.suprnova.cc
 dgbsha.poolto.be
 di.ckpool.org
+digger.cryptobara.com
 digibyte-groestl.miningpoolhub.com
 digibyte-qubit.miningpoolhub.com
 digibyte-skein.miningpoolhub.com
@@ -1032,6 +1035,7 @@ minemonero.pro
 minemytraffic.com
 miner.bitcoin.cz
 miner.center
+miner.cryptobara.com
 miner.nicehash.com
 miner.pr0gramm.com
 minercircle.com

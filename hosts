@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 01 01 2018 00:00
+# Last modified: 01 01 2018 16:33
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.me
@@ -144,7 +144,6 @@
 0.0.0.0 asia.madmining.club
 0.0.0.0 asia.miningspeed.com
 0.0.0.0 asia.monero.miningpoolhub.com
-0.0.0.0 asia.zclmine.pro
 0.0.0.0 asia.zclmine.pro
 0.0.0.0 asia.zenmine.pro
 0.0.0.0 asia1.ethereum.miningpoolhub.com
@@ -378,6 +377,7 @@
 0.0.0.0 crypto-loot.com
 0.0.0.0 crypto-pool.fr
 0.0.0.0 crypto.csgocpu.com
+0.0.0.0 cryptobara.com
 0.0.0.0 cryptoescrow.eu
 0.0.0.0 cryptofriends.org
 0.0.0.0 cryptokitties.co
@@ -463,6 +463,7 @@
 0.0.0.0 detector6.z.cash
 0.0.0.0 detector7.z.cash
 0.0.0.0 dev.coinlab.biz
+0.0.0.0 dev.cryptobara.com
 0.0.0.0 dev.minemonero.pro
 0.0.0.0 dev.multipool.us
 0.0.0.0 dev.prohashing.com
@@ -476,6 +477,7 @@
 0.0.0.0 dgbs.suprnova.cc
 0.0.0.0 dgbsha.poolto.be
 0.0.0.0 di.ckpool.org
+0.0.0.0 digger.cryptobara.com
 0.0.0.0 digibyte-groestl.miningpoolhub.com
 0.0.0.0 digibyte-qubit.miningpoolhub.com
 0.0.0.0 digibyte-skein.miningpoolhub.com
@@ -616,12 +618,9 @@
 0.0.0.0 eu.bohemianpool.com
 0.0.0.0 eu.btgpool.pro
 0.0.0.0 eu.dbixmine.pro
-0.0.0.0 eu.dbixmine.pro
-0.0.0.0 eu.etcmine.pro
 0.0.0.0 eu.etcmine.pro
 0.0.0.0 eu.expmine.pro
 0.0.0.0 eu.hatevery.info
-0.0.0.0 eu.hushmine.pro
 0.0.0.0 eu.hushmine.pro
 0.0.0.0 eu.hushpool.cloud
 0.0.0.0 eu.madmining.club
@@ -631,7 +630,6 @@
 0.0.0.0 eu.stratum.bravo-mining.com
 0.0.0.0 eu.stratum.slushpool.com
 0.0.0.0 eu.wemineltc.com
-0.0.0.0 eu.zclmine.pro
 0.0.0.0 eu.zclmine.pro
 0.0.0.0 eu.zec.slushpool.com
 0.0.0.0 eu.zenmine.pro
@@ -1041,6 +1039,7 @@
 0.0.0.0 minemytraffic.com
 0.0.0.0 miner.bitcoin.cz
 0.0.0.0 miner.center
+0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner.nicehash.com
 0.0.0.0 miner.pr0gramm.com
 0.0.0.0 minercircle.com

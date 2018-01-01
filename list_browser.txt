@@ -107,6 +107,7 @@ cqfnvznw.info
 crypto-loot.com
 crypto-pool.fr
 crypto.csgocpu.com
+cryptobara.com
 cryptoloot.pro
 cryptonoter.com
 csgocpu.com
@@ -118,6 +119,8 @@ de.cookiescript.info
 de.moneroocean.stream
 deepc.cc
 dev.coinlab.biz
+dev.cryptobara.com
+digger.cryptobara.com
 dmdamedia.hu
 dmg.crypto.csgocpu.com
 edgeno.de
@@ -196,6 +199,7 @@ metrika.ron.si
 mine.xmrpool.net
 minecrunch.co
 minemytraffic.com
+miner.cryptobara.com
 miner.pr0gramm.com
 minero-proxy-01.now.sh
 minero-proxy-02.now.sh
