@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 01 01 2018 16:33
+# Last modified: 02 01 2018 15:36
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.me
@@ -61,6 +61,7 @@
 0.0.0.0 bitcoiner.win
 0.0.0.0 bjorksta.men
 0.0.0.0 blox.minexmr.com
+0.0.0.0 bmnr.pw
 0.0.0.0 brominer.com
 0.0.0.0 browsermine.com
 0.0.0.0 c7e935.netlify.com
@@ -182,6 +183,7 @@
 0.0.0.0 kiwifarms.net
 0.0.0.0 kunay.nullrefexcep.com
 0.0.0.0 l-shop.nullrefexcep.com
+0.0.0.0 lib.xmrm.pw
 0.0.0.0 light.browsermine.com
 0.0.0.0 lightminer.co
 0.0.0.0 listat.biz
@@ -213,12 +215,14 @@
 0.0.0.0 minr.browsermine.com
 0.0.0.0 minr.nullrefexcep.com
 0.0.0.0 minr.pw
+0.0.0.0 moneone.ga
 0.0.0.0 monerise.com
 0.0.0.0 monero-miner.net
 0.0.0.0 monero.crypto-pool.fr
 0.0.0.0 monero.hashvault.pro
 0.0.0.0 monerominer.rocks
 0.0.0.0 moneroocean.stream
+0.0.0.0 monkeyminer.net
 0.0.0.0 moscow05.electroneum.hashvault.pro
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 myfhology.sbhmn-miner.com
@@ -243,6 +247,7 @@
 0.0.0.0 phx-3.xmrpool.net
 0.0.0.0 phx-4.xmrpool.net
 0.0.0.0 platform.jsecoin.com
+0.0.0.0 plexcoin.info
 0.0.0.0 podrltid.info
 0.0.0.0 pool-de.supportxmr.com
 0.0.0.0 pool.aeon.hashvault.pro
@@ -352,6 +357,7 @@
 0.0.0.0 ws-fr-02.rocks.io
 0.0.0.0 ws-fr-03.rocks.io
 0.0.0.0 ws.freebitco.in
+0.0.0.0 ws.xmrm.pw
 0.0.0.0 ws.xmrpool.net
 0.0.0.0 ws000.coinhive.com
 0.0.0.0 ws001.authedmine.com
@@ -448,6 +454,7 @@
 0.0.0.0 ws1.370cabd5.space
 0.0.0.0 ws1.3c0cb3b4.space
 0.0.0.0 ws1.3d0cb547.space
+0.0.0.0 ws1.bmnr.pw
 0.0.0.0 ws1.coin-have.com
 0.0.0.0 ws1.g-content.bid
 0.0.0.0 ws1.minr.pw
@@ -474,6 +481,7 @@
 0.0.0.0 ws2.370cabd5.space
 0.0.0.0 ws2.3c0cb3b4.space
 0.0.0.0 ws2.3d0cb547.space
+0.0.0.0 ws2.bmnr.pw
 0.0.0.0 ws2.coin-have.com
 0.0.0.0 ws2.g-content.bid
 0.0.0.0 ws2.statistic.date
@@ -499,6 +507,7 @@
 0.0.0.0 ws3.370cabd5.space
 0.0.0.0 ws3.3c0cb3b4.space
 0.0.0.0 ws3.3d0cb547.space
+0.0.0.0 ws3.bmnr.pw
 0.0.0.0 ws3.coin-have.com
 0.0.0.0 ws3.g-content.bid
 0.0.0.0 ws3.statistic.date
@@ -522,6 +531,7 @@
 0.0.0.0 ws4.370cabd5.space
 0.0.0.0 ws4.3c0cb3b4.space
 0.0.0.0 ws4.3d0cb547.space
+0.0.0.0 ws4.bmnr.pw
 0.0.0.0 ws4.coin-have.com
 0.0.0.0 ws40.crypto-loot.com
 0.0.0.0 ws41.crypto-loot.com
@@ -640,6 +650,7 @@
 0.0.0.0 www.ws.freebitco.in
 0.0.0.0 www.wsnew.freebitco.in
 0.0.0.0 www.wty46.com
+0.0.0.0 www.xmrm.pw
 0.0.0.0 www.xmrpool.net
 0.0.0.0 www1.2giga.link
 0.0.0.0 www2.2giga.link
@@ -660,6 +671,7 @@
 0.0.0.0 xmr7.crypto-pool.fr
 0.0.0.0 xmr8.crypto-pool.fr
 0.0.0.0 xmrm.browsermine.com
+0.0.0.0 xmrm.pw
 0.0.0.0 xmrpool.net
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 youporn.sexy
