@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 02 01 2018 15:36
+# Last modified: 04 01 2018 15:14
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.me
@@ -197,6 +197,7 @@
 0.0.0.0 beta.slushpool.com
 0.0.0.0 beta.supportxmr.com
 0.0.0.0 beta.viaxmr.com
+0.0.0.0 biberukalap.com
 0.0.0.0 bic.crypto-coins.club
 0.0.0.0 binance.com
 0.0.0.0 bip.crypto-coins.club
@@ -792,6 +793,7 @@
 0.0.0.0 grafana.xmrpool.net
 0.0.0.0 granite.miningpoolhub.com
 0.0.0.0 graph.coinone.co.kr
+0.0.0.0 gridiogrid.com
 0.0.0.0 groestlcoin.miningpoolhub.com
 0.0.0.0 grs.suprnova.cc
 0.0.0.0 guest-stat.com
@@ -1028,6 +1030,8 @@
 0.0.0.0 mine.cryptoescrow.eu
 0.0.0.0 mine.hashrefinery.com
 0.0.0.0 mine.moneropool.com
+0.0.0.0 mine.nahnoji.cz
+0.0.0.0 mine.torrent.pw
 0.0.0.0 mine.xmr.mypool.online
 0.0.0.0 mine.xmrpool.net
 0.0.0.0 mine.xmrpool.xyz
@@ -1158,7 +1162,6 @@
 0.0.0.0 neoscrypt.mine.zpool.ca
 0.0.0.0 neoscrypt.usa.nicehash.com
 0.0.0.0 netko.suprnova.cc
-0.0.0.0 netlify.com
 0.0.0.0 neva.suprnova.cc
 0.0.0.0 new.minr.pw
 0.0.0.0 new.nicehash.com
@@ -1178,6 +1181,7 @@
 0.0.0.0 nl1.ghash.io
 0.0.0.0 noblock.pro
 0.0.0.0 node.supportxmr.com
+0.0.0.0 node.viaxmr.com
 0.0.0.0 node1.mycelium.com
 0.0.0.0 node1.xmr-tw.org
 0.0.0.0 node2.mycelium.com
@@ -1694,6 +1698,7 @@
 0.0.0.0 us-east1.ethereum.miningpoolhub.com
 0.0.0.0 us-east1.nanopool.org
 0.0.0.0 us-east2.multipool.us
+0.0.0.0 us-stratum.viaxmr.com
 0.0.0.0 us-west.bitcoin.cz
 0.0.0.0 us-west.multipool.us
 0.0.0.0 us-west1.nanopool.org
