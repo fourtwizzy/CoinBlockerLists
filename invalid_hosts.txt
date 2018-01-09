@@ -1,19 +1,19 @@
-# This file contains all invalid hosts
 # Last modified: 16 Dec 2017 17:12
-hans.pr0gramm.com
-hurensohn.pr0gramm.com
-m.pr0gramm.com
+# This file contains all invalid hosts
+abc.pema.cl
 azvjudwr.info
+cdn.rove.cl
+cdnfile.xyz
+hans.pr0gramm.com
+host.d-ns.ga
+hurensohn.pr0gramm.com
 jroqvbvw.info
 jyhfuqoh.info
 kdowqlpt.info
-xbasfbno.info
-static.hk.rs
-st.kjli.fi
-host.d-ns.ga
-abc.pema.cl
+m.pr0gramm.com
 metrika.ron.si
-cdn.rove.cl
-xy.nullrefexcep.com
-cdnfile.xyz
+st.kjli.fi
+static.hk.rs
 web.die-news.pw
+xbasfbno.info
+xy.nullrefexcep.com

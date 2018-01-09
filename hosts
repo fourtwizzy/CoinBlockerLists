@@ -1,6 +1,7 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 06 01 2018 17:34
+# Last modified: 09 01 2018 21:48
 # [CoinBlocker hosts List by ZeroDot1]
+0.0.0.0 115776615-884492032168661957.preview.editmysite.com
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.me
 0.0.0.0 2giga.link
@@ -49,6 +50,7 @@
 0.0.0.0 amlt.coinfirm.io
 0.0.0.0 amsterdam01.minemonero.pro
 0.0.0.0 andrew.nullrefexcep.com
+0.0.0.0 androidapk.world
 0.0.0.0 angstrom.genesis-mining.com
 0.0.0.0 anime.reactor.cc
 0.0.0.0 antpool.com
@@ -338,6 +340,7 @@
 0.0.0.0 cloudcoins.co
 0.0.0.0 cloudmedia.gdn
 0.0.0.0 cloudmediacdn.com
+0.0.0.0 cloudzad.com
 0.0.0.0 cms.btcchina.com
 0.0.0.0 cn-wallet-generator.hashvault.pro
 0.0.0.0 cn.btcchina.com
@@ -828,6 +831,7 @@
 0.0.0.0 goldnova.crypto.csgocpu.com
 0.0.0.0 goodolddownloads.com
 0.0.0.0 google.gus.host
+0.0.0.0 goredirect.party
 0.0.0.0 gr.minergate.com
 0.0.0.0 grafana.lindon-pool.win
 0.0.0.0 grafana.minemonero.pro
@@ -926,6 +930,9 @@
 0.0.0.0 joinslack.binance.com
 0.0.0.0 joinus.coinfirm.io
 0.0.0.0 joyreactor.cc
+0.0.0.0 jqcdn01.herokuapp.com
+0.0.0.0 jqcdn03.herokuapp.com
+0.0.0.0 jqcdn2.herokuapp.com
 0.0.0.0 jquerystatistics.org
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js.coinhive.com
@@ -992,6 +999,8 @@
 0.0.0.0 login.bitcoin.cz
 0.0.0.0 login.coinbase.com
 0.0.0.0 logs.z.cash
+0.0.0.0 lolkekss.us
+0.0.0.0 lolkekss.usite.pro
 0.0.0.0 london01.monero.hashvault.pro
 0.0.0.0 losangeles01.minemonero.pro
 0.0.0.0 losangeles01.monero.hashvault.pro
@@ -1211,11 +1220,15 @@
 0.0.0.0 mx1.coinfirm.io
 0.0.0.0 mx2.coinfirm.io
 0.0.0.0 mx3.coinfirm.io
+0.0.0.0 mxcdn1.now.sh
+0.0.0.0 mxcdn2.now.sh
 0.0.0.0 my-retrospace.sbhmn-miner.com
 0.0.0.0 my.hashflare.io
 0.0.0.0 my.ledgerwallet.com
 0.0.0.0 my.minergate.com
 0.0.0.0 mycelium.com
+0.0.0.0 myetherermwallet.com
+0.0.0.0 myethwalilet.com
 0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 myfreebitcoin.com
 0.0.0.0 mykings.top
@@ -1226,6 +1239,8 @@
 0.0.0.0 myriadcoin-qubit.miningpoolhub.com
 0.0.0.0 myriadcoin-skein.miningpoolhub.com
 0.0.0.0 myriadcoin-yescrypt.miningpoolhub.com
+0.0.0.0 myètherwället.com
+0.0.0.0 mÿethèrwallét.com
 0.0.0.0 nagios.z.cash
 0.0.0.0 nanopool.org
 0.0.0.0 ndc.bitember.com
@@ -1274,6 +1289,7 @@
 0.0.0.0 nodes.viaxmr.com
 0.0.0.0 nostalgia.bitfinex.com
 0.0.0.0 novaminers.tk
+0.0.0.0 npcdn1.now.sh
 0.0.0.0 nrn.suprnova.cc
 0.0.0.0 ns1.cryptmonero.com
 0.0.0.0 ns1.wemineltc.com
@@ -1709,6 +1725,11 @@
 0.0.0.0 sv1.kano.is
 0.0.0.0 swanson.ron.si
 0.0.0.0 sweep.suprnova.cc
+0.0.0.0 sxcdn02.now.sh
+0.0.0.0 sxcdn1.herokuapp.com
+0.0.0.0 sxcdn4.now.sh
+0.0.0.0 sxcdn5.herokuapp.com
+0.0.0.0 sxcdn6.now.sh
 0.0.0.0 sydney01.minemonero.pro
 0.0.0.0 sydney01.monero.hashvault.pro
 0.0.0.0 sys.poolto.be
@@ -1764,6 +1785,7 @@
 0.0.0.0 united.wemineltc.com
 0.0.0.0 unlock.suprnova.cc
 0.0.0.0 updates.getmonero.org
+0.0.0.0 upload-center.byethost4.com
 0.0.0.0 uro.miningpoolhub.com
 0.0.0.0 uro.suprnova.cc
 0.0.0.0 us-east-1.multipool.us
@@ -1830,11 +1852,13 @@
 0.0.0.0 validator.btgpool.pro
 0.0.0.0 varasto.kippo.eu
 0.0.0.0 vcash.miningpoolhub.com
+0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vegas-1.xmrpool.net
 0.0.0.0 veltor.suprnova.cc
 0.0.0.0 verge-scrypt.miningpoolhub.com
 0.0.0.0 versiliaguide.com
 0.0.0.0 vertcoin.miningpoolhub.com
+0.0.0.0 vg02h8z1ul.me
 0.0.0.0 via.suprnova.cc
 0.0.0.0 viaxmr.com
 0.0.0.0 vid.pr0gramm.com
@@ -1849,6 +1873,7 @@
 0.0.0.0 vxelkrhl.info
 0.0.0.0 w13.coinhive.com
 0.0.0.0 wallet-backend.bitcoin.com
+0.0.0.0 wallet-ethereum.com
 0.0.0.0 wallet.bitcoin.com
 0.0.0.0 wallet.btcchina.com
 0.0.0.0 wallet.btgpool.pro
@@ -1891,6 +1916,7 @@
 0.0.0.0 wp-content.infamylists.com
 0.0.0.0 wp-monero-miner.de
 0.0.0.0 wp.bitcoin.cz
+0.0.0.0 wpcdn1.herokuapp.com
 0.0.0.0 wpconnect.org
 0.0.0.0 wpserve.org
 0.0.0.0 ws-ca-01.rocks.io
