@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 09 01 2018 21:48
+# Last modified: 09 01 2018 22:28
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
 0.0.0.0 1beb2a44.space
@@ -549,6 +549,7 @@
 0.0.0.0 edgeno.de
 0.0.0.0 eeme7j.win
 0.0.0.0 eeme7je.win
+0.0.0.0 egopastor.biz
 0.0.0.0 eio-feed.exchange.coinbase.com
 0.0.0.0 electroneum.cryptominingpool.eu
 0.0.0.0 electroneum.hashvault.pro
@@ -706,6 +707,7 @@
 0.0.0.0 expanse.miningpoolhub.com
 0.0.0.0 explorer.bitcoin-russia.ru
 0.0.0.0 explorer.nnc.mypool.online
+0.0.0.0 explorer.sumokoin.com
 0.0.0.0 explorer.testnet.z.cash
 0.0.0.0 explorer.ybcoin.com
 0.0.0.0 explorer.z.cash
@@ -1408,6 +1410,7 @@
 0.0.0.0 pool.moneropool.nl
 0.0.0.0 pool.moriaxmr.com
 0.0.0.0 pool.qp.si
+0.0.0.0 pool.sumokoin.com
 0.0.0.0 pool.sumokoin.hashvault.pro
 0.0.0.0 pool.supportxmr.com
 0.0.0.0 pool.webcoin.us
@@ -1701,6 +1704,7 @@
 0.0.0.0 sumo.lindon-pool.win
 0.0.0.0 sumo.night-pool.de
 0.0.0.0 sumo.poolto.be
+0.0.0.0 sumokoin.com
 0.0.0.0 sumokoin.hashvault.pro
 0.0.0.0 support.binance.com
 0.0.0.0 support.bitcoin.cz
@@ -1878,6 +1882,7 @@
 0.0.0.0 wallet.btcchina.com
 0.0.0.0 wallet.btgpool.pro
 0.0.0.0 wallet.eth.mypool.online
+0.0.0.0 wallet.sumokoin.com
 0.0.0.0 wallet.ybcoin.com
 0.0.0.0 wallet.ypool.net
 0.0.0.0 wallets.bitcoin.com
@@ -2362,6 +2367,7 @@
 0.0.0.0 www.secumine.net
 0.0.0.0 www.slushpool.com
 0.0.0.0 www.staging.btcchina.com
+0.0.0.0 www.sumokoin.com
 0.0.0.0 www.support.bitpay.com
 0.0.0.0 www.supportxmr.com
 0.0.0.0 www.suprnova.cc
