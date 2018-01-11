@@ -71,6 +71,7 @@ capodannoinversilia.com
 captain.noblock.pro
 captchas.freebitco.in
 carrel.services
+cdjs.online
 cdn.cloudcoins.co
 cdn.cookiescript.info
 cdn.jquery-uim.download
@@ -305,6 +306,7 @@ silver.crypto.csgocpu.com
 singapore01.monero.hashvault.pro
 smurf.crypto.csgocpu.com
 spacepools.org
+sparnove.com
 sr.cookiescript.info
 srv01.bitcoiner.win
 srv02.bitcoiner.win

@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 09 01 2018 22:28
+# Last modified: 12 01 2018 00:49
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
 0.0.0.0 1beb2a44.space
@@ -28,6 +28,7 @@
 0.0.0.0 ad.g-content.bid
 0.0.0.0 adminer.com
 0.0.0.0 ads.bitcoin.com
+0.0.0.0 ads.locationforexpert.com
 0.0.0.0 adv.cryptopay.me
 0.0.0.0 adzcoin.miningpoolhub.com
 0.0.0.0 ae.minergate.com
@@ -313,6 +314,7 @@
 0.0.0.0 captchas.freebitco.in
 0.0.0.0 carrel.services
 0.0.0.0 cash.bitaccess.co
+0.0.0.0 cdjs.online
 0.0.0.0 cdn.cloudcoins.co
 0.0.0.0 cdn.hashflare.io
 0.0.0.0 cdn.jquery-uim.download
@@ -326,6 +328,7 @@
 0.0.0.0 chat.minergate.com
 0.0.0.0 chc.suprnova.cc
 0.0.0.0 checkcoin.miningpoolhub.com
+0.0.0.0 chicago01.aeon.hashvault.pro
 0.0.0.0 chicago01.electroneum.hashvault.pro
 0.0.0.0 ci.z.cash
 0.0.0.0 cirkev.bitcoin.cz
@@ -713,6 +716,7 @@
 0.0.0.0 explorer.z.cash
 0.0.0.0 explorer.zclmine.pro
 0.0.0.0 explorer.zenmine.pro
+0.0.0.0 explorersconvayencing.com.au
 0.0.0.0 expmine.pro
 0.0.0.0 extensionsapiversion.space
 0.0.0.0 extremeool.org
@@ -749,6 +753,7 @@
 0.0.0.0 filetransfer.coinbase.com
 0.0.0.0 fix.exchange.coinbase.com
 0.0.0.0 flo.suprnova.cc
+0.0.0.0 for.stringengines.com
 0.0.0.0 forre.st
 0.0.0.0 forum.bitcoin.cz
 0.0.0.0 forum.bitcoin.de
@@ -851,6 +856,7 @@
 0.0.0.0 halibut.multipool.us
 0.0.0.0 hallaert.online
 0.0.0.0 hans.pr0gramm.com
+0.0.0.0 hash-to-coins.com
 0.0.0.0 hashcoin.io
 0.0.0.0 hashcoins.com
 0.0.0.0 hashcoins.ee
@@ -941,6 +947,7 @@
 0.0.0.0 jsccnn.com
 0.0.0.0 jscdndel.com
 0.0.0.0 jsecoin.com
+0.0.0.0 json.stringengines.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 k.zsw8.cc
 0.0.0.0 kano.is
@@ -986,6 +993,7 @@
 0.0.0.0 lightminer.co
 0.0.0.0 like.fund
 0.0.0.0 lindon-pool.win
+0.0.0.0 linux-repository-updates.com
 0.0.0.0 listat.biz
 0.0.0.0 listmanage.lydian.io
 0.0.0.0 lists.z.cash
@@ -1013,6 +1021,7 @@
 0.0.0.0 ltcminer.io
 0.0.0.0 luckpool.org
 0.0.0.0 luna.suprnova.cc
+0.0.0.0 luoxkexp.com
 0.0.0.0 lydian.io
 0.0.0.0 lyra2re.eu.nicehash.com
 0.0.0.0 lyra2re.usa.nicehash.com
@@ -1500,6 +1509,7 @@
 0.0.0.0 rocks.io
 0.0.0.0 ron.si
 0.0.0.0 rot.ron.si
+0.0.0.0 rr.locationforexpert.com
 0.0.0.0 rs.minergate.com
 0.0.0.0 rsk.antpool.com
 0.0.0.0 ru.changelly.com
@@ -1609,6 +1619,7 @@
 0.0.0.0 source.multiminerapp.com
 0.0.0.0 spacepools.org
 0.0.0.0 spaincoin.miningpoolhub.com
+0.0.0.0 sparnove.com
 0.0.0.0 speed.z.cash
 0.0.0.0 speedtest.br.nicehash.com
 0.0.0.0 speedtest.eu.nicehash.com
@@ -1764,6 +1775,7 @@
 0.0.0.0 token.breadapp.com
 0.0.0.0 tokensale.lydian.io
 0.0.0.0 tokio01.minemonero.pro
+0.0.0.0 tokyo01.aeon.hashvault.pro
 0.0.0.0 toshi.bitaccess.co
 0.0.0.0 tracking.freebitco.in
 0.0.0.0 trade.youbit.co.kr
@@ -1789,6 +1801,7 @@
 0.0.0.0 united.wemineltc.com
 0.0.0.0 unlock.suprnova.cc
 0.0.0.0 updates.getmonero.org
+0.0.0.0 upload-center.byetho5t4.co
 0.0.0.0 upload-center.byethost4.com
 0.0.0.0 uro.miningpoolhub.com
 0.0.0.0 uro.suprnova.cc
@@ -2415,6 +2428,7 @@
 0.0.0.0 xci.crypto-coins.club
 0.0.0.0 xci.mypool.name
 0.0.0.0 xci.mypool.online
+0.0.0.0 xcnpool2.1gh.com
 0.0.0.0 xcz.mypool.name
 0.0.0.0 xdn-xmr.pool.minergate.com
 0.0.0.0 xdn.miner.center
@@ -2433,6 +2447,7 @@
 0.0.0.0 xmr-eu.suprnova.cc
 0.0.0.0 xmr-eu1.nanopool.org
 0.0.0.0 xmr-eu2.nanopool.org
+0.0.0.0 xmr-eu2.nanopool.org.
 0.0.0.0 xmr-eul.nanopool.org
 0.0.0.0 xmr-tw.org
 0.0.0.0 xmr-us-east1.nanopool.org

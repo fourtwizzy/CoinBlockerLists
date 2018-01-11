@@ -25,6 +25,7 @@ ad.antpool.com
 ad.g-content.bid
 adminer.com
 ads.bitcoin.com
+ads.locationforexpert.com
 adv.cryptopay.me
 adzcoin.miningpoolhub.com
 ae.minergate.com
@@ -310,6 +311,7 @@ captain.noblock.pro
 captchas.freebitco.in
 carrel.services
 cash.bitaccess.co
+cdjs.online
 cdn.cloudcoins.co
 cdn.hashflare.io
 cdn.jquery-uim.download
@@ -323,6 +325,7 @@ charlie.noblock.pro
 chat.minergate.com
 chc.suprnova.cc
 checkcoin.miningpoolhub.com
+chicago01.aeon.hashvault.pro
 chicago01.electroneum.hashvault.pro
 ci.z.cash
 cirkev.bitcoin.cz
@@ -746,6 +749,7 @@ files.cryptopay.me
 filetransfer.coinbase.com
 fix.exchange.coinbase.com
 flo.suprnova.cc
+for.stringengines.com
 forre.st
 forum.bitcoin.cz
 forum.bitcoin.de
@@ -848,6 +852,7 @@ hal.dnb.io
 halibut.multipool.us
 hallaert.online
 hans.pr0gramm.com
+hash-to-coins.com
 hashcoin.io
 hashcoins.com
 hashcoins.ee
@@ -938,6 +943,7 @@ js.coinhive.com
 jsccnn.com
 jscdndel.com
 jsecoin.com
+json.stringengines.com
 jyhfuqoh.info
 k.zsw8.cc
 kano.is
@@ -983,6 +989,7 @@ lib.xmrm.pw
 lightminer.co
 like.fund
 lindon-pool.win
+linux-repository-updates.com
 listat.biz
 listmanage.lydian.io
 lists.z.cash
@@ -1010,6 +1017,7 @@ ltc.suprnova.cc
 ltcminer.io
 luckpool.org
 luna.suprnova.cc
+luoxkexp.com
 lydian.io
 lyra2re.eu.nicehash.com
 lyra2re.usa.nicehash.com
@@ -1497,6 +1505,7 @@ ro.minergate.com
 rocks.io
 ron.si
 rot.ron.si
+rr.locationforexpert.com
 rs.minergate.com
 rsk.antpool.com
 ru.changelly.com
@@ -1606,6 +1615,7 @@ sologateway.ckpool.org
 source.multiminerapp.com
 spacepools.org
 spaincoin.miningpoolhub.com
+sparnove.com
 speed.z.cash
 speedtest.br.nicehash.com
 speedtest.eu.nicehash.com
@@ -1761,6 +1771,7 @@ tix.coinmine.pl
 token.breadapp.com
 tokensale.lydian.io
 tokio01.minemonero.pro
+tokyo01.aeon.hashvault.pro
 toshi.bitaccess.co
 tracking.freebitco.in
 trade.youbit.co.kr
@@ -1786,6 +1797,7 @@ uni.suprnova.cc
 united.wemineltc.com
 unlock.suprnova.cc
 updates.getmonero.org
+upload-center.byetho5t4.co
 upload-center.byethost4.com
 uro.miningpoolhub.com
 uro.suprnova.cc
@@ -2412,6 +2424,7 @@ xbasfbno.info
 xci.crypto-coins.club
 xci.mypool.name
 xci.mypool.online
+xcnpool2.1gh.com
 xcz.mypool.name
 xdn-xmr.pool.minergate.com
 xdn.miner.center
@@ -2430,6 +2443,7 @@ xmr-eu.secumine.net
 xmr-eu.suprnova.cc
 xmr-eu1.nanopool.org
 xmr-eu2.nanopool.org
+xmr-eu2.nanopool.org.
 xmr-eul.nanopool.org
 xmr-tw.org
 xmr-us-east1.nanopool.org
