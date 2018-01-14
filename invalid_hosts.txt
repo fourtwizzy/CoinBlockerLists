@@ -1,4 +1,4 @@
-# Last modified: 16 Dec 2017 17:12
+# Last modified: 14 01 2018 19:32
 # This file contains all invalid hosts
 abc.pema.cl
 azvjudwr.info

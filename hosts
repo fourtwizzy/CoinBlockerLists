@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 12 01 2018 00:49
+# Last modified: 14 01 2018 19:32
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
 0.0.0.0 1beb2a44.space
@@ -17,6 +17,8 @@
 0.0.0.0 3c0cb3b4.space
 0.0.0.0 3d0cb547.space
 0.0.0.0 50bots.nullrefexcep.com
+0.0.0.0 64uq73u7ug.webcam
+0.0.0.0 6ow9rhxtolls.gq
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -50,6 +52,7 @@
 0.0.0.0 altpool.pro
 0.0.0.0 amlt.coinfirm.io
 0.0.0.0 amsterdam01.minemonero.pro
+0.0.0.0 analytics.blue
 0.0.0.0 andrew.nullrefexcep.com
 0.0.0.0 androidapk.world
 0.0.0.0 angstrom.genesis-mining.com
@@ -201,6 +204,7 @@
 0.0.0.0 bcn.miner.center
 0.0.0.0 bcn.mypool.online
 0.0.0.0 bcn.pool.minergate.com
+0.0.0.0 befirstcdn.com
 0.0.0.0 bella.suprnova.cc
 0.0.0.0 bestETNpool.com
 0.0.0.0 bet.webcoin.us
@@ -323,6 +327,7 @@
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdnfile.xyz
 0.0.0.0 cemsenik.qp.si
+0.0.0.0 chainblock.science
 0.0.0.0 changelly.com
 0.0.0.0 charlie.noblock.pro
 0.0.0.0 chat.minergate.com
@@ -941,6 +946,7 @@
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
 0.0.0.0 jqcdn2.herokuapp.com
+0.0.0.0 jquery-uim.download
 0.0.0.0 jquerystatistics.org
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js.coinhive.com
@@ -1206,6 +1212,7 @@
 0.0.0.0 monkeyminer.net
 0.0.0.0 moonbit.co.in
 0.0.0.0 moriaxmr.com
+0.0.0.0 morningdigit.com
 0.0.0.0 moscow05.electroneum.hashvault.pro
 0.0.0.0 mqnvhg6lht7lc3nc.onion
 0.0.0.0 mro.extremeool.org
@@ -1443,6 +1450,7 @@
 0.0.0.0 preprod.changelly.com
 0.0.0.0 preprod.hitbtc.com
 0.0.0.0 preview.supportxmr.com
+0.0.0.0 pricefbcf.gq
 0.0.0.0 pritunl-enterprise.eu-west.cryptopay.me
 0.0.0.0 pritunl-gps.eu-west.cryptopay.me
 0.0.0.0 pritunl.eu-west.cryptopay.me
@@ -1750,6 +1758,7 @@
 0.0.0.0 sys.poolto.be
 0.0.0.0 taiga.getmonero.org
 0.0.0.0 talk.multiminerapp.com
+0.0.0.0 tazm9p7tso.trade
 0.0.0.0 temp.poloniex.com
 0.0.0.0 templates.qp.si
 0.0.0.0 teracycle.net
@@ -1908,6 +1917,7 @@
 0.0.0.0 web.minr.pw
 0.0.0.0 web.rocks.io
 0.0.0.0 web04.bitcoin.com
+0.0.0.0 webassembly.stream
 0.0.0.0 webcoin.me
 0.0.0.0 webcoin.us
 0.0.0.0 webdisk.hashcoin.io
@@ -1920,6 +1930,7 @@
 0.0.0.0 webmine.cz
 0.0.0.0 webminer.minergate.com
 0.0.0.0 webminerpool.com
+0.0.0.0 webmining.co
 0.0.0.0 websocket.btcchina.com
 0.0.0.0 whchsvlxch.site
 0.0.0.0 widgets.cointrend.club

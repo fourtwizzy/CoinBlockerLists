@@ -1,7 +1,6 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 12 01 2018 00:49
+# Last modified: 14 01 2018 19:32
 # [CoinBlocker hosts List browser by ZeroDot1]
-0.0.0 0 goredirect.party
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.me
 0.0.0.0 2giga.link
@@ -15,6 +14,8 @@
 0.0.0.0 3c0cb3b4.space
 0.0.0.0 3d0cb547.space
 0.0.0.0 50bots.nullrefexcep.com
+0.0.0.0 64uq73u7ug.webcam
+0.0.0.0 6ow9rhxtolls.gq
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
 0.0.0.0 abc.pema.cl
@@ -24,6 +25,7 @@
 0.0.0.0 aeon.hashvault.pro
 0.0.0.0 afminer.com
 0.0.0.0 ait7ee.win
+0.0.0.0 analytics.blue
 0.0.0.0 andrew.nullrefexcep.com
 0.0.0.0 androidapk.world
 0.0.0.0 anime.reactor.cc
@@ -61,6 +63,7 @@
 0.0.0.0 b.proxy4.nullrefexcep.com
 0.0.0.0 back4.2giga.link
 0.0.0.0 baiduccdn1.com
+0.0.0.0 befirstcdn.com
 0.0.0.0 beta.coinrail.io
 0.0.0.0 biberukalap.com
 0.0.0.0 bitcoiner.win
@@ -84,6 +87,7 @@
 0.0.0.0 cdn.rove.cl
 0.0.0.0 cdn.static-cnt.bid
 0.0.0.0 cdnfile.xyz
+0.0.0.0 chainblock.science
 0.0.0.0 charlie.noblock.pro
 0.0.0.0 chicago01.electroneum.hashvault.pro
 0.0.0.0 cliggi.download
@@ -158,6 +162,7 @@
 0.0.0.0 goldnova.crypto.csgocpu.com
 0.0.0.0 goodolddownloads.com
 0.0.0.0 google.gus.host
+0.0.0.0 goredirect.party
 0.0.0.0 grafana.xmrpool.net
 0.0.0.0 gridiogrid.com
 0.0.0.0 gulf.moneroocean.stream
@@ -181,6 +186,7 @@
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
 0.0.0.0 jqcdn2.herokuapp.com
+0.0.0.0 jquery-uim.download
 0.0.0.0 jroqvbvw.info
 0.0.0.0 js.coinhive.com
 0.0.0.0 jsccnn.com
@@ -235,6 +241,7 @@
 0.0.0.0 monerominer.rocks
 0.0.0.0 moneroocean.stream
 0.0.0.0 monkeyminer.net
+0.0.0.0 morningdigit.com
 0.0.0.0 moscow05.electroneum.hashvault.pro
 0.0.0.0 mwnodes.viaxmr.com
 0.0.0.0 mxcdn1.now.sh
@@ -282,6 +289,7 @@
 0.0.0.0 pool2.coinimp.com
 0.0.0.0 ppoi.org
 0.0.0.0 pr0gramm.com
+0.0.0.0 pricefbcf.gq
 0.0.0.0 projectpoi.com
 0.0.0.0 proxy-khlizawelj.now.sh
 0.0.0.0 proxy.nullrefexcep.com
@@ -342,6 +350,7 @@
 0.0.0.0 sxcdn5.herokuapp.com
 0.0.0.0 sxcdn6.now.sh
 0.0.0.0 sydney01.monero.hashvault.pro
+0.0.0.0 tazm9p7tso.trade
 0.0.0.0 test.cryptonoter.com
 0.0.0.0 test.minr.pw
 0.0.0.0 testnet-api.xmrpool.net
@@ -350,6 +359,7 @@
 0.0.0.0 ullnot.download
 0.0.0.0 us-stratum.viaxmr.com
 0.0.0.0 us.moneroocean.stream
+0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vegas-1.xmrpool.net
 0.0.0.0 viaxmr.com
 0.0.0.0 vid.pr0gramm.com
@@ -362,9 +372,11 @@
 0.0.0.0 web.dle-news.pw
 0.0.0.0 web.minr.pw
 0.0.0.0 web.rocks.io
+0.0.0.0 webassembly.stream
 0.0.0.0 webmail.coinpot.co
 0.0.0.0 webmine.cz
 0.0.0.0 webminerpool.com
+0.0.0.0 webmining.co
 0.0.0.0 whchsvlxch.site
 0.0.0.0 wijzeman.sbhmn-miner.com
 0.0.0.0 witkom.sbhmn-miner.com
