@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 14 01 2018 19:32
+# Last modified: 14 01 2018 21:34
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
 0.0.0.0 1beb2a44.space
@@ -2458,7 +2458,6 @@
 0.0.0.0 xmr-eu.suprnova.cc
 0.0.0.0 xmr-eu1.nanopool.org
 0.0.0.0 xmr-eu2.nanopool.org
-0.0.0.0 xmr-eu2.nanopool.org.
 0.0.0.0 xmr-eul.nanopool.org
 0.0.0.0 xmr-tw.org
 0.0.0.0 xmr-us-east1.nanopool.org

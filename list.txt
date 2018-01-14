@@ -2454,7 +2454,6 @@ xmr-eu.secumine.net
 xmr-eu.suprnova.cc
 xmr-eu1.nanopool.org
 xmr-eu2.nanopool.org
-xmr-eu2.nanopool.org.
 xmr-eul.nanopool.org
 xmr-tw.org
 xmr-us-east1.nanopool.org
