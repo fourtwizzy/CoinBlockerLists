@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 14 01 2018 21:34
+# Last modified: 16 01 2018 15:19
 # [CoinBlocker hosts List by ZeroDot1]
 0.0.0.0 115776615-884492032168661957.preview.editmysite.com
 0.0.0.0 1beb2a44.space
@@ -19,6 +19,7 @@
 0.0.0.0 50bots.nullrefexcep.com
 0.0.0.0 64uq73u7ug.webcam
 0.0.0.0 6ow9rhxtolls.gq
+0.0.0.0 Internetresearch.is
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
 0.0.0.0 a37ubfu6nmjxzcff.onion
@@ -515,6 +516,7 @@
 0.0.0.0 dgbq.suprnova.cc
 0.0.0.0 dgbs.suprnova.cc
 0.0.0.0 dgbsha.poolto.be
+0.0.0.0 dgnfd564sdf.com
 0.0.0.0 di.ckpool.org
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 digibyte-groestl.miningpoolhub.com
@@ -1012,6 +1014,7 @@
 0.0.0.0 load.jsecoin.com
 0.0.0.0 local.ckpool.org
 0.0.0.0 localhost.miningspeed.com
+0.0.0.0 lochjol.com
 0.0.0.0 login.bitcoin.cz
 0.0.0.0 login.coinbase.com
 0.0.0.0 logs.z.cash
