@@ -1,6 +1,7 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 14 01 2018 19:32
+# Last modified: 18 01 2018 16:30
 # [CoinBlocker hosts List browser by ZeroDot1]
+0.0.0.0 0aqpqdju.me
 0.0.0.0 1beb2a44.space
 0.0.0.0 1q2w3.me
 0.0.0.0 2giga.link
@@ -14,13 +15,17 @@
 0.0.0.0 3c0cb3b4.space
 0.0.0.0 3d0cb547.space
 0.0.0.0 50bots.nullrefexcep.com
+0.0.0.0 5vz3cfs0yd.me
 0.0.0.0 64uq73u7ug.webcam
 0.0.0.0 6ow9rhxtolls.gq
+0.0.0.0 6tsbe1zs.me
+0.0.0.0 8jd2lfsq.me
 0.0.0.0 a.proxy4.nullrefexcep.com
 0.0.0.0 a.proxy5.nullrefexcep.com
 0.0.0.0 abc.pema.cl
 0.0.0.0 ad-miner.com
 0.0.0.0 ad.g-content.bid
+0.0.0.0 adbtc.top
 0.0.0.0 adminer.com
 0.0.0.0 aeon.hashvault.pro
 0.0.0.0 afminer.com
@@ -53,12 +58,14 @@
 0.0.0.0 api.viaxmr.com
 0.0.0.0 api.xmrpool.net
 0.0.0.0 app.pr0gramm.com
+0.0.0.0 aqqgli3vle.bid
 0.0.0.0 aservices.party
 0.0.0.0 atlanta01.monero.hashvault.pro
 0.0.0.0 auroramine.com
 0.0.0.0 authedmine.com
 0.0.0.0 authedwebmine.cz
 0.0.0.0 avatar.pr0gramm.com
+0.0.0.0 avualrhg9p.bid
 0.0.0.0 azvjudwr.info
 0.0.0.0 b.proxy4.nullrefexcep.com
 0.0.0.0 back4.2giga.link
@@ -67,11 +74,13 @@
 0.0.0.0 beta.coinrail.io
 0.0.0.0 biberukalap.com
 0.0.0.0 bitcoiner.win
+0.0.0.0 bizoninvest.com
 0.0.0.0 bjorksta.men
 0.0.0.0 blox.minexmr.com
 0.0.0.0 bmnr.pw
 0.0.0.0 brominer.com
 0.0.0.0 browsermine.com
+0.0.0.0 c0i8h8ac7e.bid
 0.0.0.0 c7e935.netlify.com
 0.0.0.0 ca.minexmr.com
 0.0.0.0 capitain.noblock.pro
@@ -127,6 +136,7 @@
 0.0.0.0 csgocpu.com
 0.0.0.0 ctrb.jscdndel.com
 0.0.0.0 d1e1rbybdt265x.cloudfront.net
+0.0.0.0 d3ahinqqx1dy5v.cloudfront.net
 0.0.0.0 d3iz6lralvg77g.cloudfront.net
 0.0.0.0 db.xmrpool.net
 0.0.0.0 de.cookiescript.info
@@ -137,6 +147,7 @@
 0.0.0.0 digger.cryptobara.com
 0.0.0.0 dmdamedia.hu
 0.0.0.0 dmg.crypto.csgocpu.com
+0.0.0.0 do69ifsly4.me
 0.0.0.0 edgeno.de
 0.0.0.0 eeme7j.win
 0.0.0.0 electroneum.hashvault.pro
@@ -148,6 +159,7 @@
 0.0.0.0 etn.spacepools.org
 0.0.0.0 eu.hatevery.info
 0.0.0.0 fbtc-uab.freebitco.in
+0.0.0.0 fge9vbrzwt.bid
 0.0.0.0 fr.cookiescript.info
 0.0.0.0 frankfurt-1.xmrpool.net
 0.0.0.0 frankfurt01.monero.hashvault.pro
@@ -171,17 +183,21 @@
 0.0.0.0 hans.pr0gramm.com
 0.0.0.0 hashforcash.us
 0.0.0.0 hashing.win
+0.0.0.0 hashto.cash
 0.0.0.0 hashvault.pro
 0.0.0.0 hatevery.info
 0.0.0.0 hit.gemius.pl
 0.0.0.0 host.d-ns.ga
 0.0.0.0 huiwiw.hit.gemius.pl
 0.0.0.0 hurensohn.pr0gramm.com
+0.0.0.0 hzsod71wov.me
+0.0.0.0 iisl7wpf.me
 0.0.0.0 img.pr0gramm.com
 0.0.0.0 infamylists.com
 0.0.0.0 intense.hashvault.pro
 0.0.0.0 it.cookiescript.info
 0.0.0.0 jasmine.noblock.pro
+0.0.0.0 jhondi33.duckdns.org
 0.0.0.0 joyreactor.cc
 0.0.0.0 jqcdn01.herokuapp.com
 0.0.0.0 jqcdn03.herokuapp.com
@@ -194,6 +210,7 @@
 0.0.0.0 jsecoin.com
 0.0.0.0 jyhfuqoh.info
 0.0.0.0 kdowqlpt.info
+0.0.0.0 kho3au7l4z.me
 0.0.0.0 kissdoujin.com
 0.0.0.0 kisshentai.net
 0.0.0.0 kiwifarms.net
@@ -224,6 +241,7 @@
 0.0.0.0 minemytraffic.com
 0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minerclaim.net
 0.0.0.0 minero-proxy-01.now.sh
 0.0.0.0 minero-proxy-02.now.sh
 0.0.0.0 minero-proxy-03.now.sh
@@ -257,7 +275,9 @@
 0.0.0.0 nodes.viaxmr.com
 0.0.0.0 novaminers.tk
 0.0.0.0 npcdn1.now.sh
+0.0.0.0 npdaqy6x1j.me
 0.0.0.0 nullrefexcep.com
+0.0.0.0 ny7f6goy.bid
 0.0.0.0 ocean.cryptoloot.pro
 0.0.0.0 oload.info
 0.0.0.0 openkatalog.com
@@ -301,6 +321,7 @@
 0.0.0.0 proxy9.nullrefexcep.com
 0.0.0.0 px1.papoto.com
 0.0.0.0 px2.papoto.com
+0.0.0.0 r8nu86wg.me
 0.0.0.0 reasedoper.pw
 0.0.0.0 rocks.io
 0.0.0.0 ron.si
@@ -355,14 +376,19 @@
 0.0.0.0 test.minr.pw
 0.0.0.0 testnet-api.xmrpool.net
 0.0.0.0 thumb.pr0gramm.com
+0.0.0.0 todogecoin.biz
 0.0.0.0 tracking.freebitco.in
+0.0.0.0 uebawtz7.me
 0.0.0.0 ullnot.download
 0.0.0.0 us-stratum.viaxmr.com
 0.0.0.0 us.moneroocean.stream
 0.0.0.0 vcfs6ip5h6.bid
 0.0.0.0 vegas-1.xmrpool.net
+0.0.0.0 vg02h8z1ul.me
 0.0.0.0 viaxmr.com
 0.0.0.0 vid.pr0gramm.com
+0.0.0.0 vjcyehtqm9.me
+0.0.0.0 vl8c4g7tmo.me
 0.0.0.0 vxelkrhl.info
 0.0.0.0 w13.coinhive.com
 0.0.0.0 wc3-soft.sbhmn-miner.com
@@ -375,6 +401,8 @@
 0.0.0.0 webassembly.stream
 0.0.0.0 webmail.coinpot.co
 0.0.0.0 webmine.cz
+0.0.0.0 webminepool.com
+0.0.0.0 webminepool.tk
 0.0.0.0 webminerpool.com
 0.0.0.0 webmining.co
 0.0.0.0 whchsvlxch.site
@@ -638,6 +666,7 @@
 0.0.0.0 ws9.3d0cb547.space
 0.0.0.0 ws9.coin-have.com
 0.0.0.0 wsnew.freebitco.in
+0.0.0.0 wsp.marketgid.com
 0.0.0.0 wty46.com
 0.0.0.0 ww.pr0gramm.com
 0.0.0.0 ww8.adminer.com
@@ -700,6 +729,7 @@
 0.0.0.0 www7.2giga.link
 0.0.0.0 x.browsermine.com
 0.0.0.0 xbasfbno.info
+0.0.0.0 xgmc6lu8fs.me
 0.0.0.0 xmr.coinlab.biz
 0.0.0.0 xmr.crypto-pool.fr
 0.0.0.0 xmr1.crypto-pool.fr
@@ -714,3 +744,5 @@
 0.0.0.0 xmrpool.net
 0.0.0.0 xy.nullrefexcep.com
 0.0.0.0 youporn.sexy
+0.0.0.0 zgdfz6h7po.me
+0.0.0.0 zxc1-ustokyyneikyfasnm.stackpathdns.com
