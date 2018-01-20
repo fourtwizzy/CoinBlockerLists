@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 14 01 2018 19:32
+# Last modified: 20 01 2018 16:44
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -37,7 +37,9 @@
 0.0.0.0 antminer-store.com
 0.0.0.0 api.binance.com
 0.0.0.0 api.inwemo.com
+0.0.0.0 api.jaxx.io
 0.0.0.0 api.mymonero.com
+0.0.0.0 api2.jaxx.io
 0.0.0.0 app0.a-ads.com
 0.0.0.0 apps.cointraffic.io
 0.0.0.0 apps2.cointraffic.io
@@ -54,6 +56,7 @@
 0.0.0.0 bitcore3.trezor.io
 0.0.0.0 blocked.mymonero.com
 0.0.0.0 blog.a-ads.com
+0.0.0.0 blog.jaxx.io
 0.0.0.0 blog.trezor.io
 0.0.0.0 btc-bitcore1.trezor.io
 0.0.0.0 btc-bitcore3.trezor.io
@@ -116,6 +119,7 @@
 0.0.0.0 imperiumminer.com
 0.0.0.0 in.cur.lv
 0.0.0.0 inwemo.com
+0.0.0.0 jaxx.io
 0.0.0.0 joinslack.binance.com
 0.0.0.0 jump.cur.lv
 0.0.0.0 jwallet.network
@@ -146,6 +150,7 @@
 0.0.0.0 miningfarmasics.com
 0.0.0.0 mm.a-ads.com
 0.0.0.0 monero-miner.000webhostapp.com
+0.0.0.0 multipoolminer.io
 0.0.0.0 mx.peerhash.com
 0.0.0.0 my.cur.lv
 0.0.0.0 myetherwallet.com
@@ -165,6 +170,7 @@
 0.0.0.0 pools2.cryptopia.co.nz
 0.0.0.0 pop3.awesomeminer.com
 0.0.0.0 preorder.trezor.io
+0.0.0.0 pricing.jaxx.io
 0.0.0.0 redmine.emercoin.com
 0.0.0.0 resource.binance.com
 0.0.0.0 resource2.binance.com
@@ -194,6 +200,7 @@
 0.0.0.0 upload.a-ads.com
 0.0.0.0 upload.coinad.com
 0.0.0.0 us.binance.com
+0.0.0.0 utils.jaxx.io
 0.0.0.0 wallet.trezor.io
 0.0.0.0 webdisk.antminer-store.com
 0.0.0.0 webdisk.uclick.in
@@ -229,6 +236,7 @@
 0.0.0.0 www.hashcoins.ru
 0.0.0.0 www.imperiumminer.com
 0.0.0.0 www.inwemo.com
+0.0.0.0 www.jaxx.io
 0.0.0.0 www.mellowads.com
 0.0.0.0 www.mineshop.eu
 0.0.0.0 www.mining-rig.de

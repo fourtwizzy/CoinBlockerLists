@@ -34,7 +34,9 @@ alpha.myetherwallet.com
 antminer-store.com
 api.binance.com
 api.inwemo.com
+api.jaxx.io
 api.mymonero.com
+api2.jaxx.io
 app0.a-ads.com
 apps.cointraffic.io
 apps2.cointraffic.io
@@ -51,6 +53,7 @@ bitcore1.trezor.io
 bitcore3.trezor.io
 blocked.mymonero.com
 blog.a-ads.com
+blog.jaxx.io
 blog.trezor.io
 btc-bitcore1.trezor.io
 btc-bitcore3.trezor.io
@@ -113,6 +116,7 @@ i2p.emercoin.com
 imperiumminer.com
 in.cur.lv
 inwemo.com
+jaxx.io
 joinslack.binance.com
 jump.cur.lv
 jwallet.network
@@ -143,6 +147,7 @@ mining-rig.de
 miningfarmasics.com
 mm.a-ads.com
 monero-miner.000webhostapp.com
+multipoolminer.io
 mx.peerhash.com
 my.cur.lv
 myetherwallet.com
@@ -162,6 +167,7 @@ pools1.cryptopia.co.nz
 pools2.cryptopia.co.nz
 pop3.awesomeminer.com
 preorder.trezor.io
+pricing.jaxx.io
 redmine.emercoin.com
 resource.binance.com
 resource2.binance.com
@@ -191,6 +197,7 @@ upcoin.com
 upload.a-ads.com
 upload.coinad.com
 us.binance.com
+utils.jaxx.io
 wallet.trezor.io
 webdisk.antminer-store.com
 webdisk.uclick.in
@@ -226,6 +233,7 @@ www.hashcoins.ee
 www.hashcoins.ru
 www.imperiumminer.com
 www.inwemo.com
+www.jaxx.io
 www.mellowads.com
 www.mineshop.eu
 www.mining-rig.de
