@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 20 01 2018 16:44
+# Last modified: 24 01 2018 14:24
 # [CoinBlocker hosts List browser by ZeroDot1]
 0.0.0.0 0aqpqdju.me
 0.0.0.0 1beb2a44.space
@@ -27,6 +27,7 @@
 0.0.0.0 ad-miner.com
 0.0.0.0 ad.g-content.bid
 0.0.0.0 adbtc.top
+0.0.0.0 adless.io
 0.0.0.0 adminer.com
 0.0.0.0 aeon.hashvault.pro
 0.0.0.0 afminer.com
@@ -181,6 +182,7 @@
 0.0.0.0 eu.hatevery.info
 0.0.0.0 fbtc-uab.freebitco.in
 0.0.0.0 fge9vbrzwt.bid
+0.0.0.0 flare-analytics.com
 0.0.0.0 fr.cookiescript.info
 0.0.0.0 frankfurt-1.xmrpool.net
 0.0.0.0 frankfurt01.monero.hashvault.pro
@@ -293,6 +295,7 @@
 0.0.0.0 mxcdn1.now.sh
 0.0.0.0 mxcdn2.now.sh
 0.0.0.0 my-retrospace.sbhmn-miner.com
+0.0.0.0 myadstats.com
 0.0.0.0 myfhology.sbhmn-miner.com
 0.0.0.0 new.minr.pw
 0.0.0.0 newark01.monero.hashvault.pro
