@@ -1,5 +1,5 @@
 # Description: This list disables browser based miners such as coin-hive
-# Last modified: 20 01 2018 16:44
+# Last modified: 24 01 2018 16:00
 # [CoinBlocker hosts List optional by ZeroDot1]
 0.0.0.0 1safe.link
 0.0.0.0 803mine.com
@@ -251,4 +251,3 @@
 0.0.0.0 www1.a-ads.com
 0.0.0.0 www3.a-ads.com
 0.0.0.0 zec-bitcore1.trezor.io
-www.cointraffic.io
